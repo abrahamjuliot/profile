@@ -1,5 +1,4 @@
-export default
-[
+export default [
     {
       "name": "Macon Abernathy",
       "img": "https://picsum.photos/300",

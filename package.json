@@ -2,9 +2,13 @@
   "name": "profile",
   "version": "1.0.0",
   "description": "profile card collection",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify:babelify": "browserify js/app.js -t babelify --outfile dist/app.js",
+    "uglifyjs": "uglifyjs dist/app.js -m -c -o dist/app.min.js",
+    "build:js": "npm run browserify:babelify && npm run uglifyjs",
+    "build": "npm run build:js"
   },
   "repository": {
     "type": "git",
@@ -21,11 +25,6 @@
     "babel-preset-env": "^1.7.0",
     "babelify": "^10.0.0",
     "browserify": "^16.2.3",
-    "clean-css": "^4.2.1",
-    "clean-css-cli": "^4.2.1",
-    "nodemon": "^1.18.5",
-    "onchange": "^5.0.2",
-    "stylus": "^0.54.5",
     "uglify-js": "^3.4.9"
   }
 }
