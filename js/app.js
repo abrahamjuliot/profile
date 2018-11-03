@@ -1,4 +1,5 @@
 import data from './data.js'
+import css from './css.js'
 
 // tagged template literal (JSX alternative)
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
@@ -44,6 +45,7 @@ const Program = choose(track)
 // app
 ready(() => {
 	patch(document.getElementById('block-ucr-default-page-title'), html`
+		${css}
 		<section class='grads'>
 			${repeat(data, (item) => `
 				<div class='grad-card'>

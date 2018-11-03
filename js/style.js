@@ -1,4 +1,4 @@
-const css = /*css*/`
+export default /*css*/`
 <style>
 .grads {
 	display: flex;
