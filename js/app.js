@@ -66,7 +66,7 @@ const xhr = () => {
 const http = xhr()
 
 // app
-const url = 'https://api.myjson.com/bins/7ndm2'
+const url = 'https://cdn.jsdelivr.net/gh/abrahamjuliot/profile/data/students.json'
 
 // /sites/g/files/rcwecm1171/files/...jpg
 
