@@ -1,11 +1,15 @@
 (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 'use strict';
 
-var _templateObject = _taggedTemplateLiteral(['\n\t\t<section class=\'grads\'>\n\t\t\t', '\n\t\t</section>\n\t'], ['\n\t\t<section class=\'grads\'>\n\t\t\t', '\n\t\t</section>\n\t']);
+var _templateObject = _taggedTemplateLiteral(['\n\t\t', '\n\t\t<section class=\'grads\'>\n\t\t\t', '\n\t\t</section>\n\t'], ['\n\t\t', '\n\t\t<section class=\'grads\'>\n\t\t\t', '\n\t\t</section>\n\t']);
 
 var _data = require('./data.js');
 
 var _data2 = _interopRequireDefault(_data);
+
+var _css = require('./css.js');
+
+var _css2 = _interopRequireDefault(_css);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -88,12 +92,20 @@ var Program = choose(track);
 
 // app
 ready(function () {
-	patch(document.getElementById('block-ucr-default-page-title'), html(_templateObject, repeat(_data2.default, function (item) {
+	patch(document.getElementById('block-ucr-default-page-title'), html(_templateObject, _css2.default, repeat(_data2.default, function (item) {
 		return '\n\t\t\t\t<div class=\'grad-card\'>\n\t\t\t\t\t<div class=\'grad-header\'>\n\t\t\t\t\t\t' + when(item.img, '<div class=\'grad-img\'><span ' + styleImg(item) + '></span></div>') + '\n\t\t\t\t\t\t<div class=\'grad-intro\'>\n\t\t\t\t\t\t\t<div class=\'grad-name\'>' + item.name + '</div>\n\t\t\t\t\t\t\t' + when(item.program, '<div class=\'grad-program\'>' + Program(item.program) + '</div>') + '\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\'grad-section\'>\n\t\t\t\t\t\t' + when(item.research, '<div class=\'grad-research\'>' + item.research + '</div>') + '\n\t\t\t\t\t\t' + when(item.email, '<div class=\'grad-email\'>\n\t\t\t\t\t\t\t<a href=\'mailto:' + item.email + '\'>' + item.email + '</a>\n\t\t\t\t\t\t</div>') + '\n\t\t\t\t\t\t' + when(item.websiteURL, '<div class=\'grad-website\'>\n\t\t\t\t\t\t\t<a href=\'' + item.websiteURL + '\' target=\'_blank\'>' + siteName(item.websiteURL) + '</a>\n\t\t\t\t\t\t</div>') + '\n\t\t\t\t\t\t' + when(item.faculty, '<div class=\'grad-faculty\'>Advisor: \n\t\t\t\t\t\t\t<a href=\'https://profiles.ucr.edu/' + item.facultySite + '\' target=\'_blank\'>' + item.faculty + '</a>\n\t\t\t\t\t\t</div>') + '\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t';
 	})));
 });
 
-},{"./data.js":2}],2:[function(require,module,exports){
+},{"./css.js":2,"./data.js":3}],2:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+	value: true
+});
+exports.default = /*css*/"\n<style>\n.grads {\n\tdisplay: flex;\n\tflex-direction: column;\n\tflex-wrap: nowrap;\n\tmargin: 0 auto;\n\tjustify-content: space-between;\n}\n\n.grad-card {\n\tdisplay: flex;\n\tflex-direction: column;\n\tflex-wrap: nowrap;\n\twidth: 100%;\n\tmargin: 0 0 1.5rem;\n\tpadding: 24px;\n    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);\n}\n.grad-header {\n\tdisplay: flex;\n\tflex-direction: row;\n\tflex-wrap: nowrap;\n\talign-items: top;\n\tmargin-bottom: 15px;\n}\n.grad-intro {\n\tmargin-left: 4%;\n}\n.grad-section {\n\tdisplay: flex;\n\tflex-direction: column;\n}\n\n\n.grad-img {\n\tpadding: 10px 5px;\n}\n.grad-img span {\n\tdisplay: block;\n\twidth: 100px; /*max-*/\n    height: 100px; /*auto*/\n    border-radius: 50%;\n\t\n}\n.grad-name {\n\tdisplay: flex;\n\tfont-size: 1.3rem;\n    color: #2198d9;\n    line-height: 1.4;\n}\n\n.grad-program {\n\tdisplay: flex;\n\tfont-style: italic;\n\tfont-weight: bold;\n\tcolor: #8a8a8a;\n\tfont-size: .9rem;\n}\n.grad-email,\n.grad-website,\n.grad-research,\n.grad-faculty {\n\tfont-size: .9rem;\n}\n\n.grad-research {\n  padding:  5px 10px;\n  margin: 0 auto 15px;\n  background: #f9f9f9;\n  border-radius: 5%;\n}\n\n.grad-faculty {\n\tborder-top: 1px solid #eee;\n\tpadding-top: 5px;\n\ttext-align: left;\n\tmargin: 15px 0 0;\n}\n\n\na[href*=\"@ucr.edu\"]:after {\n    display: inline-block;\n    font: normal normal normal 24px/1 \"Material Design Icons\";\n    font-size: inherit;\n    text-rendering: auto;\n    line-height: inherit;\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    content: \"\f1f0\";\n    padding-left: 4px;\n}\n\n\n@media (min-width: 40rem) {\n\t.grads {\n\t\tflex-direction: row;\n\t\tflex-wrap: wrap;\n\t}\n\t.grad-card {\n\t\twidth: 47%;\n\t\tmargin: 0 1% 1.5rem;\n\t}\n}\n@media (min-width: 62rem) {\n\t.grads {\n\t\tflex-direction: row;\n\t\tflex-wrap: wrap;\n\t}\n\t.grad-card {\n\t\t\n\t\twidth: 31%;\n\t}\n}\n</style>\n";
+
+},{}],3:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
