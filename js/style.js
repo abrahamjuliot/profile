@@ -1,3 +1,5 @@
+const css = /*css*/`
+<style>
 .grads {
 	display: flex;
 	flex-direction: column;
@@ -110,3 +112,5 @@ a[href*="@ucr.edu"]:after {
 		width: 31%;
 	}
 }
+</style>
+`

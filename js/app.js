@@ -1,3 +1,5 @@
+import data from '../data.js'
+
 // tagged template literal (JSX alternative)
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
 const html = (stringSet,...expressionSet) => {
@@ -39,73 +41,43 @@ const track = selection => ({
 })
 const Program = choose(track)
 
-// http factory
-const xhr = () => {
-  const 
-    XHR = () => {
-      return new XMLHttpRequest()
-    },
-    onload = (req, fn, parse = true) => {
-      req.onload = () => {
-        if (req.status >= 200 && req.status < 400) {
-          let data = req.responseText
-          ;(parse) && (data = JSON.parse(data))
-          fn(data) // execute callback with data
-        }
-      }
-    }
-  return {
-    get (url, fn, parse) {
-      const req = XHR()
-      req.open('GET', url, true)
-      onload(req, fn, parse)
-      req.send()
-    }
-  }
-}
-const http = xhr()
-
 // app
-const url = 'https://cdn.jsdelivr.net/gh/abrahamjuliot/profile/data/students.json'
 
-// /sites/g/files/rcwecm1171/files/...jpg
-
-http.get(url, (data) => {
-	ready(() => {
-		patch(document.getElementById('block-ucr-default-page-title'), html`
-			<app class='grads'>
-				${repeat(data, (item) => `
-					<div class='grad-card'>
-						<div class='grad-header'>
-							${when(item.img,
-							`<div class='grad-img'><span ${styleImg(item)}></span></div>`)}
-							<div class='grad-intro'>
-								<div class='grad-name'>${item.name}</div>
-								${when(item.program,
-								`<div class='grad-program'>${Program(item.program)}</div>`)}
-							</div>
-						</div>
-						<div class='grad-section'>
-							${when(item.research,
-							`<div class='grad-research'>${item.research}</div>`)}
-							${when(item.email,
-							`<div class='grad-email'>
-								<a href='mailto:${item.email}'>${item.email}</a>
-							</div>`)}
-							${when(item.websiteURL,
-							`<div class='grad-website'>
-								<a href='${item.websiteURL}' target='_blank'>${siteName(item.websiteURL)}</a>
-							</div>`)}
-							${when(item.faculty,
-							`<div class='grad-faculty'>Advisor: 
-								<a href='https://profiles.ucr.edu/${item.facultySite}' target='_blank'>${item.faculty}</a>
-							</div>`)}
+ready(() => {
+	patch(document.getElementById('block-ucr-default-page-title'), html`
+		<section class='grads'>
+			${repeat(data, (item) => `
+				<div class='grad-card'>
+					<div class='grad-header'>
+						${when(item.img,
+						`<div class='grad-img'><span ${styleImg(item)}></span></div>`)}
+						<div class='grad-intro'>
+							<div class='grad-name'>${item.name}</div>
+							${when(item.program,
+							`<div class='grad-program'>${Program(item.program)}</div>`)}
 						</div>
 					</div>
-				`)}
-			</app>
-		`)
-	})
+					<div class='grad-section'>
+						${when(item.research,
+						`<div class='grad-research'>${item.research}</div>`)}
+						${when(item.email,
+						`<div class='grad-email'>
+							<a href='mailto:${item.email}'>${item.email}</a>
+						</div>`)}
+						${when(item.websiteURL,
+						`<div class='grad-website'>
+							<a href='${item.websiteURL}' target='_blank'>${siteName(item.websiteURL)}</a>
+						</div>`)}
+						${when(item.faculty,
+						`<div class='grad-faculty'>Advisor: 
+							<a href='https://profiles.ucr.edu/${item.facultySite}' target='_blank'>${item.faculty}</a>
+						</div>`)}
+					</div>
+				</div>
+			`)}
+		</section>
+	`)
 })
+
 
 
