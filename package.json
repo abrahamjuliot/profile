@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/abrahamjuliot/profile/issues"
   },
-  "homepage": "https://github.com/abrahamjuliot/profile#readme"
+  "homepage": "https://github.com/abrahamjuliot/profile#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "clean-css": "^4.2.1",
+    "clean-css-cli": "^4.2.1",
+    "nodemon": "^1.18.5",
+    "onchange": "^5.0.2",
+    "stylus": "^0.54.5",
+    "uglify-js": "^3.4.9"
+  }
 }
