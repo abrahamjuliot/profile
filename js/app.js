@@ -1,4 +1,4 @@
-// Tagged Template Literal (JSX alternative)
+// tagged template literal (JSX alternative)
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
 const html = (stringSet,...expressionSet) => {
   const template = document.createElement('template')
@@ -106,6 +106,6 @@ http.get(url, (data) => {
 			</app>
 		`)
 	})
-}, true)
+})
 
 
