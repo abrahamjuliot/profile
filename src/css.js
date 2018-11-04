@@ -17,6 +17,7 @@ export default /*css*/ `
 	padding: 24px;
     box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
 }
+
 .grad-header {
 	display: flex;
 	flex-direction: row;
@@ -24,18 +25,20 @@ export default /*css*/ `
 	align-items: top;
 	margin-bottom: 15px;
 }
+
 .grad-intro {
 	margin-left: 4%;
 }
+
 .grad-section {
 	display: flex;
 	flex-direction: column;
 }
 
-
 .grad-img {
 	padding: 10px 5px;
 }
+
 .grad-img span {
 	display: block;
 	width: 100px; /*max-*/
@@ -43,6 +46,7 @@ export default /*css*/ `
     border-radius: 50%;
 	
 }
+
 .grad-name {
 	display: flex;
 	font-size: 1.3rem;
@@ -57,6 +61,7 @@ export default /*css*/ `
 	color: #8a8a8a;
 	font-size: .9rem;
 }
+
 .grad-email,
 .grad-website,
 .grad-research,
@@ -102,13 +107,13 @@ a[href*="@ucr.edu"]:after {
 		margin: 0 1% 1.5rem;
 	}
 }
+
 @media (min-width: 62rem) {
 	.grads {
 		flex-direction: row;
 		flex-wrap: wrap;
 	}
 	.grad-card {
-		
 		width: 31%;
 	}
 }

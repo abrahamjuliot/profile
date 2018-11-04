@@ -1,8 +1,8 @@
-export default [
+[
     {
       "name": "Macon Abernathy",
       "img": "https://picsum.photos/300",
-      "email": "maber001@ucr.edu",
+      "email": "maber001@",
       "program": "ENTX",
       "faculty": "Jay Gan",
       "facultySite": "j.gan",
@@ -12,7 +12,7 @@ export default [
     {
       "name": "Macon Abernathy",
       "img": "https://picsum.photos/300",
-      "email": "maber001@ucr.edu",
+      "email": "maber001@",
       "program": "GEO",
       "faculty": "Hoori Ajami",
       "facultySite": "hoori.ajami",
@@ -22,7 +22,7 @@ export default [
     {
       "name": "Macon Abernathy",
       "img": "https://picsum.photos/300",
-      "email": "maber001@ucr.edu",
+      "email": "maber001@",
       "program": "ENSC",
       "faculty": "Samantha Ying",
       "facultySite": "samantha.ying",
