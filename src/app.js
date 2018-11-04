@@ -32,7 +32,7 @@ const xhr = () => {
 }
 
 const http = xhr()
-  
+
 // doc readyState
 const ready = (fn) => document.readyState != 'loading' ? fn(): 
 	document.addEventListener('DOMContentLoaded', fn);
@@ -40,8 +40,14 @@ const ready = (fn) => document.readyState != 'loading' ? fn():
 // json
 const url = 'https://abrahamjuliot.github.io/profile/data/ensc.json'
 
+// sort json
+const by = (getValue) => (a, b) => getValue(a) > getValue(b) ? 1 : -1
+const sortBy = (arr, val) => arr.sort(by(obj => obj[val]))
+
 // app: get json then when DOM is ready patch html template
-http.get(url, (data) => {
+http.get(url, (json) => {
+
+	const data = sortBy(json, 'lastName')
 	ready(() => {
 		patch(document.getElementById('block-ucr-default-page-title'),
 		html`${template(css, data)}`)
