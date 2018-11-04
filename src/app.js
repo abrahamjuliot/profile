@@ -2,11 +2,12 @@ import data from './data.js'
 import css from './css.js'
 
 // tagged template literal (JSX alternative)
+const removeTabsAndNewlines = (x) => x.replace(/[\t\n\r]/gm,'')
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
 const html = (stringSet,...expressionSet) => {
   const template = document.createElement('template')
   template.innerHTML = stringSet.map((str, i) => `${str}${expressionSet[i]||''}`).join('')
-  return template.content
+  return removeTabsAndNewlines(template.content)
 }
 
 // template iterator

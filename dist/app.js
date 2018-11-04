@@ -18,6 +18,9 @@ function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defi
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
 // tagged template literal (JSX alternative)
+var removeTabsAndNewlines = function removeTabsAndNewlines(x) {
+	return x.replace(/[\t\n\r]/gm, '');
+};
 var patch = function patch(oldEl, newEl) {
 	return oldEl.parentNode.replaceChild(newEl, oldEl);
 };
@@ -30,7 +33,7 @@ var html = function html(stringSet) {
 	template.innerHTML = stringSet.map(function (str, i) {
 		return '' + str + (expressionSet[i] || '');
 	}).join('');
-	return template.content;
+	return removeTabsAndNewlines(template.content);
 };
 
 // template iterator
