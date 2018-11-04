@@ -1,14 +1,15 @@
-.grads {
+.grads,
+.grad-card,
+.grad-section {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
+}
+.grads {
   margin: 0 auto;
   justify-content: space-between;
 }
 .grad-card {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
   width: 100%;
   margin: 0 0 1.5rem;
   padding: 24px;
@@ -24,17 +25,13 @@
 .grad-intro {
   margin-left: 4%;
 }
-.grad-section {
-  display: flex;
-  flex-direction: column;
-}
 .grad-img {
   padding: 10px 5px;
 }
 .grad-img span {
   display: block;
-  width: 100px; /*max-*/
-  height: 100px; /*auto*/
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
 }
 .grad-name {
@@ -48,8 +45,8 @@
   font-style: italic;
   font-weight: bold;
   color: #8a8a8a;
-  font-size: 0.9rem;
 }
+.grad-program,
 .grad-email,
 .grad-website,
 .grad-research,
