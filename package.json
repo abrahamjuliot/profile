@@ -4,13 +4,10 @@
   "description": "profile card collection",
   "main": "app.js",
   "scripts": {
-    "stylus": "stylus src/style.styl -o dist/style.css",
-    "cleancss": "cleancss -o dist/style.min.css dist/style.css",
-    "build:css": "npm run stylus && npm run cleancss",
     "browserify:babelify": "browserify src/app.js -t babelify --outfile dist/app.js",
     "uglifyjs": "uglifyjs dist/app.js -m -c -o dist/app.min.js",
     "build:js": "npm run browserify:babelify && npm run uglifyjs",
-    "build": "npm run build:css & npm run build:js "
+    "build": "npm run build:js "
   },
   "repository": {
     "type": "git",
@@ -27,9 +24,6 @@
     "babel-preset-es2015": "^6.24.1",
     "babelify": "^8.0.0",
     "browserify": "^16.2.3",
-    "clean-css": "^4.2.1",
-    "clean-css-cli": "^4.2.1",
-    "stylus": "^0.54.5",
     "uglify-js": "^3.4.9"
   },
   "devDependencies": {
