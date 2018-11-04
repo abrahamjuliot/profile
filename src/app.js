@@ -1,5 +1,5 @@
 import data from './data.js'
-import style from './css.js'
+import css from './css.js'
 
 // tagged template literal (JSX alternative)
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
