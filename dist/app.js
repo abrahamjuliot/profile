@@ -17,6 +17,8 @@ function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defi
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
+var css = _css2.default.replace(/(\r\n\t|\n|\r\t)/gm, "");
+
 // tagged template literal (JSX alternative)
 var patch = function patch(oldEl, newEl) {
 	return oldEl.parentNode.replaceChild(newEl, oldEl);
@@ -92,7 +94,7 @@ var Program = choose(track);
 
 // app
 ready(function () {
-	patch(document.getElementById('block-ucr-default-page-title'), html(_templateObject, _css2.default, repeat(_data2.default, function (item) {
+	patch(document.getElementById('block-ucr-default-page-title'), html(_templateObject, css, repeat(_data2.default, function (item) {
 		return '\n\t\t\t\t<div class=\'grad-card\'>\n\t\t\t\t\t<div class=\'grad-header\'>\n\t\t\t\t\t\t' + when(item.img, '<div class=\'grad-img\'><span ' + styleImg(item) + '></span></div>') + '\n\t\t\t\t\t\t<div class=\'grad-intro\'>\n\t\t\t\t\t\t\t<div class=\'grad-name\'>' + item.name + '</div>\n\t\t\t\t\t\t\t' + when(item.program, '<div class=\'grad-program\'>' + Program(item.program) + '</div>') + '\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\'grad-section\'>\n\t\t\t\t\t\t' + when(item.research, '<div class=\'grad-research\'>' + item.research + '</div>') + '\n\t\t\t\t\t\t' + when(item.email, '<div class=\'grad-email\'>\n\t\t\t\t\t\t\t<a href=\'mailto:' + item.email + '\'>' + item.email + '</a>\n\t\t\t\t\t\t</div>') + '\n\t\t\t\t\t\t' + when(item.websiteURL, '<div class=\'grad-website\'>\n\t\t\t\t\t\t\t<a href=\'' + item.websiteURL + '\' target=\'_blank\'>' + siteName(item.websiteURL) + '</a>\n\t\t\t\t\t\t</div>') + '\n\t\t\t\t\t\t' + when(item.faculty, '<div class=\'grad-faculty\'>Advisor: \n\t\t\t\t\t\t\t<a href=\'https://profiles.ucr.edu/' + item.facultySite + '\' target=\'_blank\'>' + item.faculty + '</a>\n\t\t\t\t\t\t</div>') + '\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t';
 	})));
 });

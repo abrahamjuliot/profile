@@ -1,5 +1,7 @@
 import data from './data.js'
-import css from './css.js'
+import style from './css.js'
+
+const css = style.replace(/(\r\n\t|\n|\r\t)/gm,"")
 
 // tagged template literal (JSX alternative)
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
