@@ -38,7 +38,7 @@ const ready = (fn) => document.readyState != 'loading' ? fn():
 	document.addEventListener('DOMContentLoaded', fn);
 
 // json
-const url = 'https://abrahamjuliot.github.io/gradstudents/ensc.json'
+const url = 'https://abrahamjuliot.github.io/profile/data/ensc.json'
 
 // app: get json then when DOM is ready patch html template
 http.get(url, (data) => {

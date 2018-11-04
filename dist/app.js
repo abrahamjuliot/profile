@@ -64,7 +64,7 @@ var ready = function ready(fn) {
 };
 
 // json
-var url = 'https://abrahamjuliot.github.io/gradstudents/ensc.json';
+var url = 'https://abrahamjuliot.github.io/profile/data/ensc.json';
 
 // app: get json then when DOM is ready patch html template
 http.get(url, function (data) {
