@@ -9,5 +9,6 @@ profile card collection
 
 - git clone https://github.com/abrahamjuliot/profile.git
 - npm run build
+- git config credential.helper store (then push)
 - git add . | git commit -m 'updated' | git push origin
 
