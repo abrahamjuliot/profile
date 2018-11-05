@@ -15,20 +15,20 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
-function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }
-
 // ie11 fix for template.content
-var getFragment = function getFragment(template) {
-	var frag = document.createDocumentFragment();
-	var children = [].concat(_toConsumableArray(template.childNodes));
-	children.forEach(function (el) {
-		frag.appendChild(children[el].cloneNode(true));
-	});
-	return frag;
-};
-var templateContent = function templateContent(template) {
-	return 'content' in document.createElement('template') ? document.importNode(template.content, true) : getFragment(template);
-};
+function templateContent(template) {
+	// template {display: none !important} /* add css if template is in dom */
+	if ('content' in document.createElement('template')) {
+		return document.importNode(template.content, true);
+	} else {
+		var frag = document.createDocumentFragment();
+		var children = template.childNodes;
+		for (var i = 0, len = children.length; i < len; i++) {
+			frag.appendChild(children[i].cloneNode(true));
+		}
+		return frag;
+	}
+}
 
 // tagged template literal (JSX alternative)
 var patch = function patch(oldEl, newEl) {

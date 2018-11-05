@@ -2,16 +2,18 @@ import css from './css.js'
 import template from './template.js'
 
 // ie11 fix for template.content
-const getFragment = template => {
-	const frag = document.createDocumentFragment()
-    const children = [...template.childNodes]
-    children.forEach((el) => { frag.appendChild(children[el].cloneNode(true)) })
-  	return frag
-}
-const templateContent = template => {
-    return 'content' in document.createElement('template') ?
-    	document.importNode(template.content, true) :
-		getFragment(template)
+function templateContent(template) {
+	// template {display: none !important} /* add css if template is in dom */
+    if ('content' in document.createElement('template')) {
+        return document.importNode(template.content, true)
+    } else {
+        const frag = document.createDocumentFragment()
+        const children = template.childNodes
+        for (let i = 0, len = children.length; i < len; i++) {
+            frag.appendChild(children[i].cloneNode(true))
+        }
+        return frag
+    }
 }
 
 // tagged template literal (JSX alternative)
