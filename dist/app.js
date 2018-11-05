@@ -24,7 +24,7 @@ var html = function html(stringSet) {
 		expressionSet[_key - 1] = arguments[_key];
 	}
 
-	var template = document.createElement('template');
+	var template = document.createElement('div');
 	template.innerHTML = stringSet.map(function (str, i) {
 		return '' + str + (expressionSet[i] || '');
 	}).join('');

@@ -4,7 +4,7 @@ import template from './template.js'
 // tagged template literal (JSX alternative)
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
 const html = (stringSet,...expressionSet) => {
-	const template = document.createElement('template')
+	const template = document.createElement('div')
 	template.innerHTML = stringSet.map((str, i) => `${str}${expressionSet[i]||''}`).join('')
 	return template.content
 }
