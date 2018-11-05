@@ -33,6 +33,7 @@ export default /*css*/`
 .grad-section {
 	display: flex;
 	flex-direction: column;
+	flex-grow: 1;
 }
 
 .grad-img {
@@ -76,6 +77,9 @@ export default /*css*/`
   border-radius: 5%;
 }
 
+.grad-email {
+	margin-top: auto;
+}
 .grad-faculty {
 	border-top: 1px solid #eee;
 	padding-top: 5px;
