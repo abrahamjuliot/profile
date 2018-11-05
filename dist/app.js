@@ -83,7 +83,7 @@ http.get(url, function (json) {
 
 	var data = sortBy(json, 'name');
 	ready(function () {
-		patch(document.getElementById('block-ucr-default-page-title'), html(_templateObject, (0, _template2.default)(_css2.default, data)));
+		patch(document.getElementById('gradstudents'), html(_templateObject, (0, _template2.default)(_css2.default, data)));
 	});
 });
 
