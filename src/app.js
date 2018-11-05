@@ -1,18 +1,17 @@
 import css from './css.js'
 import template from './template.js'
 
-
-function templateContent(template) {
-    if("content" in document.createElement("template")) {
-        return document.importNode(template.content, true);
-    } else {
-        var fragment = document.createDocumentFragment();
-        var children = template.childNodes;
-        for (let i = 0; i < children.length; i++) {
-            fragment.appendChild(children[i].cloneNode(true));
-        }
-        return fragment;
-    }
+// ie11 fix for template.content
+const getFragment = template => {
+	const frag = document.createDocumentFragment()
+    const children = [...template.childNodes]
+    children.forEach((el) => { frag.appendChild(children[el].cloneNode(true)) })
+  	return frag
+}
+const templateContent = template => {
+    return 'content' in document.createElement('template') ?
+    	document.importNode(template.content, true) :
+		getFragment(template)
 }
 
 // tagged template literal (JSX alternative)
@@ -20,7 +19,7 @@ const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
 const html = (stringSet,...expressionSet) => {
 	const template = document.createElement('template')
 	template.innerHTML = stringSet.map((str, i) => `${str}${expressionSet[i]||''}`).join('')
-	return templateContent(template)
+	return templateContent(template) // ie11 fix for template.content
 }
 
 // http factory
