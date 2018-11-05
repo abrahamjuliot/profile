@@ -37,6 +37,7 @@ const faculty = selection => ({
     ['simunek']: ['Jirka Šimunek', 'jiri.simunek'],
     ['volz']: ['David C. Volz', 'david.volz'],
     ['wu']: ['Laosheng Wu', 'laosheng.wu'],
+    ['ying']: ['Sam Ying', 'samantha.ying'],
     ['schwabe']: ['Kurt Schwabe', 'kurt.schwabe'],
     ['oglesby']: ['David D. Oglesby', 'david.oglesby'],
     ['allen']: ['Robert J. Allen', 'robert.allen'],
