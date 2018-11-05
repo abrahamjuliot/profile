@@ -49,7 +49,7 @@ http.get(url, (json) => {
 
 	const data = sortBy(json, 'name')
 	ready(() => {
-		patch(document.getElementById('block-ucr-default-page-title'),
+		patch(document.getElementById('gradstudents'),
 		html`${template(css, data)}`)
 	})
 })
