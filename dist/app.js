@@ -111,7 +111,7 @@ var callIfFunction = function callIfFunction(x) {
 var choose = function choose(switchFn) {
     return (// cache cases
         function (caseVal) {
-            return fns.callIfFunction(switchFn(caseVal)[caseVal] || switchFn().default);
+            return callIfFunction(switchFn(caseVal)[caseVal] || switchFn().default);
         }
     );
 }; // get case

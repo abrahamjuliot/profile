@@ -1,7 +1,7 @@
 // functional switch
 const callIfFunction = x => x instanceof Function ? x() : x
 const choose = switchFn => // cache cases
-    caseVal => fns.callIfFunction(switchFn(caseVal)[caseVal] || switchFn().default) // get case
+    caseVal => callIfFunction(switchFn(caseVal)[caseVal] || switchFn().default) // get case
 const agree = (x, ...list) => // agree on a fall through set
     list.find(val => x === val) || list[0] 
 
