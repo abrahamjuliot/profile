@@ -15,6 +15,19 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
+function templateContent(template) {
+	if ("content" in document.createElement("template")) {
+		return document.importNode(template.content, true);
+	} else {
+		var fragment = document.createDocumentFragment();
+		var children = template.childNodes;
+		for (i = 0; i < children.length; i++) {
+			fragment.appendChild(children[i].cloneNode(true));
+		}
+		return fragment;
+	}
+}
+
 // tagged template literal (JSX alternative)
 var patch = function patch(oldEl, newEl) {
 	return oldEl.parentNode.replaceChild(newEl, oldEl);
@@ -24,11 +37,11 @@ var html = function html(stringSet) {
 		expressionSet[_key - 1] = arguments[_key];
 	}
 
-	var template = document.createElement('div');
+	var template = document.createElement('template');
 	template.innerHTML = stringSet.map(function (str, i) {
 		return '' + str + (expressionSet[i] || '');
 	}).join('');
-	return template.content;
+	return templateContent(template);
 };
 
 // http factory

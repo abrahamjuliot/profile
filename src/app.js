@@ -1,12 +1,26 @@
 import css from './css.js'
 import template from './template.js'
 
+
+function templateContent(template) {
+    if("content" in document.createElement("template")) {
+        return document.importNode(template.content, true);
+    } else {
+        var fragment = document.createDocumentFragment();
+        var children = template.childNodes;
+        for (i = 0; i < children.length; i++) {
+            fragment.appendChild(children[i].cloneNode(true));
+        }
+        return fragment;
+    }
+}
+
 // tagged template literal (JSX alternative)
 const patch = (oldEl, newEl) => oldEl.parentNode.replaceChild(newEl, oldEl)
 const html = (stringSet,...expressionSet) => {
-	const template = document.createElement('div')
+	const template = document.createElement('template')
 	template.innerHTML = stringSet.map((str, i) => `${str}${expressionSet[i]||''}`).join('')
-	return template.content
+	return templateContent(template)
 }
 
 // http factory
