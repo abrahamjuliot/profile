@@ -11,7 +11,7 @@ const track = selection => ({
     ['ENSC']: 'Environmental Sciences',
     ['GEO']: 'Geological Sciences',
     ['ECON']: 'Environmental Economics',
-    default: selection
+    default: ''
 })
 const Program = choose(track)
 
@@ -61,7 +61,7 @@ const faculty = selection => ({
     ['ridgwell']: ['Andy Ridgwell', 'andrew.ridgwell'],
     ['sadler']: ['Peter M. Sadler', 'peter.sadler'],
     ['scott']: ['Thomas A. Scott', 'thomas.scott'],
-    default: selection
+    default: ''
 })
 const PI = choose(faculty)
 
