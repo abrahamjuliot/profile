@@ -42,8 +42,8 @@ const template = (css, data) =>
                 </div>`)}
                 ${when(item.faculty,
                 `<div class='grad-faculty'>Advisor: 
-                    <a href='https://profiles.ucr.edu/${Program(item.faculty.toLowerCase())[1]}' target='_blank'>
-                        ${Program(item.faculty.toLowerCase())[0]}
+                    <a href='https://profiles.ucr.edu/${PI(item.faculty.toLowerCase())[1]}' target='_blank'>
+                        ${PI(item.faculty.toLowerCase())[0]}
                     </a>
                 </div>`)}
             </div>
