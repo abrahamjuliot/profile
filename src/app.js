@@ -40,14 +40,14 @@ const ready = (fn) => document.readyState != 'loading' ? fn():
 // json
 const url = 'https://abrahamjuliot.github.io/profile/data/ensc.json'
 
-// sort json
+// sort json by last word in search field
 const by = (getValue) => (a, b) => getValue(a) > getValue(b) ? 1 : -1
-const sortBy = (arr, val) => arr.sort(by(obj => obj[val]))
+const sortBy = (arr, val) => arr.sort(by(obj => obj[val].split(" ").pop()))
 
 // app: get json then when DOM is ready patch html template
 http.get(url, (json) => {
 
-	const data = sortBy(json, 'lastName')
+	const data = sortBy(json, 'name')
 	ready(() => {
 		patch(document.getElementById('block-ucr-default-page-title'),
 		html`${template(css, data)}`)

@@ -1,35 +1,11 @@
 [
   {
-    "name": "Macon Abernathy",
-    "lastName": "Abernathy",
+    "name": "",
     "img": "https://picsum.photos/300",
-    "email": "maber001@",
-    "program": "ENTX",
-    "faculty": "Jay Gan",
-    "facultySite": "j.gan",
-    "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-    "websiteURL": "https://github.com"
-  },
-  {
-    "name": "Macon Abernathy",
-    "lastName": "Zundi",
-    "img": "https://picsum.photos/300",
-    "email": "maber001@",
+    "email": "@",
     "program": "GEO",
-    "faculty": "Hoori Ajami",
-    "facultySite": "hoori.ajami",
-    "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-    "websiteURL": "https://github.com"
-  },
-  {
-    "name": "Macon Abernathy",
-    "lastName": "Indi",
-    "img": "https://picsum.photos/300",
-    "email": "maber001@",
-    "program": "ENSC",
-    "faculty": "Samantha Ying",
-    "facultySite": "samantha.ying",
-    "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-    "websiteURL": "https://github.com"
+    "faculty": "",
+    "research": "",
+    "websiteURL": ""
   }
 ]

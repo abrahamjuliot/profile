@@ -66,14 +66,28 @@ var ready = function ready(fn) {
 // json
 var url = 'https://abrahamjuliot.github.io/profile/data/ensc.json';
 
+// sort json by last word in search field
+var by = function by(getValue) {
+	return function (a, b) {
+		return getValue(a) > getValue(b) ? 1 : -1;
+	};
+};
+var sortBy = function sortBy(arr, val) {
+	return arr.sort(by(function (obj) {
+		return obj[val].split(" ").pop();
+	}));
+};
+
 // app: get json then when DOM is ready patch html template
-http.get(url, function (data) {
+http.get(url, function (json) {
+
+	var data = sortBy(json, 'name');
 	ready(function () {
 		patch(document.getElementById('block-ucr-default-page-title'), html(_templateObject, (0, _template2.default)(_css2.default, data)));
 	});
 });
 
-},{"./css.js":2,"./template.js":3}],2:[function(require,module,exports){
+},{"./css.js":2,"./template.js":4}],2:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -88,7 +102,32 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
+var _tools = require('./tools.js');
+
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+var fns = {
+    faculty: function faculty(selection) {
+        var _ref;
+
+        return _ref = {}, _defineProperty(_ref, 'ajami', ['Hoori Ajami', 'hoori.ajami']), _defineProperty(_ref, 'anderson', ['Michael Anderson', 'michael.anderson']), _defineProperty(_ref, 'bahreini', ['Roya Bahreini', 'roya.bahreini']), _defineProperty(_ref, 'crohn', ['David Crohn', 'david.crohn']), _defineProperty(_ref, 'gan', ['Jay Gan', 'j.gan']), _defineProperty(_ref, 'graham', ['Robert Graham', 'robert.graham']), _defineProperty(_ref, 'gray', ['Andrew B. Gray', 'andrew.gray']), _defineProperty(_ref, 'haghverdi', ['Amir Haghverdi', 'amir.haghverdi']), _defineProperty(_ref, 'hirmas', ['Daniel Hirmas', 'daniel.hirmas']), _defineProperty(_ref, 'homyak', ['Pete Homyak', 'peter.homyak1']), _defineProperty(_ref, 'hopkins', ['Francesca Hopkins', 'francesca.hopkins']), _defineProperty(_ref, 'knapp', ['Keith Knapp', 'keith.knapp']), _defineProperty(_ref, 'li', ['King-Fai Li', 'king-fai.li']), _defineProperty(_ref, 'lin', ['Ying-Hsuan Lin', 'ying-hsuan.lin']), _defineProperty(_ref, 'porter', ['William Porter', 'william.porter']), _defineProperty(_ref, 'schlenk', ['Daniel Schlenk', 'daniel.schlenk']), _defineProperty(_ref, 'sickman', ['James Sickman', 'james.sickman']), _defineProperty(_ref, 'simunek', ['Jirka Šimunek', 'jiri.simunek']), _defineProperty(_ref, 'volz', ['David C. Volz', 'david.volz']), _defineProperty(_ref, 'wu', ['Laosheng Wu', 'laosheng.wu']), _defineProperty(_ref, 'schwabe', ['Kurt Schwabe', 'kurt.schwabe']), _defineProperty(_ref, 'oglesby', ['David D. Oglesby', 'david.oglesby']), _defineProperty(_ref, 'allen', ['Robert J. Allen', 'robert.allen']), _defineProperty(_ref, 'barth', ['Nicolas Barth', 'nic.barth']), _defineProperty(_ref, 'bekker', ['Andrey Bekker', 'andrey.bekker']), _defineProperty(_ref, 'brounce', ['Maryjo Brounce', 'maryjo.brounce']), _defineProperty(_ref, 'douilly', ['Roby Douilly', 'roby.douilly']), _defineProperty(_ref, 'dieterich', ['James H. Dieterich', 'james.dieterich']), _defineProperty(_ref, 'droser', ['Mary Droser', 'mary.droser']), _defineProperty(_ref, 'fogel', ['Marilyn Fogel', 'marilyn.fogel']), _defineProperty(_ref, 'ford', ['Heather Ford', 'heather.ford']), _defineProperty(_ref, 'funning', ['Gareth Funning', 'gareth.funning']), _defineProperty(_ref, 'ghosh', ['Abhijit Ghosh', 'abhijit.ghosh']), _defineProperty(_ref, 'hughes', ['Nigel C. Hughes', 'nigel.hughes']), _defineProperty(_ref, 'kane', ['Stephen R. Kane', 'stephen.kane']), _defineProperty(_ref, 'liu', ['Wei Liu', 'wei.liu']), _defineProperty(_ref, 'turner', ['Sandra Kirtland Turner', 'sandra.kirtlandturner']), _defineProperty(_ref, 'love', ['Gordon Love', 'gordon.love']), _defineProperty(_ref, 'lyons', ['Timothy Lyons', 'timothy.lyons']), _defineProperty(_ref, 'mckibben', ['Michael A. McKibben', 'michael.mckibben']), _defineProperty(_ref, 'minnich', ['Richard A. Minnich', 'richard.minnich']), _defineProperty(_ref, 'ridgwell', ['Andy Ridgwell', 'andrew.ridgwell']), _defineProperty(_ref, 'sadler', ['Peter M. Sadler', 'peter.sadler']), _defineProperty(_ref, 'scott', ['Thomas A. Scott', 'thomas.scott']), _defineProperty(_ref, 'default', selection), _ref;
+    },
+
+    PI: (0, _tools.choose)(fns.faculty)
+};
+
+exports.default = fns;
+
+},{"./tools.js":5}],4:[function(require,module,exports){
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _track = require('./track.js');
+
+var _faculty = require('./faculty.js');
 
 // template iterator
 var repeat = function repeat(list, fn) {
@@ -112,42 +151,68 @@ var when = function when(x, template) {
     return x ? '' + template : '';
 };
 
-// functional switch (program)
-var callIfFunction = function callIfFunction(x) {
-    return x instanceof Function ? x() : x;
-};
-var choose = function choose(switchFn) {
-    return (// cache cases
-        function (caseVal) {
-            return callIfFunction(switchFn(caseVal)[caseVal] || switchFn().default);
-        }
-    );
-}; // get case
-var agree = function agree(x) {
-    for (var _len = arguments.length, list = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
-        list[_key - 1] = arguments[_key];
-    }
-
-    return (// agree on a fall through set
-        list.find(function (val) {
-            return x === val;
-        }) || list[0]
-    );
-};
-
-var track = function track(selection) {
-    var _ref;
-
-    return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'GEO', 'Geological Sciences'), _defineProperty(_ref, 'default', 'Unknown'), _ref;
-};
-var Program = choose(track);
-
 var template = function template(css, data) {
     return css + '\n<section class=\'grads\'>\n    ' + repeat(data, function (item) {
-        return '\n        <div class=\'grad-card\'>\n            <div class=\'grad-header\'>\n                ' + when(item.img, '<div class=\'grad-img\'><span ' + styleImg(item) + '></span></div>') + '\n                <div class=\'grad-intro\'>\n                    <div class=\'grad-name\'>' + item.name + '</div>\n                    ' + when(item.program, '<div class=\'grad-program\'>' + Program(item.program) + '</div>') + '\n                </div>\n            </div>\n            <div class=\'grad-section\'>\n                ' + when(item.research, '<div class=\'grad-research\'>' + item.research + '</div>') + '\n                ' + when(item.email, '<div class=\'grad-email\'>\n                    <a href=\'mailto:' + item.email + 'ucr.edu\'>' + item.email + 'ucr.edu</a>\n                </div>') + '\n                ' + when(item.websiteURL, '<div class=\'grad-website\'>\n                    <a href=\'' + item.websiteURL + '\' target=\'_blank\'>' + siteName(item.websiteURL) + '</a>\n                </div>') + '\n                ' + when(item.faculty, '<div class=\'grad-faculty\'>Advisor: \n                    <a href=\'https://profiles.ucr.edu/' + item.facultySite + '\' target=\'_blank\'>' + item.faculty + '</a>\n                </div>') + '\n            </div>\n        </div>\n    ';
+        return '\n        <div class=\'grad-card\'>\n            <div class=\'grad-header\'>\n                ' + when(item.img, '<div class=\'grad-img\'><span ' + styleImg(item) + '></span></div>') + '\n                <div class=\'grad-intro\'>\n                    <div class=\'grad-name\'>' + item.name + '</div>\n                    ' + when(item.program, '<div class=\'grad-program\'>' + (0, _track.Program)(item.program) + '</div>') + '\n                </div>\n            </div>\n            <div class=\'grad-section\'>\n                ' + when(item.research, '<div class=\'grad-research\'>' + item.research + '</div>') + '\n                ' + when(item.email, '<div class=\'grad-email\'>\n                    <a href=\'mailto:' + item.email + 'ucr.edu\'>' + item.email + 'ucr.edu</a>\n                </div>') + '\n                ' + when(item.websiteURL, '<div class=\'grad-website\'>\n                    <a href=\'' + item.websiteURL + '\' target=\'_blank\'>' + siteName(item.websiteURL) + '</a>\n                </div>') + '\n                ' + when(item.faculty, '<div class=\'grad-faculty\'>Advisor: \n                    <a href=\'https://profiles.ucr.edu/' + (0, _track.Program)(item.faculty.toLowerCase())[1] + '\' target=\'_blank\'>\n                        ' + (0, _track.Program)(item.faculty.toLowerCase())[0] + '\n                    </a>\n                </div>') + '\n            </div>\n        </div>\n    ';
     }) + '\n</section>\n';
 };
 
 exports.default = template;
 
-},{}]},{},[1]);
+},{"./faculty.js":3,"./track.js":6}],5:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+var fns = {
+    // functional switch
+    callIfFunction: function callIfFunction(x) {
+        return x instanceof Function ? x() : x;
+    },
+    choose: function choose(switchFn) {
+        return (// cache cases
+            function (caseVal) {
+                return fns.callIfFunction(switchFn(caseVal)[caseVal] || switchFn().default);
+            }
+        );
+    }, // get case
+    agree: function agree(x) {
+        for (var _len = arguments.length, list = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+            list[_key - 1] = arguments[_key];
+        }
+
+        return (// agree on a fall through set
+            list.find(function (val) {
+                return x === val;
+            }) || list[0]
+        );
+    }
+};
+
+exports.default = fns;
+
+},{}],6:[function(require,module,exports){
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _tools = require('./tools.js');
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+var fns = {
+    track: function track(selection) {
+        var _ref;
+
+        return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'GEO', 'Geological Sciences'), _defineProperty(_ref, 'ECON', 'Environmental Economics'), _defineProperty(_ref, 'default', selection), _ref;
+    },
+
+    Program: (0, _tools.choose)(fns.track)
+};
+
+exports.default = fns;
+
+},{"./tools.js":5}]},{},[1]);

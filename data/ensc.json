@@ -1,35 +1,389 @@
 [
   {
     "name": "Macon Abernathy",
-    "lastName": "Abernathy",
     "img": "https://picsum.photos/300",
     "email": "maber001@",
     "program": "ENTX",
-    "faculty": "Jay Gan",
-    "facultySite": "j.gan",
-    "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-    "websiteURL": "https://github.com"
+    "faculty": "ying",
+    "research": "",
+    "websiteURL": ""
   },
   {
-    "name": "Macon Abernathy",
-    "lastName": "Zundi",
+    "name": "Tiantian Zhou",
     "img": "https://picsum.photos/300",
-    "email": "maber001@",
-    "program": "GEO",
-    "faculty": "Hoori Ajami",
-    "facultySite": "hoori.ajami",
-    "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-    "websiteURL": "https://github.com"
-  },
-  {
-    "name": "Macon Abernathy",
-    "lastName": "Indi",
-    "img": "https://picsum.photos/300",
-    "email": "maber001@",
+    "email": "tiantian.zhou@email",
     "program": "ENSC",
-    "faculty": "Samantha Ying",
-    "facultySite": "samantha.ying",
+    "faculty": "simunek",
+    "research": "Simulation of water stable isotopes transport in the vadose zone",
+    "websiteURL": ""
+  },
+  {
+    "name": "Yuhua Xiong",
+    "img": "https://picsum.photos/300",
+    "email": "yuhua.xiong@email",
+    "program": "ECON",
+    "faculty": "schwabe",
+    "research": "Researching water economics and computational economics",
+    "websiteURL": ""
+  },
+  {
+    "name": "Yaxin (Jane) Xiong",
+    "img": "https://picsum.photos/300",
+    "email": "yaxin.xiong@email",
+    "program": "ENSC",
+    "faculty": "gan",
+    "research": "Focusing on developing a tiered framework that integrates simple process-based, quantitative structure- property relationships to describe the CEC flux from the input sources, through the soil/root interface, and into leaves/fruits",
+    "websiteURL": ""
+  },
+  {
+    "name": "Douglas Wolf",
+    "img": "https://picsum.photos/300",
+    "email": "douglas.wolf@email",
+    "program": "ENTX",
+    "faculty": "gan",
+    "research": "Researching soil and water remediation of inorganic and organic contaminant pollution",
+    "websiteURL": ""
+  },
+  {
+    "name": "Sara Vliet",
+    "img": "https://picsum.photos/300",
+    "email": "sara.vliet@email",
+    "program": "ENTX",
+    "faculty": "volz",
+    "research": "High-content screening of developmental neurotoxicity in zebrafish embryos",
+    "websiteURL": ""
+  },
+  {
+    "name": "Allison Taylor",
+    "img": "https://picsum.photos/300",
+    "email": "allison.taylor@email",
+    "program": "ENSC",
+    "faculty": "gan",
+    "research": "Investigating the aging and bioavailability of contaminants in marine sediments",
+    "websiteURL": ""
+  },
+  {
+    "name": "Linia Tashmim",
+    "img": "",
+    "email": "linia.tashmim@email",
+    "program": "ENSC",
+    "faculty": "porter",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Philip Tanabe",
+    "img": "https://picsum.photos/300",
+    "email": "ptana001@",
+    "program": "ENTX",
+    "faculty": "schlenk",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Nathan Sy",
+    "img": "https://picsum.photos/300",
+    "email": "nathan.sy@email",
+    "program": "ENSC",
+    "faculty": "gan",
+    "research": "Contaminant fate and transport",
+    "websiteURL": ""
+  },
+  {
+    "name": "Amninder Singh",
+    "img": "https://picsum.photos/300",
+    "email": "asing075@",
+    "program": "ENSC",
+    "faculty": "haghverdi",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Matthew Schweiger",
+    "img": "https://picsum.photos/300",
+    "email": "mschw013@",
+    "program": "ENSC",
+    "faculty": "ajami",
+    "research": "Researching the quantification of mountain system recharge of the Kaweah Basin in the Central Valley of California through the implementation of computational hydrological modeling",
+    "websiteURL": ""
+  },
+  {
+    "name": "Anish Sapkota",
+    "img": "https://picsum.photos/300",
+    "email": "anish.sapkota@email",
+    "program": "ENSC",
+    "faculty": "haghverdi",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Michael Rodriguez",
+    "img": "https://picsum.photos/300",
+    "email": "@",
+    "program": "ENSC",
+    "faculty": "hopkins",
+    "research": "Greenhouse gas emissions and carbon/nitrogen cycling of California Dairies. Effect of land application of dairy manure/compost on greenhouse gas emissions",
+    "websiteURL": ""
+  },
+  {
+    "name": "Aalekhya Reddam",
+    "img": "https://picsum.photos/300",
+    "email": "aredd006@",
+    "program": "ENTX",
+    "faculty": "volz",
+    "research": "Developmental toxicity of organophosphate flame retardants",
+    "websiteURL": ""
+  },
+  {
+    "name": "Talha Rafiq",
+    "img": "",
+    "email": "trafi001@",
+    "program": "ENSC",
+    "faculty": "hopkins",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Yaning Miao",
+    "img": "https://picsum.photos/300",
+    "email": "yaning.miao@email",
+    "program": "ENSC",
+    "faculty": "porter",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Connie Mitchell",
+    "img": "https://picsum.photos/300",
+    "email": "cmitc007@",
+    "program": "ENTX",
+    "faculty": "volz",
+    "research": "Developmental toxicity of triphenyl phosphate (TPHP) in zebrafish embryos",
+    "websiteURL": ""
+  },
+  {
+    "name": "Victoria McGruer",
+    "img": "https://picsum.photos/300",
+    "email": "vmcgr001@",
+    "program": "ENTX",
+    "faculty": "schlenk",
+    "research": "Aquatic ecotoxicology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Julianna McDonnell",
+    "img": "https://picsum.photos/300",
+    "email": "julianna.mcdonnell@email",
+    "program": "ENSC",
+    "faculty": "gray",
+    "research": "Investigating sedimentological processes driving carbon storage in vegetated coastal systems",
+    "websiteURL": ""
+  },
+  {
+    "name": "Nathan Jumps",
+    "img": "https://picsum.photos/300",
+    "email": "njump001@",
+    "program": "ENSC",
+    "faculty": "gray",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Joyce Jong",
+    "img": "https://picsum.photos/300",
+    "email": "shwuying.jong@email",
+    "program": "ENSC",
+    "faculty": "crohn",
+    "research": "Researching resource management in sustainable agricultural systems and policy implications",
+    "websiteURL": ""
+  },
+  {
+    "name": "Aarushi Jha",
+    "img": "https://picsum.photos/300",
+    "email": "aarushi.jha@email",
+    "program": "ENSC",
+    "faculty": "ajami",
+    "research": "Investigating the effects of land management practices and climate change on groundwater recharge",
+    "websiteURL": ""
+  },
+  {
+    "name": "Gary Harraka",
+    "img": "https://picsum.photos/300",
+    "email": "gharr008@",
+    "program": "ENSC",
+    "faculty": "schlenk",
+    "research": "Researching the effects of wastewater effluent on fish in the Santa Ana River Lakes",
+    "websiteURL": ""
+  },
+  {
+    "name": "Sarah Helalia",
+    "img": "https://picsum.photos/300",
+    "email": "sarah.helalia@email",
+    "program": "ENSC",
+    "faculty": "simunek",
+    "research": "Modifying a model of plant-soil parameters which elucidate their impacts on the vadose zone water and N balance",
+    "websiteURL": ""
+  },
+  {
+    "name": "James Guilinger",
+    "img": "https://picsum.photos/300",
+    "email": "jguil009@",
+    "program": "ENSC",
+    "faculty": "gray",
+    "research": "Researching the sourcing, delivery, and conveyance of fine sediment in river systems influenced by various disturbances",
+    "websiteURL": ""
+  },
+  {
+    "name": "Marissa Giroux",
+    "img": "https://picsum.photos/300",
+    "email": "marissa.giroux@email",
+    "program": "ENTX",
+    "faculty": "schlenk",
+    "research": "Researching marine and aquatic toxicology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Alexander Frie",
+    "img": "https://picsum.photos/300",
+    "email": "alexander.frie@email",
+    "program": "ENSC",
+    "faculty": "bahreini",
+    "research": "Investigating the oxidation of atmospheric carbon by manganese oxides found in desert varnishes",
+    "websiteURL": ""
+  },
+  {
+    "name": "Isis Frausto-Vicencio",
+    "img": "https://picsum.photos/300",
+    "email": "ifrau001@",
+    "program": "ENSC",
+    "faculty": "hopkins",
+    "research": "Atmospheric trace gases",
+    "websiteURL": ""
+  },
+  {
+    "name": "Hasnain Farooq",
+    "img": "https://picsum.photos/300",
+    "email": "hasnain.farooq@email",
+    "program": "ENSC",
+    "faculty": "wu",
+    "research": "Assessing and Comparing the salt tolerance of multipurpose trees used in agroforestry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Stacia Dudley",
+    "img": "https://picsum.photos/300",
+    "email": "stacia.dudley@email",
+    "program": "ENTX",
+    "faculty": "gan",
+    "research": "Researching the effects of unregulated contaminants, known as Contaminants of Emerging Concern -- pharmaceuticals, endocrine disrupters, polybrominated diphenyl ethers, and phalates-- in terrestrial ecosystems",
+    "websiteURL": ""
+  },
+  {
+    "name": "Zachary Cryder",
+    "img": "https://picsum.photos/300",
+    "email": "zachary.cryder@email",
+    "program": "ENTX",
+    "faculty": "gan",
+    "research": "Collaborating with the department of Entomology to study how different application methods of Fipronil-based pesticides affect runoff of Fipronil and its breakdown products",
+    "websiteURL": ""
+  },
+  {
+    "name": "Win Cowger",
+    "img": "https://picsum.photos/300",
+    "email": "wcowg001@",
+    "program": "ENSC",
+    "faculty": "gray",
+    "research": "Studying plastic pollution with a focus on developing maps of plastic pollution and refining our knowledge of the relationship between land and sea based sources of plastic pollution",
+    "websiteURL": ""
+  },
+  {
+    "name": "Scott Coffin",
+    "img": "https://picsum.photos/300",
+    "email": "scott.coffin@email",
+    "program": "ENTX",
+    "faculty": "schlenk",
+    "research": "Researching epigenetic and teratogenic effects of plastic debris on fish",
+    "websiteURL": ""
+  },
+  {
+    "name": "Yumeng Cui",
+    "img": "https://picsum.photos/300",
+    "email": "yumeng.cui@email",
+    "program": "ENSC",
+    "faculty": "bahreini",
+    "research": "Atmospheric Science",
+    "websiteURL": ""
+  },
+  {
+    "name": "Seto Cherchian",
+    "img": "https://picsum.photos/300",
+    "email": "scher005@",
+    "program": "ENSC",
+    "faculty": "wu",
+    "research": "Researching the effect of the water application rate on salinity leaching efficiency while minimizing nitrate leaching and groundwater pollution in irrigated cropland",
+    "websiteURL": ""
+  },
+  {
+    "name": "Vanessa Cheng",
+    "img": "https://picsum.photos/300",
+    "email": "vchen009@",
+    "program": "ENTX",
+    "faculty": "volz",
+    "research": "Developmental toxicity of organophosphate flame retardants",
+    "websiteURL": ""
+  },
+  {
+    "name": "Jin Chen",
+    "img": "https://picsum.photos/300",
+    "email": "jchen137@",
+    "program": "ENTX",
+    "faculty": "lin",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Valerie Carranza",
+    "img": "https://picsum.photos/300",
+    "email": "vcarr007@",
+    "program": "ENSC",
+    "faculty": "hopkins",
+    "research": "Trace gas emissions",
+    "websiteURL": ""
+  },
+  {
+    "name": "Claudia Avila",
+    "img": "https://picsum.photos/300",
+    "email": "claudia.marin@email",
+    "program": "ENSC",
+    "faculty": "ying",
+    "research": "Investigating trace metal distribution, mobilization, and carbon turnover in urban agricultural soils",
+    "websiteURL": ""
+  },
+  {
+    "name": "Nicolette Andrzejczyk",
+    "img": "https://picsum.photos/300",
+    "email": "nicolette.andrzejczyk@email",
+    "program": "ENSC",
+    "faculty": "schlenk",
+    "research": "Exploring the use of fish dermal mucus as a non-invasive biomarker of exposure to environmental contaminants through the use of RNA sequencing",
+    "websiteURL": ""
+  },
+  {
+    "name": "Miranda Aiken",
+    "img": "https://picsum.photos/300",
+    "email": "maike001@",
+    "program": "ENTX",
+    "faculty": "ying",
+    "research": "nvestigating the oxidation of chromium in the presence of manganese and iron oxides",
+    "websiteURL": ""
+  },
+  {
+    "name": "C M Sabbir Ahmed",
+    "img": "https://picsum.photos/300",
+    "email": "cahme002@",
+    "program": "ENTX",
+    "faculty": "lin",
     "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-    "websiteURL": "https://github.com"
+    "websiteURL": ""
   }
 ]

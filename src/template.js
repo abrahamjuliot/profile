@@ -1,3 +1,6 @@
+import { Program } from './track.js'
+import { PI } from './faculty.js'
+
 // template iterator
 const repeat = (list, fn) => list.map(item => fn(item)).join('')
 
@@ -11,21 +14,6 @@ const siteName = (url) => url.replace(/(^\w+:|^)\/\//, '')
 
 // template conditional
 const when = (x, template) => x ? `${template}`: ''
-
-// functional switch (program)
-const callIfFunction = x => x instanceof Function ? x() : x
-const choose = switchFn => // cache cases
-	caseVal => callIfFunction(switchFn(caseVal)[caseVal] || switchFn().default) // get case
-const agree = (x, ...list) => // agree on a fall through set
-  list.find(val => x === val) || list[0] 
-  
-const track = selection => ({ 
-  ['ENTX']: 'Environmental Toxicology',
-  ['ENSC']: 'Environmental Sciences',
-  ['GEO']: 'Geological Sciences',
-  default: 'Unknown'
-})
-const Program = choose(track)
 
 const template = (css, data) =>
 `${css}
@@ -54,7 +42,9 @@ const template = (css, data) =>
                 </div>`)}
                 ${when(item.faculty,
                 `<div class='grad-faculty'>Advisor: 
-                    <a href='https://profiles.ucr.edu/${item.facultySite}' target='_blank'>${item.faculty}</a>
+                    <a href='https://profiles.ucr.edu/${Program(item.faculty.toLowerCase())[1]}' target='_blank'>
+                        ${Program(item.faculty.toLowerCase())[0]}
+                    </a>
                 </div>`)}
             </div>
         </div>
