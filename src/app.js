@@ -8,7 +8,7 @@ function templateContent(template) {
     } else {
         var fragment = document.createDocumentFragment();
         var children = template.childNodes;
-        for (i = 0; i < children.length; i++) {
+        for (let i = 0; i < children.length; i++) {
             fragment.appendChild(children[i].cloneNode(true));
         }
         return fragment;
