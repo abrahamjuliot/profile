@@ -53,7 +53,7 @@ const ready = (fn) => document.readyState != 'loading' ? fn():
 	document.addEventListener('DOMContentLoaded', fn);
 
 // json
-const url = 'https://abrahamjuliot.github.io/profile/data/ensc.json'
+const url = window.gradStudentJSONURL
 
 // sort json by last word in search field
 const by = (getValue) => (a, b) => getValue(a) > getValue(b) ? 1 : -1

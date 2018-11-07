@@ -79,7 +79,7 @@ var ready = function ready(fn) {
 };
 
 // json
-var url = 'https://abrahamjuliot.github.io/profile/data/ensc.json';
+var url = window.gradStudentJSONURL;
 
 // sort json by last word in search field
 var by = function by(getValue) {
