@@ -7,7 +7,11 @@
     "browserify:babelify": "browserify src/app.js -t babelify --outfile dist/app.js",
     "uglifyjs": "uglifyjs dist/app.js -m -c -o dist/app.min.js",
     "build:js": "npm run browserify:babelify && npm run uglifyjs",
-    "build": "npm run build:js "
+    "build": "npm run build:js ",
+    "git:fetch": "git fetch origin",
+    "git:status": "git status",
+    "git:pull": "git pull",
+    "fetch": "npm run git:fetch && npm run git:status && npm run git:pull"
   },
   "repository": {
     "type": "git",
