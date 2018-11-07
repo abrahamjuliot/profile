@@ -1,11 +1,389 @@
 [
   {
-    "name": "",
-    "img": "https://picsum.photos/300",
-    "email": "@",
+    "name": "Adam Aleksinski",
+    "img": "",
+    "email": "aalek002@",
     "program": "GEO",
-    "faculty": "",
-    "research": "",
+    "faculty": "Turner",
+    "research": "Global Climate & Environmental Change",
+    "websiteURL": ""
+  },
+  {
+    "name": "Andrew Birkey",
+    "img": "",
+    "email": "abirk001@",
+    "program": "GEO",
+    "faculty": "Ford",
+    "research": "Geophysics",
+    "websiteURL": "https://sites.google.com/ucr.edu/andrewbirkey/home"
+  },
+  {
+    "name": "Alma Ceja",
+    "img": "",
+    "email": "aceja005@",
+    "program": "GEO",
+    "faculty": "Kane",
+    "research": "Astrobiology",
+    "websiteURL": "http://almaceja.wixsite.com/almaceja"
+  },
+  {
+    "name": "Kuntal Chaudhuri",
+    "img": "",
+    "email": "kchau012@",
+    "program": "GEO",
+    "faculty": "Ghosh",
+    "research": "Geophysics",
+    "websiteURL": ""
+  },
+  {
+    "name": "Konstantin Choumiline",
+    "img": "",
+    "email": "kchou002@",
+    "program": "GEO",
+    "faculty": "Lyons",
+    "research": "Geochemistry",
+    "websiteURL": "http://konstantin.science/"
+  },
+  {
+    "name": "Charles Diamond",
+    "img": "",
+    "email": "cdiam001@",
+    "program": "GEO",
+    "faculty": "Lyons",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Scott Evans",
+    "img": "",
+    "email": "sevan004@",
+    "program": "GEO",
+    "faculty": "Droser",
+    "research": "Paleontology",
+    "websiteURL": "https://sites.google.com/a/ucr.edu/scottdanielevans/home"
+  },
+  {
+    "name": "Maria Figueroa",
+    "img": "",
+    "email": "mfigu012@",
+    "program": "GEO",
+    "faculty": "Lyons",
+    "research": "Geochemistry",
+    "websiteURL": "https://sites.google.com/a/ucr.edu/mcfigueroa/"
+  },
+  {
+    "name": "Gillian Goldhagen",
+    "img": "",
+    "email": "ggold002@",
+    "program": "GEO",
+    "faculty": "Ford",
+    "research": "Geophysics",
+    "websiteURL": "https://sites.google.com/ucr.edu/ggoldhagen"
+  },
+  {
+    "name": "Christine Hall",
+    "img": "",
+    "email": "csolo001@",
+    "program": "GEO",
+    "faculty": "Droser",
+    "research": "Paleontology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Mohammad Taufiq Hassan Mozumder",
+    "img": "",
+    "email": "mhass004@",
+    "program": "GEO",
+    "faculty": "Allen",
+    "research": "Global Climate & Environmental Change",
+    "websiteURL": "http://taufiqhassan06.wixsite.com/taufiqhassan06"
+  },
+  {
+    "name": "Adam Hoffman",
+    "img": "",
+    "email": "ahoff003@",
+    "program": "GEO",
+    "faculty": "Bekker",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Jin-Bo Hou",
+    "img": "",
+    "email": "jhou006@",
+    "program": "GEO",
+    "faculty": "Hughes",
+    "research": "Paleontology",
+    "websiteURL": "https://sites.google.com/a/ucr.edu/hou/"
+  },
+  {
+    "name": "Jennifer Humphreys",
+    "img": "",
+    "email": "jhump004@",
+    "program": "GEO",
+    "faculty": "Brounce",
+    "research": "Petrology ",
+    "websiteURL": ""
+  },
+  {
+    "name": "Michelle Hill",
+    "img": "",
+    "email": "mhill012@",
+    "program": "GEO",
+    "faculty": "Kane",
+    "research": "Astrobiology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Allison Keller",
+    "img": "",
+    "email": "akell002@",
+    "program": "GEO",
+    "faculty": "Turner",
+    "research": "Paleoceanography",
+    "websiteURL": ""
+  },
+  {
+    "name": "Bridget Kelly",
+    "img": "",
+    "email": "bkell006@",
+    "program": "GEO",
+    "faculty": "Droser",
+    "research": "Paleontology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Bridget Lee",
+    "img": "",
+    "email": "blee045@",
+    "program": "GEO",
+    "faculty": "Lyons",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Bo Li",
+    "img": "",
+    "email": "bli017@",
+    "program": "GEO",
+    "faculty": "Ghosh",
+    "research": "Geophysics",
+    "websiteURL": ""
+  },
+  {
+    "name": "Shouwei Li",
+    "img": "",
+    "email": "sli227@",
+    "program": "GEO",
+    "faculty": "Liu",
+    "research": "Physical Oceanography & Climate Dynamics",
+    "websiteURL": ""
+  },
+  {
+    "name": "Zhexing Li",
+    "img": "",
+    "email": "zli245@",
+    "program": "GEO",
+    "faculty": "Kane",
+    "research": "Astrobiology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Logan Magad-Weiss",
+    "img": "",
+    "email": "lmaga003@",
+    "program": "GEO",
+    "faculty": "Bekker",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Nicholas Mammone",
+    "img": "",
+    "email": "nmamm001@",
+    "program": "GEO",
+    "faculty": "Bekker",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Nathan Marshall",
+    "img": "",
+    "email": "nmars008@",
+    "program": "GEO",
+    "faculty": "Love",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Aaron Martinez",
+    "img": "",
+    "email": "amart109@",
+    "program": "GEO",
+    "faculty": "Love",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Matthew Mendoza",
+    "img": "",
+    "email": "mmend028@",
+    "program": "GEO",
+    "faculty": "Ghosh",
+    "research": "Geophysics",
+    "websiteURL": ""
+  },
+  {
+    "name": "Shankho Niyogi",
+    "img": "",
+    "email": "sniyo001@",
+    "program": "GEO",
+    "faculty": "Ghosh",
+    "research": "Geophysics",
+    "websiteURL": ""
+  },
+  {
+    "name": "Jonathan Nye",
+    "img": "",
+    "email": "jnye001@",
+    "program": "GEO",
+    "faculty": "Fogel",
+    "research": "Biogeochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Colby Ostberg",
+    "img": "",
+    "email": "costb001@",
+    "program": "GEO",
+    "faculty": "Kane",
+    "research": "Astrobiology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Kelden Pehr",
+    "img": "",
+    "email": "kpehr001@",
+    "program": "GEO",
+    "faculty": "Love",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Nader Shakibay Senobari",
+    "img": "",
+    "email": "nshak006@",
+    "program": "GEO",
+    "faculty": "Funning",
+    "research": "Geophysics",
+    "websiteURL": ""
+  },
+  {
+    "name": "Rachel Surprenant",
+    "img": "",
+    "email": "rsurp001@",
+    "program": "GEO",
+    "faculty": "Droser",
+    "research": "Paleontology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Jerlyn Swiatlowski",
+    "img": "",
+    "email": "jswia001@",
+    "program": "GEO",
+    "faculty": "Funning",
+    "research": "Geophysics",
+    "websiteURL": "https://earthsciences.ucr.edu/grad_students.html"
+  },
+  {
+    "name": "Rachel Terry",
+    "img": "",
+    "email": "rterr004@",
+    "program": "GEO",
+    "faculty": "Funning",
+    "research": "Geophysics",
+    "websiteURL": "https://sites.google.com/ucr.edu/rachel-terry"
+  },
+  {
+    "name": "Christopher Tino",
+    "img": "",
+    "email": "ctino001@",
+    "program": "GEO",
+    "faculty": "Lyons",
+    "research": "Geochemistry",
+    "websiteURL": "https://sites.google.com/ucr.edu/ucr-ctino001/"
+  },
+  {
+    "name": "Chenyi Tu",
+    "img": "",
+    "email": "ctu017@",
+    "program": "GEO",
+    "faculty": "Lyons",
+    "research": "Geochemistry",
+    "websiteURL": ""
+  },
+  {
+    "name": "Ernesto Vargas-Parra",
+    "img": "",
+    "email": "evarg013@",
+    "program": "GEO",
+    "faculty": "Hughes",
+    "research": "Paleontology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Pam Vervoort",
+    "img": "",
+    "email": "pverv001@",
+    "program": "GEO",
+    "faculty": "Turner",
+    "research": "Global Climate & Environmental Change ",
+    "websiteURL": "https://sites.google.com/ucr.edu/pamvervoort"
+  },
+  {
+    "name": "Shelly Wernette",
+    "img": "",
+    "email": "swern001@",
+    "program": "GEO",
+    "faculty": "Hughes",
+    "research": "Paleontology",
+    "websiteURL": ""
+  },
+  {
+    "name": "Baoning Wu",
+    "img": "",
+    "email": "bwu015@",
+    "program": "GEO",
+    "faculty": "Oglesby",
+    "research": "Geophysics",
+    "websiteURL": "https://sites.google.com/ucr.edu/baoningwu"
+  },
+  {
+    "name": "Xueying Zhao",
+    "img": "",
+    "email": "xzhao009@",
+    "program": "GEO",
+    "faculty": "Allen",
+    "research": "Global Climate & Environmental Change",
+    "websiteURL": ""
+  },
+  {
+    "name": "Michelle Zill",
+    "img": "",
+    "email": "mzill001@",
+    "program": "GEO",
+    "faculty": "Turner",
+    "research": "Global Climate & Environmental Change",
+    "websiteURL": ""
+  },
+  {
+    "name": "Alex Zumberge",
+    "img": "",
+    "email": "jzumb001@",
+    "program": "GEO",
+    "faculty": "Love",
+    "research": "Geochemistry",
     "websiteURL": ""
   }
 ]
