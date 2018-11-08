@@ -90,13 +90,13 @@ export default /*css*/`
 
 a[href*="@ucr.edu"]:after {
     display: inline-block;
-    font: normal normal normal 24px/1 'Material Design Icons';
+    font: normal normal normal 24px/1 "Material Design Icons";
     font-size: inherit;
     text-rendering: auto;
     line-height: inherit;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    content: '\f1f0';
+    content: "\\f1f0";
     padding-left: 4px;
 }
 
