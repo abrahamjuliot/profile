@@ -69,11 +69,6 @@ const PI = choose(faculty)
 // template iterator
 const repeat = (list, fn) => list.map(item => fn(item)).join('')
 
-// background img style
-const styleImg = (obj) => `
-	style='background: url(/sites/g/files/rcwecm1176/files/${obj.img}.jpg) no-repeat; background-size: contain'
-`
-
 // web url cleaner
 const siteName = (url) => url.replace(/(^\w+:|^)\/\//, '')
 
@@ -87,7 +82,7 @@ const template = (css, data) =>
         <div class='grad-card'>
             <div class='grad-header'>
                 ${when(item.img,
-                `<div class='grad-img'><span ${styleImg(item)}></span></div>`)}
+                `<div class='grad-img'><img src='/sites/g/files/rcwecm1176/files/${item.img}.jpg'/></div>`)}
                 <div class='grad-intro'>
                     <div class='grad-name'>${item.name}</div>
                     ${when(item.program,

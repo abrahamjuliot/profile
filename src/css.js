@@ -40,10 +40,10 @@ export default /*css*/`
 	padding: 10px 5px;
 }
 
-.grad-img span {
+.grad-img img {
 	display: block;
-	width: 100px; /*max-*/
-    height: 100px; /*auto*/
+	width: 100px;
+    height: 100px;
     border-radius: 50%;
 	
 }
