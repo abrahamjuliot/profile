@@ -71,7 +71,7 @@ const repeat = (list, fn) => list.map(item => fn(item)).join('')
 
 // background img style
 const styleImg = (obj) => `
-	style='background: url(${obj.img}) no-repeat; background-size: contain'
+	style='background: url(/sites/g/files/rcwecm1176/files/${obj.img}.jpg) no-repeat; background-size: contain'
 `
 
 // web url cleaner

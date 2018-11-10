@@ -167,7 +167,7 @@ var repeat = function repeat(list, fn) {
 
 // background img style
 var styleImg = function styleImg(obj) {
-    return '\n\tstyle=\'background: url(' + obj.img + ') no-repeat; background-size: contain\'\n';
+    return '\n\tstyle=\'background: url(/sites/g/files/rcwecm1176/files/' + obj.img + '.jpg) no-repeat; background-size: contain\'\n';
 };
 
 // web url cleaner
