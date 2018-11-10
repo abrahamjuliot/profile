@@ -69,9 +69,6 @@ const PI = choose(faculty)
 // template iterator
 const repeat = (list, fn) => list.map(item => fn(item)).join('')
 
-// web url cleaner
-const siteName = (url) => url.replace(/(^\w+:|^)\/\//, '')
-
 // template conditional
 const when = (x, template) => x ? `${template}`: ''
 
@@ -98,7 +95,7 @@ const template = (css, data) =>
                 </div>`)}
                 ${when(item.websiteURL,
                 `<div class='grad-website'>
-                    <a href='${item.websiteURL}' target='_blank'>${siteName(item.websiteURL)}</a>
+                    <a href='${item.websiteURL}' target='_blank'>View Website</a>
                 </div>`)}
                 ${when(item.faculty,
                 `<div class='grad-faculty'>Advisor: 
