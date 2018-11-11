@@ -3,10 +3,6 @@
 
 var _templateObject = _taggedTemplateLiteral(['', ''], ['', '']);
 
-var _css = require('./css.js');
-
-var _css2 = _interopRequireDefault(_css);
-
 var _template = require('./template.js');
 
 var _template2 = _interopRequireDefault(_template);
@@ -78,6 +74,13 @@ var ready = function ready(fn) {
 	return document.readyState != 'loading' ? fn() : document.addEventListener('DOMContentLoaded', fn);
 };
 
+//github repo
+var githubURL = 'https://abrahamjuliot.github.io/profile/';
+
+// css
+var cssURL = 'dist/style.min.css';
+var css = '<link rel=\'stylesheet\' type=\'text/css\' href=' + (githubURL + cssURL) + '>';
+
 // json
 var url = window.gradStudentJSONURL;
 
@@ -98,19 +101,11 @@ http.get(url, function (json) {
 
 	var data = sortBy(json, 'name');
 	ready(function () {
-		patch(document.getElementById('gradstudents'), html(_templateObject, (0, _template2.default)(_css2.default, data)));
+		patch(document.getElementById('gradstudents'), html(_templateObject, (0, _template2.default)(css, data)));
 	});
 });
 
-},{"./css.js":2,"./template.js":3}],2:[function(require,module,exports){
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-	value: true
-});
-exports.default = /*css*/"\n<style>\n.grads {\n\tdisplay: flex;\n\tflex-direction: column;\n\tflex-wrap: nowrap;\n\tmargin: 0 auto;\n\tjustify-content: space-between;\n}\n\n.grad-card {\n\tdisplay: flex;\n\tflex-direction: column;\n\tflex-wrap: nowrap;\n\twidth: 100%;\n\tmargin: 0 0 1.5rem;\n\tpadding: 24px;\n    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);\n}\n\n.grad-header {\n\tdisplay: flex;\n\tflex-direction: row;\n\tflex-wrap: nowrap;\n\talign-items: top;\n\tmargin-bottom: 15px;\n}\n\n.grad-intro {\n\tmargin-left: 4%;\n}\n\n.grad-section {\n\tdisplay: flex;\n\tflex-direction: column;\n\tflex-grow: 1;\n}\n\n.grad-img {\n\tpadding: 10px 5px;\n}\n\n.grad-img img {\n\tdisplay: block;\n\twidth: 100px;\n    height: 100px;\n    border-radius: 50%;\n\t\n}\n\n.grad-name {\n\tdisplay: flex;\n\tfont-size: 1.3rem;\n    color: #2198d9;\n    line-height: 1.4;\n}\n\n.grad-program {\n\tdisplay: flex;\n\tfont-style: italic;\n\tfont-weight: bold;\n\tcolor: #8a8a8a;\n\tfont-size: .9rem;\n}\n\n.grad-email,\n.grad-website,\n.grad-research,\n.grad-faculty {\n\tfont-size: .9rem;\n}\n\n.grad-research {\n  padding:  5px 10px;\n  margin: 0 auto 15px;\n  background: #f9f9f9;\n  border-radius: 5%;\n}\n\n.grad-email {\n\tmargin-top: auto;\n}\n\n.grad-website a {\n  color: #fff;\n  background: rgba(9, 121, 221, 0.71);\n  margin-top: 15px;\n  user-select: none;\n  cursor: pointer;\n  outline: 0;\n  border: none;\n  -webkit-tap-highlight-color: transparent;\n  display: inline-block;\n  white-space: nowrap;\n  text-decoration: none;\n  vertical-align: baseline;\n  text-align: center;\n  min-width: 88px;\n  line-height: 36px;\n  padding: 0 16px;\n  border-radius: 2px;\n  box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);\n  transition: background .3s ease,\n  \tbox-shadow .3s ease;\n}\n\n.grad-website a:hover {\n  color: #fff;\n  background: rgba(9, 121, 221, 0.55);\n  box-shadow: none;\n}\n\n.grad-faculty {\n\tborder-top: 1px solid #eee;\n\tpadding-top: 5px;\n\ttext-align: left;\n\tmargin: 15px 0 0;\n}\n\n\na[href*=\"@ucr.edu\"]:after {\n    display: inline-block;\n    font: normal normal normal 24px/1 \"Material Design Icons\";\n    font-size: inherit;\n    text-rendering: auto;\n    line-height: inherit;\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    content: \"\\f1f0\";\n    padding-left: 4px;\n}\n\n\n@media (min-width: 40rem) {\n\t.grads {\n\t\tflex-direction: row;\n\t\tflex-wrap: wrap;\n\t}\n\t.grad-card {\n\t\twidth: 47%;\n\t\tmargin: 0 1% 1.5rem;\n\t}\n}\n\n@media (min-width: 62rem) {\n\t.grads {\n\t\tflex-direction: row;\n\t\tflex-wrap: wrap;\n\t}\n\t.grad-card {\n\t\twidth: 31%;\n\t}\n}\n</style>\n";
-
-},{}],3:[function(require,module,exports){
+},{"./template.js":2}],2:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {

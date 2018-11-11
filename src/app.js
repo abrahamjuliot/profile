@@ -1,4 +1,3 @@
-import css from './css.js'
 import template from './template.js'
 
 // ie11 fix for template.content
@@ -51,6 +50,13 @@ const http = xhr()
 // doc readyState
 const ready = (fn) => document.readyState != 'loading' ? fn(): 
 	document.addEventListener('DOMContentLoaded', fn);
+
+//github repo
+const githubURL = 'https://abrahamjuliot.github.io/profile/'
+
+// css
+const cssURL = 'dist/style.min.css'
+const css = `<link rel='stylesheet' type='text/css' href=${githubURL+cssURL}>`
 
 // json
 const url = window.gradStudentJSONURL
