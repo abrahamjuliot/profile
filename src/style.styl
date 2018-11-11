@@ -1,3 +1,8 @@
+//variables
+tablet = '(min-width: 40rem)'
+desktop = '(min-width: 62rem)'
+
+// placholders
 $small-font {
 	font-size: .9rem
 }
@@ -7,11 +12,24 @@ $flex-col {
 	flex-direction: column
 	flex-wrap: nowrap
 }
+$flex-row-wrap {
+	flex-direction: row
+	flex-wrap: wrap	
+}
 
+// mixins
+on(x) {
+  @media x { block }
+}
+
+// app
 .grads {
 	@extends $flex-col
 	margin: 0 auto
 	justify-content: space-between
+	+on(tablet) {
+		@extends $flex-row-wrap
+	}
 }
 
 .grad-card {
@@ -20,9 +38,16 @@ $flex-col {
 	margin: 0 0 1.5rem
 	padding: 24px
     box-shadow: 
-    	0 3px 1px -2px rgba(0,0,0,.2),
-    	0 2px 2px 0 rgba(0,0,0,.14), 
-    	0 1px 5px 0 rgba(0,0,0,.12)
+		0 3px 1px -2px rgba(0,0,0,.2),
+		0 2px 2px 0 rgba(0,0,0,.14), 
+		0 1px 5px 0 rgba(0,0,0,.12)
+    +on(tablet) {
+		width: 47%
+		margin: 0 1% 1.5rem
+    }
+    +on(desktop) {
+		width: 31%
+    }
 }
 
 .grad-header {
@@ -36,7 +61,7 @@ $flex-col {
 		img {
 			display: block
 			width: 100px
-			height: 100px
+			height: @width
 			border-radius: 50%
 		}
 	}
@@ -71,6 +96,17 @@ $flex-col {
 	}
 	.grad-email {
 		margin-top: auto
+		a[href*="@ucr.edu"]:after {
+			display: inline-block
+			font: normal normal normal 24px/1 "Material Design Icons"
+			font-size: inherit
+			text-rendering: auto
+			line-height: inherit
+			-webkit-font-smoothing: antialiased
+			-moz-osx-font-smoothing: grayscale
+			content: "\f1f0"
+			padding-left: 4px
+		}
 	}
 	.grad-website {
 		text-align: right
@@ -92,8 +128,12 @@ $flex-col {
 			line-height: 36px
 			padding: 0 16px
 			border-radius: 2px
-			box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12)
-			transition: background .3s ease,
+			box-shadow: 
+				0 3px 1px -2px rgba(0,0,0,.2),
+				0 2px 2px 0 rgba(0,0,0,.14),
+				0 1px 5px 0 rgba(0,0,0,.12)
+			transition:
+				background .3s ease,
 				box-shadow .3s ease
 			&:hover {
 				color: #fff
@@ -108,38 +148,5 @@ $flex-col {
 		padding: 15px 0 0
 		text-align: left
 		margin: 15px 0 0
-	}
-}
-
-a[href*="@ucr.edu"]:after {
-    display: inline-block
-    font: normal normal normal 24px/1 "Material Design Icons"
-    font-size: inherit
-    text-rendering: auto
-    line-height: inherit
-    -webkit-font-smoothing: antialiased
-    -moz-osx-font-smoothing: grayscale
-    content: "\f1f0"
-    padding-left: 4px
-}
-
-@media (min-width: 40rem) {
-	.grads {
-		flex-direction: row
-		flex-wrap: wrap
-	}
-	.grad-card {
-		width: 47%
-		margin: 0 1% 1.5rem
-	}
-}
-
-@media (min-width: 62rem) {
-	.grads {
-		flex-direction: row
-		flex-wrap: wrap
-	}
-	.grad-card {
-		width: 31%
 	}
 }
