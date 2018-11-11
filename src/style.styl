@@ -2,19 +2,20 @@ $small-font {
 	font-size: .9rem
 }
 
-
-.grads {
+$flex-col {
 	display: flex
 	flex-direction: column
 	flex-wrap: nowrap
+}
+
+.grads {
+	@extends $flex-col
 	margin: 0 auto
 	justify-content: space-between
 }
 
 .grad-card {
-	display: flex
-	flex-direction: column
-	flex-wrap: nowrap
+	@extends $flex-col
 	width: 100%
 	margin: 0 0 1.5rem
 	padding: 24px
