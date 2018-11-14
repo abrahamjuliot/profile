@@ -1,7 +1,7 @@
 [
   {
     "name": "Macon Abernathy",
-    "img": "https://picsum.photos/300",
+    "img": "macon_abernathy.jpg",
     "email": "maber001@",
     "program": "ENTX",
     "faculty": "ying",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Yuhua Xiong",
-    "img": "https://picsum.photos/300",
+    "img": "xiong_yuhua.jpg",
     "email": "yxion002@",
     "program": "ECON",
     "faculty": "schwabe",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Yaxin (Jane) Xiong",
-    "img": "https://picsum.photos/300",
+    "img": "xiong_yaxin.jpg",
     "email": "yxion024@",
     "program": "ENSC",
     "faculty": "gan",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Douglas Wolf",
-    "img": "https://picsum.photos/300",
+    "img": "wolf_douglas.jpg ",
     "email": "dwolf003@",
     "program": "ENTX",
     "faculty": "gan",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Sara Vliet",
-    "img": "https://picsum.photos/300",
+    "img": "vliet_sara.jpg",
     "email": "svlie001@",
     "program": "ENTX",
     "faculty": "volz",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Allison Taylor",
-    "img": "https://picsum.photos/300",
+    "img": "taylor_allison.jpeg",
     "email": "atayl006@",
     "program": "ENSC",
     "faculty": "gan",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Philip Tanabe",
-    "img": "https://picsum.photos/300",
+    "img": "tanabe.jpg",
     "email": "ptana001@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Nathan Sy",
-    "img": "https://picsum.photos/300",
+    "img": "nathan_sy.png",
     "email": "nsy001@",
     "program": "ENSC",
     "faculty": "gan",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Amninder Singh",
-    "img": "https://picsum.photos/300",
+    "img": "amninder_singh.jpg",
     "email": "asing075@",
     "program": "ENSC",
     "faculty": "haghverdi",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Matthew Schweiger",
-    "img": "https://picsum.photos/300",
+    "img": "schweiger_matthew.jpg",
     "email": "mschw013@",
     "program": "ENSC",
     "faculty": "ajami",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Michael Rodriguez",
-    "img": "https://picsum.photos/300",
+    "img": "rodriguez_michael.jpg",
     "email": "mrodr149@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -163,7 +163,7 @@
   },
   {
     "name": "Victoria McGruer",
-    "img": "https://picsum.photos/300",
+    "img": "mcgruer_victoria.jpg",
     "email": "vmcgr001@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Julianna McDonnell",
-    "img": "https://picsum.photos/300",
+    "img": "julianna_mcdonnell.jpg",
     "email": "jmcdo009@",
     "program": "ENSC",
     "faculty": "gray",
@@ -190,7 +190,7 @@
   },
   {
     "name": "Joyce Jong",
-    "img": "https://picsum.photos/300",
+    "img": "jong_joyce.jpeg",
     "email": "sjong002@",
     "program": "ENSC",
     "faculty": "crohn",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Aarushi Jha",
-    "img": "https://picsum.photos/300",
+    "img": "aarushi_jha.jpg",
     "email": "ajha005@",
     "program": "ENSC",
     "faculty": "ajami",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Gary Harraka",
-    "img": "https://picsum.photos/300",
+    "img": "harraka_gary.jpg",
     "email": "gharr008@",
     "program": "ENSC",
     "faculty": "schlenk",
@@ -226,7 +226,7 @@
   },
   {
     "name": "James Guilinger",
-    "img": "https://picsum.photos/300",
+    "img": "guilinger_james.jpg",
     "email": "jguil009@",
     "program": "ENSC",
     "faculty": "gray",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Isis Frausto-Vicencio",
-    "img": "https://picsum.photos/300",
+    "img": "award_isis.jpg",
     "email": "ifrau001@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -262,7 +262,7 @@
   },
   {
     "name": "Hasnain Farooq",
-    "img": "https://picsum.photos/300",
+    "img": "farooq_hasnain.jpg",
     "email": "hfaro001@",
     "program": "ENSC",
     "faculty": "wu",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Stacia Dudley",
-    "img": "https://picsum.photos/300",
+    "img": "dudley_stacia.jpg",
     "email": "sdudl001@",
     "program": "ENTX",
     "faculty": "gan",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Win Cowger",
-    "img": "https://picsum.photos/300",
+    "img": "award_cowger.jpg",
     "email": "wcowg001@",
     "program": "ENSC",
     "faculty": "gray",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Scott Coffin",
-    "img": "https://picsum.photos/300",
+    "img": "coffin_scott.jpg",
     "email": "scoff003@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -307,7 +307,7 @@
   },
   {
     "name": "Yumeng Cui",
-    "img": "https://picsum.photos/300",
+    "img": "yumeng_cui.jpg",
     "email": "ycui027@",
     "program": "ENSC",
     "faculty": "bahreini",
@@ -316,7 +316,7 @@
   },
   {
     "name": "Seto Cherchian",
-    "img": "https://picsum.photos/300",
+    "img": "seto_cherchian.jpg",
     "email": "scher005@",
     "program": "ENSC",
     "faculty": "wu",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Vanessa Cheng",
-    "img": "https://picsum.photos/300",
+    "img": "vanessa_cheng.jpg",
     "email": "vchen009@",
     "program": "ENTX",
     "faculty": "volz",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Jin Chen",
-    "img": "https://picsum.photos/300",
+    "img": "chen_jin.jpg",
     "email": "jchen137@",
     "program": "ENTX",
     "faculty": "lin",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Valerie Carranza",
-    "img": "https://picsum.photos/300",
+    "img": "valerie_carranza.jpg",
     "email": "vcarr007@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Claudia Avila",
-    "img": "https://picsum.photos/300",
+    "img": "award_claudia_2.jpg",
     "email": "cmari009@",
     "program": "ENSC",
     "faculty": "ying",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Miranda Aiken",
-    "img": "https://picsum.photos/300",
+    "img": "aiken_miranda.jpg",
     "email": "maike001@",
     "program": "ENTX",
     "faculty": "ying",
@@ -379,7 +379,7 @@
   },
   {
     "name": "C M Sabbir Ahmed",
-    "img": "https://picsum.photos/300",
+    "img": "sabbir_ahmed.jpg",
     "email": "cahme002@",
     "program": "ENTX",
     "faculty": "lin",
