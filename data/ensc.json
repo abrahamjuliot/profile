@@ -1,7 +1,7 @@
 [
   {
     "name": "Macon Abernathy",
-    "img": "macon_abernathy.jpg",
+    "img": "macon_abernathy",
     "email": "maber001@",
     "program": "ENTX",
     "faculty": "ying",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Yuhua Xiong",
-    "img": "xiong_yuhua.jpg",
+    "img": "xiong_yuhua",
     "email": "yxion002@",
     "program": "ECON",
     "faculty": "schwabe",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Yaxin (Jane) Xiong",
-    "img": "xiong_yaxin.jpg",
+    "img": "xiong_yaxin",
     "email": "yxion024@",
     "program": "ENSC",
     "faculty": "gan",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Douglas Wolf",
-    "img": "wolf_douglas.jpg ",
+    "img": "wolf_douglas ",
     "email": "dwolf003@",
     "program": "ENTX",
     "faculty": "gan",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Sara Vliet",
-    "img": "vliet_sara.jpg",
+    "img": "vliet_sara",
     "email": "svlie001@",
     "program": "ENTX",
     "faculty": "volz",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Philip Tanabe",
-    "img": "tanabe.jpg",
+    "img": "tanabe",
     "email": "ptana001@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Amninder Singh",
-    "img": "amninder_singh.jpg",
+    "img": "amninder_singh",
     "email": "asing075@",
     "program": "ENSC",
     "faculty": "haghverdi",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Matthew Schweiger",
-    "img": "schweiger_matthew.jpg",
+    "img": "schweiger_matthew",
     "email": "mschw013@",
     "program": "ENSC",
     "faculty": "ajami",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Michael Rodriguez",
-    "img": "rodriguez_michael.jpg",
+    "img": "rodriguez_michael",
     "email": "mrodr149@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -163,7 +163,7 @@
   },
   {
     "name": "Victoria McGruer",
-    "img": "mcgruer_victoria.jpg",
+    "img": "mcgruer_victoria",
     "email": "vmcgr001@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Julianna McDonnell",
-    "img": "julianna_mcdonnell.jpg",
+    "img": "julianna_mcdonnell",
     "email": "jmcdo009@",
     "program": "ENSC",
     "faculty": "gray",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Aarushi Jha",
-    "img": "aarushi_jha.jpg",
+    "img": "aarushi_jha",
     "email": "ajha005@",
     "program": "ENSC",
     "faculty": "ajami",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Gary Harraka",
-    "img": "harraka_gary.jpg",
+    "img": "harraka_gary",
     "email": "gharr008@",
     "program": "ENSC",
     "faculty": "schlenk",
@@ -226,7 +226,7 @@
   },
   {
     "name": "James Guilinger",
-    "img": "guilinger_james.jpg",
+    "img": "guilinger_james",
     "email": "jguil009@",
     "program": "ENSC",
     "faculty": "gray",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Isis Frausto-Vicencio",
-    "img": "award_isis.jpg",
+    "img": "award_isis",
     "email": "ifrau001@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -262,7 +262,7 @@
   },
   {
     "name": "Hasnain Farooq",
-    "img": "farooq_hasnain.jpg",
+    "img": "farooq_hasnain",
     "email": "hfaro001@",
     "program": "ENSC",
     "faculty": "wu",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Stacia Dudley",
-    "img": "dudley_stacia.jpg",
+    "img": "dudley_stacia",
     "email": "sdudl001@",
     "program": "ENTX",
     "faculty": "gan",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Win Cowger",
-    "img": "award_cowger.jpg",
+    "img": "award_cowger",
     "email": "wcowg001@",
     "program": "ENSC",
     "faculty": "gray",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Scott Coffin",
-    "img": "coffin_scott.jpg",
+    "img": "coffin_scott",
     "email": "scoff003@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -307,7 +307,7 @@
   },
   {
     "name": "Yumeng Cui",
-    "img": "yumeng_cui.jpg",
+    "img": "yumeng_cui",
     "email": "ycui027@",
     "program": "ENSC",
     "faculty": "bahreini",
@@ -316,7 +316,7 @@
   },
   {
     "name": "Seto Cherchian",
-    "img": "seto_cherchian.jpg",
+    "img": "seto_cherchian",
     "email": "scher005@",
     "program": "ENSC",
     "faculty": "wu",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Vanessa Cheng",
-    "img": "vanessa_cheng.jpg",
+    "img": "vanessa_cheng",
     "email": "vchen009@",
     "program": "ENTX",
     "faculty": "volz",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Jin Chen",
-    "img": "chen_jin.jpg",
+    "img": "chen_jin",
     "email": "jchen137@",
     "program": "ENTX",
     "faculty": "lin",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Valerie Carranza",
-    "img": "valerie_carranza.jpg",
+    "img": "valerie_carranza",
     "email": "vcarr007@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Claudia Avila",
-    "img": "award_claudia_2.jpg",
+    "img": "award_claudia_2",
     "email": "cmari009@",
     "program": "ENSC",
     "faculty": "ying",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Miranda Aiken",
-    "img": "aiken_miranda.jpg",
+    "img": "aiken_miranda",
     "email": "maike001@",
     "program": "ENTX",
     "faculty": "ying",
@@ -379,7 +379,7 @@
   },
   {
     "name": "C M Sabbir Ahmed",
-    "img": "sabbir_ahmed.jpg",
+    "img": "sabbir_ahmed",
     "email": "cahme002@",
     "program": "ENTX",
     "faculty": "lin",
