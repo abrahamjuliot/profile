@@ -81,8 +81,10 @@ var githubURL = 'https://abrahamjuliot.github.io/profile/';
 var cssURL = 'dist/style.min.css';
 var css = '<style>.full primary-content-area {min-height: 700px}</style><link rel=\'stylesheet\' type=\'text/css\' href=' + (githubURL + cssURL) + '>';
 
-// json
-var url = window.gradStudentJSONURL;
+// site and json
+var siteURL = window.gradStudentJSONURL;
+var url = 'https://abrahamjuliot.github.io/profile/data/' + siteURL + '.json';
+var site = siteURL == 'ensc' ? 'rcwecm1171' : siteURL == 'geo' ? 'rcwecm1176' : '';
 
 // sort json by last word in search field
 var by = function by(getValue) {
@@ -101,7 +103,7 @@ http.get(url, function (json) {
 
 	var data = sortBy(json, 'name');
 	ready(function () {
-		patch(document.getElementById('gradstudents'), html(_templateObject, (0, _template2.default)(css, data)));
+		patch(document.getElementById('gradstudents'), html(_templateObject, (0, _template2.default)(site, css, data)));
 	});
 });
 
@@ -165,9 +167,9 @@ var when = function when(x, template) {
     return x ? '' + template : '';
 };
 
-var template = function template(css, data) {
+var template = function template(site, css, data) {
     return css + '\n<section class=\'grads\'>\n    ' + repeat(data, function (item) {
-        return '\n        <div class=\'grad-card\'>\n            <div class=\'grad-header\'>\n                ' + when(item.img, '<div class=\'grad-img\'><img src=\'/sites/g/files/rcwecm1176/files/' + item.img + '.jpg\'/></div>') + '\n                <div class=\'grad-intro\'>\n                    <div class=\'grad-name\'>' + item.name + '</div>\n                    ' + when(item.program, '<div class=\'grad-program\'>' + Program(item.program) + '</div>') + '\n                </div>\n            </div>\n            <div class=\'grad-section\'>\n                ' + when(item.research, '<div class=\'grad-research\'>' + item.research + '</div>') + '\n                ' + when(item.email, '<div class=\'grad-email\'>\n                    <a href=\'mailto:' + item.email + 'ucr.edu\'>' + item.email + 'ucr.edu</a>\n                </div>') + '\n                ' + when(item.websiteURL, '<div class=\'grad-website\'>\n                    <a href=\'' + item.websiteURL + '\' target=\'_blank\'>View Website</a>\n                </div>') + '\n                ' + when(item.faculty, '<div class=\'grad-faculty\'>Advisor: \n                    <a href=\'https://profiles.ucr.edu/' + PI(item.faculty.toLowerCase())[1] + '\' target=\'_blank\'>\n                        ' + PI(item.faculty.toLowerCase())[0] + '\n                    </a>\n                </div>') + '\n            </div>\n        </div>\n    ';
+        return '\n        <div class=\'grad-card\'>\n            <div class=\'grad-header\'>\n                ' + when(item.img, '<div class=\'grad-img\'><img src=\'/sites/g/files/' + site + '/files/' + item.img + '.jpg\'/></div>') + '\n                <div class=\'grad-intro\'>\n                    <div class=\'grad-name\'>' + item.name + '</div>\n                    ' + when(item.program, '<div class=\'grad-program\'>' + Program(item.program) + '</div>') + '\n                </div>\n            </div>\n            <div class=\'grad-section\'>\n                ' + when(item.research, '<div class=\'grad-research\'>' + item.research + '</div>') + '\n                ' + when(item.email, '<div class=\'grad-email\'>\n                    <a href=\'mailto:' + item.email + 'ucr.edu\'>' + item.email + 'ucr.edu</a>\n                </div>') + '\n                ' + when(item.websiteURL, '<div class=\'grad-website\'>\n                    <a href=\'' + item.websiteURL + '\' target=\'_blank\'>View Website</a>\n                </div>') + '\n                ' + when(item.faculty, '<div class=\'grad-faculty\'>Advisor: \n                    <a href=\'https://profiles.ucr.edu/' + PI(item.faculty.toLowerCase())[1] + '\' target=\'_blank\'>\n                        ' + PI(item.faculty.toLowerCase())[0] + '\n                    </a>\n                </div>') + '\n            </div>\n        </div>\n    ';
     }) + '\n</section>\n';
 };
 

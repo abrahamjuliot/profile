@@ -72,14 +72,14 @@ const repeat = (list, fn) => list.map(item => fn(item)).join('')
 // template conditional
 const when = (x, template) => x ? `${template}`: ''
 
-const template = (css, data) =>
+const template = (site, css, data) =>
 `${css}
 <section class='grads'>
     ${repeat(data, (item) => `
         <div class='grad-card'>
             <div class='grad-header'>
                 ${when(item.img,
-                `<div class='grad-img'><img src='/sites/g/files/rcwecm1171/files/${item.img}.jpg'/></div>`)}
+                `<div class='grad-img'><img src='/sites/g/files/${site}/files/${item.img}.jpg'/></div>`)}
                 <div class='grad-intro'>
                     <div class='grad-name'>${item.name}</div>
                     ${when(item.program,

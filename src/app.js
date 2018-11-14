@@ -54,12 +54,16 @@ const ready = (fn) => document.readyState != 'loading' ? fn():
 //github repo
 const githubURL = 'https://abrahamjuliot.github.io/profile/'
 
+
+
 // css
 const cssURL = 'dist/style.min.css'
 const css = `<style>.full primary-content-area {min-height: 700px}</style><link rel='stylesheet' type='text/css' href=${githubURL+cssURL}>`
 
-// json
-const url = window.gradStudentJSONURL
+// site and json
+const siteURL = window.gradStudentJSONURL
+const url = `https://abrahamjuliot.github.io/profile/data/${siteURL}.json`
+const site = siteURL == 'ensc'? 'rcwecm1171' : siteURL == 'geo'? 'rcwecm1176' : ''
 
 // sort json by last word in search field
 const by = (getValue) => (a, b) => getValue(a) > getValue(b) ? 1 : -1
@@ -71,6 +75,6 @@ http.get(url, (json) => {
 	const data = sortBy(json, 'name')
 	ready(() => {
 		patch(document.getElementById('gradstudents'),
-		html`${template(css, data)}`)
+		html`${template(site, css, data)}`)
 	})
 })
