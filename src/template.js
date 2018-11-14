@@ -79,7 +79,7 @@ const template = (css, data) =>
         <div class='grad-card'>
             <div class='grad-header'>
                 ${when(item.img,
-                `<div class='grad-img'><img src='/sites/g/files/rcwecm1176/files/${item.img}.jpg'/></div>`)}
+                `<div class='grad-img'><img src='/sites/g/files/rcwecm1171/files/${item.img}.jpg'/></div>`)}
                 <div class='grad-intro'>
                     <div class='grad-name'>${item.name}</div>
                     ${when(item.program,
