@@ -10,7 +10,7 @@
   },
   {
     "name": "Tiantian Zhou",
-    "img": "",
+    "img": "tiantian_zhou",
     "email": "tzhou035@",
     "program": "ENSC",
     "faculty": "simunek",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Allison Taylor",
-    "img": "taylor_allison.jpeg",
+    "img": "taylor_allison",
     "email": "atayl006@",
     "program": "ENSC",
     "faculty": "gan",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Philip Tanabe",
-    "img": "tanabe",
+    "img": "tanabe_phillip",
     "email": "ptana001@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Anish Sapkota",
-    "img": "",
+    "img": "sapkota_anish",
     "email": "asapk001@",
     "program": "ENSC",
     "faculty": "haghverdi",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Aalekhya Reddam",
-    "img": "",
+    "img": "https://picsum.photos/300",
     "email": "aredd006@",
     "program": "ENTX",
     "faculty": "volz",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Yaning Miao",
-    "img": "",
+    "img": "yaning_miao",
     "email": "ymiao010@",
     "program": "ENSC",
     "faculty": "porter",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Connie Mitchell",
-    "img": "",
+    "img": "connie_mitchell",
     "email": "cmitc007@",
     "program": "ENTX",
     "faculty": "volz",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Nathan Jumps",
-    "img": "",
+    "img": "https://picsum.photos/300",
     "email": "njump001@",
     "program": "ENSC",
     "faculty": "gray",
@@ -190,7 +190,7 @@
   },
   {
     "name": "Joyce Jong",
-    "img": "jong_joyce.jpeg",
+    "img": "jong_joyce",
     "email": "sjong002@",
     "program": "ENSC",
     "faculty": "crohn",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Sarah Helalia",
-    "img": "",
+    "img": "helalia_sarah",
     "email": "shela001@",
     "program": "ENSC",
     "faculty": "simunek",
@@ -226,7 +226,7 @@
   },
   {
     "name": "James Guilinger",
-    "img": "guilinger_james",
+    "img": "guilinger_jimmy",
     "email": "jguil009@",
     "program": "ENSC",
     "faculty": "gray",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Marissa Giroux",
-    "img": "",
+    "img": "giroux_marissa",
     "email": "mgiro003@",
     "program": "ENTX",
     "faculty": "schlenk",
@@ -244,7 +244,7 @@
   },
   {
     "name": "Alexander Frie",
-    "img": "",
+    "img": "frie_alexander",
     "email": "afrie003@",
     "program": "ENSC",
     "faculty": "bahreini",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Isis Frausto-Vicencio",
-    "img": "award_isis",
+    "img": "isis_frausto",
     "email": "ifrau001@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -280,7 +280,7 @@
   },
   {
     "name": "Zachary Cryder",
-    "img": "",
+    "img": "cryder_zachary",
     "email": "zcryd001@",
     "program": "ENTX",
     "faculty": "gan",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Win Cowger",
-    "img": "award_cowger",
+    "img": "win_cowger",
     "email": "wcowg001@",
     "program": "ENSC",
     "faculty": "gray",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Claudia Avila",
-    "img": "award_claudia_2",
+    "img": "marin_claudia",
     "email": "cmari009@",
     "program": "ENSC",
     "faculty": "ying",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Nicolette Andrzejczyk",
-    "img": "",
+    "img": "andrzejczyk_nicolette",
     "email": "nandr009@",
     "program": "ENSC",
     "faculty": "schlenk",
