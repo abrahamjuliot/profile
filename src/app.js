@@ -58,7 +58,7 @@ const githubURL = 'https://abrahamjuliot.github.io/profile/'
 
 // css
 const cssURL = 'dist/style.min.css'
-const css = `<style>.full primary-content-area {min-height: 700px}</style><link rel='stylesheet' type='text/css' href=${githubURL+cssURL}>`
+const css = ''//`<link rel='stylesheet' type='text/css' href=${githubURL+cssURL}>`
 
 // site and json
 const siteURL = window.gradStudentJSONURL
