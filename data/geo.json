@@ -10,7 +10,7 @@
   },
   {
     "name": "Alma Ceja",
-    "img": "alma_ceja",
+    "img": "alma_ceja_0",
     "email": "aceja005@",
     "program": "GEO",
     "faculty": "Kane",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Kuntal Chaudhuri",
-    "img": "kuntal_chaudhuri",
+    "img": "kuntal_chaudhuri_0",
     "email": "kchau012@",
     "program": "GEO",
     "faculty": "Ghosh",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Konstantin Choumiline",
-    "img": "konstantin_choumiline",
+    "img": "konstantin_choumiline_0",
     "email": "kchou002@",
     "program": "GEO",
     "faculty": "Lyons",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Charles Diamond",
-    "img": "charles_diamond",
+    "img": "charles_diamond_0",
     "email": "cdiam001@",
     "program": "GEO",
     "faculty": "Lyons",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Christine Hall",
-    "img": "christine_hall",
+    "img": "christine_hall_0",
     "email": "csolo001@",
     "program": "GEO",
     "faculty": "Droser",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Adam Hoffman",
-    "img": "adam_hoffman",
+    "img": "adam_hoffman_0",
     "email": "ahoff003@",
     "program": "GEO",
     "faculty": "Bekker",
