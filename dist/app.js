@@ -79,7 +79,7 @@ var githubURL = 'https://abrahamjuliot.github.io/profile/';
 
 // css
 var cssURL = 'dist/style.min.css';
-var css = '<style>.full primary-content-area {min-height: 700px}</style><link rel=\'stylesheet\' type=\'text/css\' href=' + (githubURL + cssURL) + '>';
+var css = ''; //`<link rel='stylesheet' type='text/css' href=${githubURL+cssURL}>`
 
 // site and json
 var siteURL = window.gradStudentJSONURL;

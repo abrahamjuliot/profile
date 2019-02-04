@@ -153,15 +153,6 @@
     "websiteURL": ""
   },
   {
-    "name": "Connie Mitchell",
-    "img": "connie_mitchell",
-    "email": "cmitc007@",
-    "program": "ENTX",
-    "faculty": "volz",
-    "research": "Developmental toxicity of triphenyl phosphate (TPHP) in zebrafish embryos",
-    "websiteURL": ""
-  },
-  {
     "name": "Victoria McGruer",
     "img": "mcgruer_victoria",
     "email": "vmcgr001@",
@@ -294,15 +285,6 @@
     "program": "ENSC",
     "faculty": "gray",
     "research": "Studying plastic pollution with a focus on developing maps of plastic pollution and refining our knowledge of the relationship between land and sea based sources of plastic pollution",
-    "websiteURL": ""
-  },
-  {
-    "name": "Scott Coffin",
-    "img": "coffin_scott",
-    "email": "scoff003@",
-    "program": "ENTX",
-    "faculty": "schlenk",
-    "research": "Researching epigenetic and teratogenic effects of plastic debris on fish",
     "websiteURL": ""
   },
   {
