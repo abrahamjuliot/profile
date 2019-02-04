@@ -127,7 +127,7 @@
   },
   {
     "name": "Aalekhya Reddam",
-    "img": "https://picsum.photos/300",
+    "img": "aalekhya_reddam",
     "email": "aredd006@",
     "program": "ENTX",
     "faculty": "volz",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Nathan Jumps",
-    "img": "https://picsum.photos/300",
+    "img": "jumps_nathan",
     "email": "njump001@",
     "program": "ENSC",
     "faculty": "gray",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Claudia Avila",
-    "img": "marin_claudia",
+    "img": "avila_claudia",
     "email": "cmari009@",
     "program": "ENSC",
     "faculty": "ying",
