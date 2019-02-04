@@ -37,7 +37,7 @@
   },
   {
     "name": "Douglas Wolf",
-    "img": "wolf_douglas ",
+    "img": "wolf_douglas",
     "email": "dwolf003@",
     "program": "ENTX",
     "faculty": "gan",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Nathan Sy",
-    "img": "nathan_sy.png",
+    "img": "nathan_sy",
     "email": "nsy001@",
     "program": "ENSC",
     "faculty": "gan",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Seto Cherchian",
-    "img": "seto_cherchian",
+    "img": "seto_cherchian_1",
     "email": "scher005@",
     "program": "ENSC",
     "faculty": "wu",
