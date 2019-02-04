@@ -1,6 +1,6 @@
 [
   {
-    "name": "Andrew Birkey",
+    "name": "andrew_birkey",
     "img": "",
     "email": "abirk001@",
     "program": "GEO",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Alma Ceja",
-    "img": "",
+    "img": "alma_ceja",
     "email": "aceja005@",
     "program": "GEO",
     "faculty": "Kane",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Kuntal Chaudhuri",
-    "img": "kuntal",
+    "img": "kuntal_chaudhuri",
     "email": "kchau012@",
     "program": "GEO",
     "faculty": "Ghosh",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Charles Diamond",
-    "img": "",
+    "img": "charles_diamond",
     "email": "cdiam001@",
     "program": "GEO",
     "faculty": "Lyons",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Christine Hall",
-    "img": "",
+    "img": "christine_hall",
     "email": "csolo001@",
     "program": "GEO",
     "faculty": "Droser",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Mohammad Taufiq Hassan Mozumder",
-    "img": "",
+    "img": "mohammad_taufiq_hassan_mozumder",
     "email": "mhass004@",
     "program": "GEO",
     "faculty": "Allen",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Adam Hoffman",
-    "img": "",
+    "img": "adam_hoffman",
     "email": "ahoff003@",
     "program": "GEO",
     "faculty": "Bekker",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Jin-Bo Hou",
-    "img": "",
+    "img": "jin-bo_hou",
     "email": "jhou006@",
     "program": "GEO",
     "faculty": "Hughes",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Michelle Hill",
-    "img": "",
+    "img": "michelle_hill",
     "email": "mhill012@",
     "program": "GEO",
     "faculty": "Kane",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Allison Keller",
-    "img": "",
+    "img": "allison_keller",
     "email": "akell002@",
     "program": "GEO",
     "faculty": "Turner",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Bridget Kelly",
-    "img": "",
+    "img": "bridget_kelly",
     "email": "bkell006@",
     "program": "GEO",
     "faculty": "Droser",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Shankho Niyogi",
-    "img": "",
+    "img": "shankho_niyogi",
     "email": "sniyo001@",
     "program": "GEO",
     "faculty": "Ghosh",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Jonathan Nye",
-    "img": "",
+    "img": "jonathan_nye",
     "email": "jnye001@",
     "program": "GEO",
     "faculty": "Fogel",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Rachel Surprenant",
-    "img": "",
+    "img": "rachel_surprenant",
     "email": "rsurp001@",
     "program": "GEO",
     "faculty": "Droser",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Rachel Terry",
-    "img": "",
+    "img": "rachel_terry",
     "email": "rterr004@",
     "program": "GEO",
     "faculty": "Funning",
@@ -316,7 +316,7 @@
   },
   {
     "name": "Ernesto Vargas-Parra",
-    "img": "",
+    "img": "ernesto_vargas-parra",
     "email": "evarg013@",
     "program": "GEO",
     "faculty": "Hughes",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Baoning Wu",
-    "img": "baoning",
+    "img": "baoning_wu",
     "email": "bwu015@",
     "program": "GEO",
     "faculty": "Oglesby",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Xueying Zhao",
-    "img": "",
+    "img": "xueying_zhao",
     "email": "xzhao009@",
     "program": "GEO",
     "faculty": "Allen",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Alex Zumberge",
-    "img": "",
+    "img": "alex_zumberge",
     "email": "jzumb001@",
     "program": "GEO",
     "faculty": "Love",
