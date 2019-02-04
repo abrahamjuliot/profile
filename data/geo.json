@@ -100,7 +100,7 @@
   },
   {
     "name": "Jin-Bo Hou",
-    "img": "jin-bo",
+    "img": "jin-bo_0",
     "email": "jhou006@",
     "program": "GEO",
     "faculty": "Hughes",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Pam Vervoort",
-    "img": "pam_vervoot",
+    "img": "pam_vervoot_0",
     "email": "pverv001@",
     "program": "GEO",
     "faculty": "Turner",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Baoning Wu",
-    "img": "baoning_wu",
+    "img": "baoning",
     "email": "bwu015@",
     "program": "GEO",
     "faculty": "Oglesby",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Alex Zumberge",
-    "img": "alex_zumberge",
+    "img": "",
     "email": "jzumb001@",
     "program": "GEO",
     "faculty": "Love",
