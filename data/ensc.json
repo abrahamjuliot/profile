@@ -1,7 +1,7 @@
 [
   {
     "name": "Macon Abernathy",
-    "img": "macon_abernathy",
+    "img": "macon_abernathy_0",
     "email": "maber001@",
     "program": "ENTX",
     "faculty": "ying",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Douglas Wolf",
-    "img": "wolf_douglas",
+    "img": "wolf_douglas_0",
     "email": "dwolf003@",
     "program": "ENTX",
     "faculty": "gan",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Sara Vliet",
-    "img": "vliet_sara",
+    "img": "vliet_sara_1",
     "email": "svlie001@",
     "program": "ENTX",
     "faculty": "volz",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Nathan Sy",
-    "img": "nathan_sy",
+    "img": "nathan_sy_0",
     "email": "nsy001@",
     "program": "ENSC",
     "faculty": "gan",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Michael Rodriguez",
-    "img": "rodriguez_michael",
+    "img": "rodriguez_michael_0",
     "email": "mrodr149@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Nathan Jumps",
-    "img": "jumps_nathan",
+    "img": "jumps_nathan_0",
     "email": "njump001@",
     "program": "ENSC",
     "faculty": "gray",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Valerie Carranza",
-    "img": "valerie_carranza_0",
+    "img": "valerie_carranza_1",
     "email": "vcarr007@",
     "program": "ENSC",
     "faculty": "hopkins",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Claudia Avila",
-    "img": "avila_claudia",
+    "img": "avila_claudia_0",
     "email": "cmari009@",
     "program": "ENSC",
     "faculty": "ying",
