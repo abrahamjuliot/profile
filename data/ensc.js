@@ -1,4 +1,4 @@
-[
+export default [
   {
     "name": "Macon Abernathy",
     "img": "macon_abernathy_0",

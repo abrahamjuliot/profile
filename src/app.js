@@ -1,6 +1,6 @@
 import template from './template.js'
-import ensc from '.data/ensc.js'
-import geo from '.data/geo.js'
+import ensc from '../data/ensc.js'
+import geo from '../data/geo.js'
 
 // ie11 fix for template.content
 function templateContent(template) {
