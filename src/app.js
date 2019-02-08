@@ -1,4 +1,6 @@
 import template from './template.js'
+import ensc from '.data/ensc.js'
+import geo from '.data/geo.js'
 
 // ie11 fix for template.content
 function templateContent(template) {
@@ -70,11 +72,18 @@ const by = (getValue) => (a, b) => getValue(a) > getValue(b) ? 1 : -1
 const sortBy = (arr, val) => arr.sort(by(obj => obj[val].split(" ").pop()))
 
 // app: get json then when DOM is ready patch html template
-http.get(url, (json) => {
+// http.get(url, (json) => {
 
-	const data = sortBy(json, 'name')
-	ready(() => {
-		patch(document.getElementById('gradstudents'),
-		html`${template(site, css, data)}`)
-	})
+// 	const data = sortBy(json, 'name')
+// 	ready(() => {
+// 		patch(document.getElementById('gradstudents'),
+// 		html`${template(site, css, data)}`)
+// 	})
+// })
+
+const json = siteURL == 'geo' ? geo : ensc
+const data = sortBy(json, 'name')
+ready(() => {
+	patch(document.getElementById('gradstudents'),
+	html`${template(site, css, data)}`)
 })
