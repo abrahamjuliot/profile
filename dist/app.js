@@ -469,14 +469,6 @@ exports.default = [{
   "research": "Geochemistry",
   "websiteURL": ""
 }, {
-  "name": "Bo Li",
-  "img": "bo_li",
-  "email": "bli017@",
-  "program": "GEO",
-  "faculty": "Ghosh",
-  "research": "Geophysics",
-  "websiteURL": ""
-}, {
   "name": "Shouwei Li",
   "img": "shouwei_li",
   "email": "sli227@",
@@ -588,14 +580,6 @@ exports.default = [{
   "faculty": "Funning",
   "research": "Geophysics",
   "websiteURL": "https://sites.google.com/ucr.edu/jswiatlowski/"
-}, {
-  "name": "Rachel Terry",
-  "img": "rachel_terry",
-  "email": "rterr004@",
-  "program": "GEO",
-  "faculty": "Funning",
-  "research": "Geophysics",
-  "websiteURL": "https://sites.google.com/ucr.edu/rachel-terry"
 }, {
   "name": "Christopher Tino",
   "img": "chris_tino_0",
