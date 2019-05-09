@@ -342,7 +342,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = [{
   "name": "Andrew Birkey",
-  "img": "",
+  "img": "birkey",
   "email": "abirk001@",
   "program": "GEO",
   "faculty": "Ford",
@@ -446,7 +446,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Michelle Hill",
-  "img": "",
+  "img": "hill",
   "email": "mhill012@",
   "program": "GEO",
   "faculty": "Kane",
@@ -462,7 +462,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Bridget Lee",
-  "img": "",
+  "img": "bridget_lee",
   "email": "blee045@",
   "program": "GEO",
   "faculty": "Lyons",
@@ -525,6 +525,14 @@ exports.default = [{
   "research": "Geophysics",
   "websiteURL": ""
 }, {
+  "name": "Bobby Nakamoto",
+  "img": "nakamoto",
+  "email": "bnaka004@",
+  "program": "EEOB",
+  "faculty": "Fogel",
+  "research": "Biogeochemistry",
+  "websiteURL": ""
+}, {
   "name": "Shankho Niyogi",
   "img": "shankho_niyogi",
   "email": "sniyo001@",
@@ -534,7 +542,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Jonathan Nye",
-  "img": "",
+  "img": "nye",
   "email": "jnye001@",
   "program": "GEO",
   "faculty": "Fogel",
@@ -598,7 +606,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Ernesto Vargas-Parra",
-  "img": "",
+  "img": "parra",
   "email": "evarg013@",
   "program": "GEO",
   "faculty": "Hughes",
@@ -814,7 +822,7 @@ var agree = function agree(x) {
 var track = function track(selection) {
     var _ref;
 
-    return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'GEO', 'Geological Sciences'), _defineProperty(_ref, 'ECON', 'Environmental Economics'), _defineProperty(_ref, 'default', ''), _ref;
+    return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'GEO', 'Geological Sciences'), _defineProperty(_ref, 'ECON', 'Environmental Economics'), _defineProperty(_ref, 'EEOB', 'Evolution, Ecology, and Organismal Biology'), _defineProperty(_ref, 'default', ''), _ref;
 };
 var Program = choose(track);
 

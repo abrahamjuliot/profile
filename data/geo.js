@@ -1,7 +1,7 @@
 export default [
   {
     "name": "Andrew Birkey",
-    "img": "",
+    "img": "birkey",
     "email": "abirk001@",
     "program": "GEO",
     "faculty": "Ford",
@@ -118,7 +118,7 @@ export default [
   },
   {
     "name": "Michelle Hill",
-    "img": "",
+    "img": "hill",
     "email": "mhill012@",
     "program": "GEO",
     "faculty": "Kane",
@@ -136,7 +136,7 @@ export default [
   },
   {
     "name": "Bridget Lee",
-    "img": "",
+    "img": "bridget_lee",
     "email": "blee045@",
     "program": "GEO",
     "faculty": "Lyons",
@@ -207,6 +207,15 @@ export default [
     "websiteURL": ""
   },
   {
+    "name": "Bobby Nakamoto",
+    "img": "nakamoto",
+    "email": "bnaka004@",
+    "program": "EEOB",
+    "faculty": "Fogel",
+    "research": "Biogeochemistry",
+    "websiteURL": ""
+  },
+  {
     "name": "Shankho Niyogi",
     "img": "shankho_niyogi",
     "email": "sniyo001@",
@@ -217,7 +226,7 @@ export default [
   },
   {
     "name": "Jonathan Nye",
-    "img": "",
+    "img": "nye",
     "email": "jnye001@",
     "program": "GEO",
     "faculty": "Fogel",
@@ -289,7 +298,7 @@ export default [
   },
   {
     "name": "Ernesto Vargas-Parra",
-    "img": "",
+    "img": "parra",
     "email": "evarg013@",
     "program": "GEO",
     "faculty": "Hughes",
