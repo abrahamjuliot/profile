@@ -262,7 +262,7 @@ export default [
   },
   {
     "name": "Rachel Surprenant",
-    "img": "",
+    "img": "surprenant",
     "email": "rsurp001@",
     "program": "GEO",
     "faculty": "Droser",
