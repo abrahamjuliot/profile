@@ -99,15 +99,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Matthew Schweiger",
-    "img": "schweiger_matthew",
-    "email": "mschw013@",
-    "program": "ENSC",
-    "faculty": "ajami",
-    "research": "Researching the quantification of mountain system recharge of the Kaweah Basin in the Central Valley of California through the implementation of computational hydrological modeling",
-    "websiteURL": "https://mschw013.wixsite.com/mysite"
-  },
-  {
     "name": "Anish Sapkota",
     "img": "sapkota_anish",
     "email": "asapk001@",
