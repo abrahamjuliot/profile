@@ -261,14 +261,6 @@ exports.default = [{
   "research": "Atmospheric Science",
   "websiteURL": "https://sites.google.com/ucr.edu/ymcui"
 }, {
-  "name": "Seto Cherchian",
-  "img": "seto_cherchian_1",
-  "email": "scher005@",
-  "program": "ENSC",
-  "faculty": "wu",
-  "research": "Researching the effect of the water application rate on salinity leaching efficiency while minimizing nitrate leaching and groundwater pollution in irrigated cropland",
-  "websiteURL": ""
-}, {
   "name": "Vanessa Cheng",
   "img": "vanessa_cheng",
   "email": "vchen009@",
