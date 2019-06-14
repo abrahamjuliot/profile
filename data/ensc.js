@@ -243,15 +243,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Hasnain Farooq",
-    "img": "farooq_hasnain",
-    "email": "hfaro001@",
-    "program": "ENSC",
-    "faculty": "wu",
-    "research": "Assessing and Comparing the salt tolerance of multipurpose trees used in agroforestry",
-    "websiteURL": ""
-  },
-  {
     "name": "Stacia Dudley",
     "img": "dudley_stacia",
     "email": "sdudl001@",
