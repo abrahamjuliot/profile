@@ -340,5 +340,15 @@ export default [
     "faculty": "lin",
     "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
     "websiteURL": ""
+  },
+  {
+    "name": "Qingyang Shi",
+    "img": "qingyang",
+    "email": "qshi013@",
+    "program": "ENSC",
+    "faculty": "gan",
+    "research": "Exploring the degradation of halogenated organic compounds",
+    "websiteURL": ""
   }
+  
 ]
