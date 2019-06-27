@@ -45,14 +45,6 @@ exports.default = [{
   "research": "Researching soil and water remediation of inorganic and organic contaminant pollution",
   "websiteURL": ""
 }, {
-  "name": "Sara Vliet",
-  "img": "vliet_sara_1",
-  "email": "svlie001@",
-  "program": "ENTX",
-  "faculty": "volz",
-  "research": "The identification and characterization of environmental contaminants that disrupt early embryonic development using zebrafish as a developmental model",
-  "websiteURL": ""
-}, {
   "name": "Allison Taylor",
   "img": "taylor_allison",
   "email": "atayl006@",
@@ -203,14 +195,6 @@ exports.default = [{
   "program": "ENTX",
   "faculty": "schlenk",
   "research": "Researching marine and aquatic toxicology",
-  "websiteURL": ""
-}, {
-  "name": "Alexander Frie",
-  "img": "frie_alexander",
-  "email": "afrie003@",
-  "program": "ENSC",
-  "faculty": "bahreini",
-  "research": "Investigating the oxidation of atmospheric carbon by manganese oxides found in desert varnishes",
   "websiteURL": ""
 }, {
   "name": "Isis Frausto-Vicencio",
