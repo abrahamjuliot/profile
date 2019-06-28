@@ -207,15 +207,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Marissa Giroux",
-    "img": "giroux_marissa",
-    "email": "mgiro003@",
-    "program": "ENTX",
-    "faculty": "schlenk",
-    "research": "Researching marine and aquatic toxicology",
-    "websiteURL": ""
-  },
-  {
     "name": "Isis Frausto-Vicencio",
     "img": "isis_frausto",
     "email": "ifrau001@",

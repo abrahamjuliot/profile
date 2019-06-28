@@ -189,14 +189,6 @@ exports.default = [{
   "research": "Researching the sourcing, delivery, and conveyance of fine sediment in river systems influenced by various disturbances",
   "websiteURL": ""
 }, {
-  "name": "Marissa Giroux",
-  "img": "giroux_marissa",
-  "email": "mgiro003@",
-  "program": "ENTX",
-  "faculty": "schlenk",
-  "research": "Researching marine and aquatic toxicology",
-  "websiteURL": ""
-}, {
   "name": "Isis Frausto-Vicencio",
   "img": "isis_frausto",
   "email": "ifrau001@",
