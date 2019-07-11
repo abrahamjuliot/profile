@@ -348,7 +348,7 @@ export default [
     "program": "GEO",
     "faculty": "Turner",
     "research": "Global Climate & Environmental Change",
-    "websiteURL": ""
+    "websiteURL": "https://sites.google.com/ucr.edu/michellezill/home"
   },
   {
     "name": "Alex Zumberge",
