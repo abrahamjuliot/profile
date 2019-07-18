@@ -5,6 +5,30 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = [{
+  "name": "Danielle Stevenson",
+  "img": "stevenson",
+  "email": "dstev013@",
+  "program": "ENTX",
+  "faculty": "ying",
+  "research": "Applications for Arbuscular Mycorrhizal Fungi in Agricultural Systems to Limit Heavy Metal Uptake in Food Crops",
+  "websiteURL": ""
+}, {
+  "name": "Alexa Canchola",
+  "img": "canchola",
+  "email": "acanc007@",
+  "program": "ENTX",
+  "faculty": "lin",
+  "research": "Atmospheric pollution",
+  "websiteURL": ""
+}, {
+  "name": "Sarah Avila-Barnard",
+  "img": "barnard",
+  "email": "savil007@",
+  "program": "ENTX",
+  "faculty": "volz",
+  "research": "Developmental toxicity of organophosphate flame retardants",
+  "websiteURL": ""
+}, {
   "name": "Macon Abernathy",
   "img": "macon_abernathy_0",
   "email": "maber001@",
