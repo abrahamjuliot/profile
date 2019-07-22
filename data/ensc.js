@@ -189,15 +189,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Joyce Jong",
-    "img": "jong_joyce",
-    "email": "sjong002@",
-    "program": "ENSC",
-    "faculty": "crohn",
-    "research": "Researching resource management in sustainable agricultural systems and policy implications",
-    "websiteURL": ""
-  },
-  {
     "name": "Aarushi Jha",
     "img": "aarushi_jha",
     "email": "ajha005@",
