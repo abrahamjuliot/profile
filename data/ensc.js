@@ -9,6 +9,132 @@ export default [
     "websiteURL": ""
   },
   {
+    "name": "Benjamin Maki",
+    "img": "",
+    "email": "bmaki002@",
+    "program": "ENTX",
+    "faculty": "ying",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Aleksandra Karapetrova",
+    "img": "",
+    "email": "akara032@",
+    "program": "ENTX",
+    "faculty": "gan",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Kunpeng Chen",
+    "img": "",
+    "email": "kchen255@",
+    "program": "ENSC",
+    "faculty": "lin",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Kiarash Ehsani",
+    "img": "",
+    "email": "kehsa001@",
+    "program": "ENSC",
+    "faculty": "ajami",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Kristin Hamilton",
+    "img": "",
+    "email": "khami010@",
+    "program": "ENSC",
+    "faculty": "jenerette",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Sina Jahanshahi",
+    "img": "",
+    "email": "sjaha007@",
+    "program": "ENSC",
+    "faculty": "ajami",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Banafsheh Nematollahi",
+    "img": "",
+    "email": "bnema001@",
+    "program": "ENSC",
+    "faculty": "hirmas",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Nilofar Raeofy",
+    "img": "",
+    "email": "nraeo001@",
+    "program": "ENSC",
+    "faculty": "bahreini",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Rezayan Rambod",
+    "img": "",
+    "email": "rreza004@",
+    "program": "ENSC",
+    "faculty": "bahreini",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Simmi Simmi",
+    "img": "",
+    "email": "fsimm001@",
+    "program": "ENSC",
+    "faculty": "hirmas",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Samiksha Singh",
+    "img": "",
+    "email": "ssing179@",
+    "program": "ENSC",
+    "faculty": "haghverdi",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Yuhua Situ",
+    "img": "",
+    "email": "ysitu005@",
+    "program": "ENSC",
+    "faculty": "li",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Elizah Stephens",
+    "img": "",
+    "email": "estep007@",
+    "program": "ENSC",
+    "faculty": "homyak",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Jenna Wiegand",
+    "img": "",
+    "email": "jwieg002@",
+    "program": "ENSC",
+    "faculty": "volz",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
     "name": "Alexa Canchola",
     "img": "canchola",
     "email": "acanc007@",

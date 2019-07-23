@@ -13,6 +13,118 @@ exports.default = [{
   "research": "Applications for Arbuscular Mycorrhizal Fungi in Agricultural Systems to Limit Heavy Metal Uptake in Food Crops",
   "websiteURL": ""
 }, {
+  "name": "Benjamin Maki",
+  "img": "",
+  "email": "bmaki002@",
+  "program": "ENTX",
+  "faculty": "ying",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Aleksandra Karapetrova",
+  "img": "",
+  "email": "akara032@",
+  "program": "ENTX",
+  "faculty": "gan",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Kunpeng Chen",
+  "img": "",
+  "email": "kchen255@",
+  "program": "ENSC",
+  "faculty": "lin",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Kiarash Ehsani",
+  "img": "",
+  "email": "kehsa001@",
+  "program": "ENSC",
+  "faculty": "ajami",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Kristin Hamilton",
+  "img": "",
+  "email": "khami010@",
+  "program": "ENSC",
+  "faculty": "jenerette",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Sina Jahanshahi",
+  "img": "",
+  "email": "sjaha007@",
+  "program": "ENSC",
+  "faculty": "ajami",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Banafsheh Nematollahi",
+  "img": "",
+  "email": "bnema001@",
+  "program": "ENSC",
+  "faculty": "hirmas",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Nilofar Raeofy",
+  "img": "",
+  "email": "nraeo001@",
+  "program": "ENSC",
+  "faculty": "bahreini",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Rezayan Rambod",
+  "img": "",
+  "email": "rreza004@",
+  "program": "ENSC",
+  "faculty": "bahreini",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Simmi Simmi",
+  "img": "",
+  "email": "fsimm001@",
+  "program": "ENSC",
+  "faculty": "hirmas",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Samiksha Singh",
+  "img": "",
+  "email": "ssing179@",
+  "program": "ENSC",
+  "faculty": "haghverdi",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Yuhua Situ",
+  "img": "",
+  "email": "ysitu005@",
+  "program": "ENSC",
+  "faculty": "li",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Elizah Stephens",
+  "img": "",
+  "email": "estep007@",
+  "program": "ENSC",
+  "faculty": "homyak",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Jenna Wiegand",
+  "img": "",
+  "email": "jwieg002@",
+  "program": "ENSC",
+  "faculty": "volz",
+  "research": "",
+  "websiteURL": ""
+}, {
   "name": "Alexa Canchola",
   "img": "canchola",
   "email": "acanc007@",
@@ -863,7 +975,7 @@ var Program = choose(track);
 var faculty = function faculty(selection) {
     var _ref2;
 
-    return _ref2 = {}, _defineProperty(_ref2, 'ajami', ['Hoori Ajami', 'hoori.ajami']), _defineProperty(_ref2, 'anderson', ['Michael Anderson', 'michael.anderson']), _defineProperty(_ref2, 'bahreini', ['Roya Bahreini', 'roya.bahreini']), _defineProperty(_ref2, 'crohn', ['David Crohn', 'david.crohn']), _defineProperty(_ref2, 'gan', ['Jay Gan', 'j.gan']), _defineProperty(_ref2, 'graham', ['Robert Graham', 'robert.graham']), _defineProperty(_ref2, 'gray', ['Andrew B. Gray', 'andrew.gray']), _defineProperty(_ref2, 'haghverdi', ['Amir Haghverdi', 'amir.haghverdi']), _defineProperty(_ref2, 'hirmas', ['Daniel Hirmas', 'daniel.hirmas']), _defineProperty(_ref2, 'homyak', ['Pete Homyak', 'peter.homyak1']), _defineProperty(_ref2, 'hopkins', ['Francesca Hopkins', 'francesca.hopkins']), _defineProperty(_ref2, 'knapp', ['Keith Knapp', 'keith.knapp']), _defineProperty(_ref2, 'li', ['King-Fai Li', 'king-fai.li']), _defineProperty(_ref2, 'lin', ['Ying-Hsuan Lin', 'ying-hsuan.lin']), _defineProperty(_ref2, 'porter', ['William Porter', 'william.porter']), _defineProperty(_ref2, 'schlenk', ['Daniel Schlenk', 'daniel.schlenk']), _defineProperty(_ref2, 'sickman', ['James Sickman', 'james.sickman']), _defineProperty(_ref2, 'simunek', ['Jirka Šimunek', 'jiri.simunek']), _defineProperty(_ref2, 'volz', ['David C. Volz', 'david.volz']), _defineProperty(_ref2, 'wu', ['Laosheng Wu', 'laosheng.wu']), _defineProperty(_ref2, 'ying', ['Sam Ying', 'samantha.ying']), _defineProperty(_ref2, 'schwabe', ['Kurt Schwabe', 'kurt.schwabe']), _defineProperty(_ref2, 'oglesby', ['David D. Oglesby', 'david.oglesby']), _defineProperty(_ref2, 'allen', ['Robert J. Allen', 'robert.allen']), _defineProperty(_ref2, 'barth', ['Nicolas Barth', 'nic.barth']), _defineProperty(_ref2, 'bekker', ['Andrey Bekker', 'andrey.bekker']), _defineProperty(_ref2, 'brounce', ['Maryjo Brounce', 'maryjo.brounce']), _defineProperty(_ref2, 'douilly', ['Roby Douilly', 'roby.douilly']), _defineProperty(_ref2, 'dieterich', ['James H. Dieterich', 'james.dieterich']), _defineProperty(_ref2, 'droser', ['Mary Droser', 'mary.droser']), _defineProperty(_ref2, 'fogel', ['Marilyn Fogel', 'marilyn.fogel']), _defineProperty(_ref2, 'ford', ['Heather Ford', 'heather.ford']), _defineProperty(_ref2, 'funning', ['Gareth Funning', 'gareth.funning']), _defineProperty(_ref2, 'ghosh', ['Abhijit Ghosh', 'abhijit.ghosh']), _defineProperty(_ref2, 'hughes', ['Nigel C. Hughes', 'nigel.hughes']), _defineProperty(_ref2, 'kane', ['Stephen R. Kane', 'stephen.kane']), _defineProperty(_ref2, 'liu', ['Wei Liu', 'wei.liu']), _defineProperty(_ref2, 'turner', ['Sandra Kirtland Turner', 'sandra.kirtlandturner']), _defineProperty(_ref2, 'love', ['Gordon Love', 'gordon.love']), _defineProperty(_ref2, 'lyons', ['Timothy Lyons', 'timothy.lyons']), _defineProperty(_ref2, 'mckibben', ['Michael A. McKibben', 'michael.mckibben']), _defineProperty(_ref2, 'minnich', ['Richard A. Minnich', 'richard.minnich']), _defineProperty(_ref2, 'ridgwell', ['Andy Ridgwell', 'andrew.ridgwell']), _defineProperty(_ref2, 'sadler', ['Peter M. Sadler', 'peter.sadler']), _defineProperty(_ref2, 'scott', ['Thomas A. Scott', 'thomas.scott']), _defineProperty(_ref2, 'default', ''), _ref2;
+    return _ref2 = {}, _defineProperty(_ref2, 'ajami', ['Hoori Ajami', 'hoori.ajami']), _defineProperty(_ref2, 'anderson', ['Michael Anderson', 'michael.anderson']), _defineProperty(_ref2, 'bahreini', ['Roya Bahreini', 'roya.bahreini']), _defineProperty(_ref2, 'crohn', ['David Crohn', 'david.crohn']), _defineProperty(_ref2, 'gan', ['Jay Gan', 'j.gan']), _defineProperty(_ref2, 'graham', ['Robert Graham', 'robert.graham']), _defineProperty(_ref2, 'gray', ['Andrew B. Gray', 'andrew.gray']), _defineProperty(_ref2, 'haghverdi', ['Amir Haghverdi', 'amir.haghverdi']), _defineProperty(_ref2, 'hirmas', ['Daniel Hirmas', 'daniel.hirmas']), _defineProperty(_ref2, 'homyak', ['Pete Homyak', 'peter.homyak1']), _defineProperty(_ref2, 'hopkins', ['Francesca Hopkins', 'francesca.hopkins']), _defineProperty(_ref2, 'jenerette', ['Darrel Jenerette', 'darrel.jenerette']), _defineProperty(_ref2, 'knapp', ['Keith Knapp', 'keith.knapp']), _defineProperty(_ref2, 'li', ['King-Fai Li', 'king-fai.li']), _defineProperty(_ref2, 'lin', ['Ying-Hsuan Lin', 'ying-hsuan.lin']), _defineProperty(_ref2, 'porter', ['William Porter', 'william.porter']), _defineProperty(_ref2, 'schlenk', ['Daniel Schlenk', 'daniel.schlenk']), _defineProperty(_ref2, 'sickman', ['James Sickman', 'james.sickman']), _defineProperty(_ref2, 'simunek', ['Jirka Šimunek', 'jiri.simunek']), _defineProperty(_ref2, 'volz', ['David C. Volz', 'david.volz']), _defineProperty(_ref2, 'wu', ['Laosheng Wu', 'laosheng.wu']), _defineProperty(_ref2, 'ying', ['Sam Ying', 'samantha.ying']), _defineProperty(_ref2, 'schwabe', ['Kurt Schwabe', 'kurt.schwabe']), _defineProperty(_ref2, 'oglesby', ['David D. Oglesby', 'david.oglesby']), _defineProperty(_ref2, 'allen', ['Robert J. Allen', 'robert.allen']), _defineProperty(_ref2, 'barth', ['Nicolas Barth', 'nic.barth']), _defineProperty(_ref2, 'bekker', ['Andrey Bekker', 'andrey.bekker']), _defineProperty(_ref2, 'brounce', ['Maryjo Brounce', 'maryjo.brounce']), _defineProperty(_ref2, 'douilly', ['Roby Douilly', 'roby.douilly']), _defineProperty(_ref2, 'dieterich', ['James H. Dieterich', 'james.dieterich']), _defineProperty(_ref2, 'droser', ['Mary Droser', 'mary.droser']), _defineProperty(_ref2, 'fogel', ['Marilyn Fogel', 'marilyn.fogel']), _defineProperty(_ref2, 'ford', ['Heather Ford', 'heather.ford']), _defineProperty(_ref2, 'funning', ['Gareth Funning', 'gareth.funning']), _defineProperty(_ref2, 'ghosh', ['Abhijit Ghosh', 'abhijit.ghosh']), _defineProperty(_ref2, 'hughes', ['Nigel C. Hughes', 'nigel.hughes']), _defineProperty(_ref2, 'kane', ['Stephen R. Kane', 'stephen.kane']), _defineProperty(_ref2, 'liu', ['Wei Liu', 'wei.liu']), _defineProperty(_ref2, 'turner', ['Sandra Kirtland Turner', 'sandra.kirtlandturner']), _defineProperty(_ref2, 'love', ['Gordon Love', 'gordon.love']), _defineProperty(_ref2, 'lyons', ['Timothy Lyons', 'timothy.lyons']), _defineProperty(_ref2, 'mckibben', ['Michael A. McKibben', 'michael.mckibben']), _defineProperty(_ref2, 'minnich', ['Richard A. Minnich', 'richard.minnich']), _defineProperty(_ref2, 'ridgwell', ['Andy Ridgwell', 'andrew.ridgwell']), _defineProperty(_ref2, 'sadler', ['Peter M. Sadler', 'peter.sadler']), _defineProperty(_ref2, 'scott', ['Thomas A. Scott', 'thomas.scott']), _defineProperty(_ref2, 'default', ''), _ref2;
 };
 var PI = choose(faculty);
 
