@@ -461,14 +461,6 @@ exports.default = [{
   "research": "Astrobiology",
   "websiteURL": ""
 }, {
-  "name": "Logan Magad-Weiss",
-  "img": "logan_magad-weiss",
-  "email": "lmaga003@",
-  "program": "GEO",
-  "faculty": "Bekker",
-  "research": "Geochemistry",
-  "websiteURL": ""
-}, {
   "name": "Nicholas Mammone",
   "img": "nicholas_mammone_0",
   "email": "nmamm001@",
