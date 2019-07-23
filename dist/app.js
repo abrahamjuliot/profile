@@ -317,6 +317,71 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = [{
+  "name": "Phillip Boan",
+  "img": "",
+  "email": "pboan001@",
+  "program": "GEO",
+  "faculty": "droser",
+  "research": "Paleontology",
+  "websiteURL": ""
+
+}, {
+  "name": "Jordan Cortez",
+  "img": "",
+  "email": "jcort083@",
+  "program": "GEO",
+  "faculty": "oglesby",
+  "research": "Geophysics",
+  "websiteURL": ""
+}, {
+  "name": "Saleheh Ebadirad",
+  "img": "",
+  "email": "sebad001@",
+  "program": "GEO",
+  "faculty": "lyons",
+  "research": "Geochemistry",
+  "websiteURL": ""
+}, {
+  "name": "Chen-Yi Hung",
+  "img": "",
+  "email": "chung041@",
+  "program": "GEO",
+  "faculty": "lyons",
+  "research": "Geochemistry",
+  "websiteURL": ""
+}, {
+  "name": "Francis Kovalick",
+  "img": "",
+  "email": "fkova001@",
+  "program": "GEO",
+  "faculty": "bekker",
+  "research": "Geochemistry",
+  "websiteURL": ""
+}, {
+  "name": "Hsin-Yu Lee",
+  "img": "",
+  "email": "hlee423@",
+  "program": "GEO",
+  "faculty": "douilly",
+  "research": "Geophysics",
+  "websiteURL": ""
+}, {
+  "name": "Andre Mere",
+  "img": "",
+  "email": "amere003@",
+  "program": "GEO",
+  "faculty": "barth",
+  "research": "Geophysics",
+  "websiteURL": ""
+}, {
+  "name": "Adriana Rizzo",
+  "img": "",
+  "email": "arizz001@",
+  "program": "GEO",
+  "faculty": "love",
+  "research": "Geochemistry",
+  "websiteURL": ""
+}, {
   "name": "Andrew Birkey",
   "img": "birkey",
   "email": "abirk001@",
