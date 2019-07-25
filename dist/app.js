@@ -439,7 +439,7 @@ exports.default = [{
 
 }, {
   "name": "Jordan Cortez",
-  "img": "",
+  "img": "cortez",
   "email": "jcort083@",
   "program": "GEO",
   "faculty": "oglesby",
