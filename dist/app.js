@@ -436,7 +436,6 @@ exports.default = [{
   "faculty": "droser",
   "research": "Paleontology",
   "websiteURL": ""
-
 }, {
   "name": "Jordan Cortez",
   "img": "cortez",
@@ -533,14 +532,6 @@ exports.default = [{
   "faculty": "Lyons",
   "research": "Geochemistry",
   "websiteURL": ""
-}, {
-  "name": "Scott Evans",
-  "img": "scott_evans",
-  "email": "sevan004@",
-  "program": "GEO",
-  "faculty": "Droser",
-  "research": "Paleontology",
-  "websiteURL": "https://sites.google.com/a/ucr.edu/scottdanielevans/home"
 }, {
   "name": "Maria Figueroa",
   "img": "maria_figueroa",
