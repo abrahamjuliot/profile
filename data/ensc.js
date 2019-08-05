@@ -360,15 +360,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Stacia Dudley",
-    "img": "dudley_stacia",
-    "email": "sdudl001@",
-    "program": "ENTX",
-    "faculty": "gan",
-    "research": "Researching the effects of unregulated contaminants, known as Contaminants of Emerging Concern -- pharmaceuticals, endocrine disrupters, polybrominated diphenyl ethers, and phalates-- in terrestrial ecosystems",
-    "websiteURL": ""
-  },
-  {
     "name": "Zachary Cryder",
     "img": "cryder_zachary",
     "email": "zcryd001@",
