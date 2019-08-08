@@ -780,14 +780,6 @@ exports.default = [{
   "faculty": "Turner",
   "research": "Global Climate & Environmental Change",
   "websiteURL": "https://sites.google.com/ucr.edu/michellezill/home"
-}, {
-  "name": "Alex Zumberge",
-  "img": "alex_zumberge",
-  "email": "jzumb001@",
-  "program": "GEO",
-  "faculty": "Love",
-  "research": "Geochemistry",
-  "websiteURL": ""
 }];
 
 },{}],3:[function(require,module,exports){
