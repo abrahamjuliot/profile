@@ -445,8 +445,8 @@ exports.default = [{
   "research": "Geochemistry",
   "websiteURL": ""
 }, {
-  "name": "Chenyi (Caroline) Hung",
-  "img": "",
+  "name": "Caroline Hung",
+  "img": "hung",
   "email": "chung041@",
   "program": "GEO",
   "faculty": "lyons",
