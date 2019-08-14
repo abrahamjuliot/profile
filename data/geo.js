@@ -27,7 +27,7 @@ export default [
     "websiteURL": ""
   },
     {
-    "name": "Chen-Yi Hung",
+    "name": "Chenyi (Caroline) Hung",
     "img": "",
     "email": "chung041@",
     "program": "GEO",
