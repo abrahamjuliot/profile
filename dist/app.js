@@ -669,14 +669,6 @@ exports.default = [{
   "research": "Geophysics",
   "websiteURL": ""
 }, {
-  "name": "Jonathan Nye",
-  "img": "nye",
-  "email": "jnye001@",
-  "program": "GEO",
-  "faculty": "Fogel",
-  "research": "Biogeochemistry",
-  "websiteURL": ""
-}, {
   "name": "Colby Ostberg",
   "img": "colby_ostberg",
   "email": "costb001@",
