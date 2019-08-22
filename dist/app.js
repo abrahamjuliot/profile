@@ -725,14 +725,6 @@ exports.default = [{
   "research": "Geochemistry",
   "websiteURL": ""
 }, {
-  "name": "Ernesto Vargas-Parra",
-  "img": "parra",
-  "email": "evarg013@",
-  "program": "GEO",
-  "faculty": "Hughes",
-  "research": "Paleontology",
-  "websiteURL": ""
-}, {
   "name": "Pam Vervoort",
   "img": "pam_vervoot_0",
   "email": "pverv001@",
