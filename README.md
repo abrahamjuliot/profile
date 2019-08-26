@@ -1,5 +1,5 @@
 # profile
-profile card collection
+UCR profile card collection
 
 - download vs code, git, node
 - npm install npm@latest -g
