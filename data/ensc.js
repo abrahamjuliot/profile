@@ -429,7 +429,7 @@ export default [
     "program": "ENSC",
     "faculty": "schlenk",
     "research": "Exploring the use of fish dermal mucus as a non-invasive biomarker of exposure to environmental contaminants through the use of RNA sequencing",
-    "websiteURL": ""
+    "websiteURL": "https://sites.google.com/ucr.edu/nicolette"
   },
   {
     "name": "Miranda Aiken",
