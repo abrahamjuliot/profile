@@ -30,7 +30,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Kunpeng Chen",
-  "img": "kunpeng",
+  "img": "kunpen",
   "email": "kchen255@",
   "program": "ENSC",
   "faculty": "lin",
