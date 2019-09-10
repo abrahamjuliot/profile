@@ -30,11 +30,11 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Kunpeng Chen",
-  "img": "",
+  "img": "kunpeng",
   "email": "kchen255@",
   "program": "ENSC",
   "faculty": "lin",
-  "research": "",
+  "research": "Climate effects and health effects of atmospheric brown carbon (BrC) substance; mechanisms and kinetics of formation of atmospheric pollutants.",
   "websiteURL": ""
 }, {
   "name": "Kiarash Ehsani",
