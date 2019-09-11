@@ -81,7 +81,7 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Rezayan Rambod",
+    "name": "Rambod Rezayan",
     "img": "",
     "email": "rreza004@",
     "program": "ENSC",
