@@ -453,7 +453,7 @@ exports.default = [{
   "research": "Geochemistry",
   "websiteURL": ""
 }, {
-  "name": "Francis Kovalick",
+  "name": "Francis Alexander Kovalick",
   "img": "",
   "email": "fkova001@",
   "program": "GEO",

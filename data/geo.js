@@ -36,7 +36,7 @@ export default [
     "websiteURL": ""
   },
     {
-    "name": "Francis Kovalick",
+    "name": "Francis Alexander Kovalick",
     "img": "",
     "email": "fkova001@",
     "program": "GEO",
