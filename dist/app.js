@@ -454,7 +454,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Francis Alexander Kovalick",
-  "img": "",
+  "img": "francis_kovalick",
   "email": "fkova001@",
   "program": "GEO",
   "faculty": "bekker",
