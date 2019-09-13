@@ -103,7 +103,7 @@ export default [
     "img": "",
     "email": "ssing179@",
     "program": "ENSC",
-    "faculty": "haghverdi",
+    "faculty": "gray",
     "research": "",
     "websiteURL": ""
   },
