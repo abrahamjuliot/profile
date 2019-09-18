@@ -422,7 +422,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = [{
   "name": "Phillip Boan",
-  "img": "",
+  "img": "phil_boan",
   "email": "pboan001@",
   "program": "GEO",
   "faculty": "droser",
