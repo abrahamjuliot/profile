@@ -324,15 +324,6 @@ export default [
     "websiteURL": "https://sites.google.com/ucr.edu/ajha"
   },
   {
-    "name": "Gary Harraka",
-    "img": "harraka_gary",
-    "email": "gharr008@",
-    "program": "ENSC",
-    "faculty": "schlenk",
-    "research": "Researching the effects of wastewater effluent on fish in the Santa Ana River Lakes",
-    "websiteURL": ""
-  },
-  {
     "name": "Sarah Helalia",
     "img": "helalia_sarah",
     "email": "shela001@",
