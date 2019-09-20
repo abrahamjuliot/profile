@@ -181,14 +181,6 @@ exports.default = [{
   "research": "Researching soil and water remediation of inorganic and organic contaminant pollution",
   "websiteURL": ""
 }, {
-  "name": "Allison Taylor",
-  "img": "taylor_allison",
-  "email": "atayl006@",
-  "program": "ENSC",
-  "faculty": "gan",
-  "research": "Investigating the aging and bioavailability of contaminants in marine sediments",
-  "websiteURL": ""
-}, {
   "name": "Linia Tashmim",
   "img": "",
   "email": "ltash001@",
