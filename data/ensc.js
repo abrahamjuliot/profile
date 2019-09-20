@@ -189,15 +189,6 @@ export default [
     "websiteURL": "https://sites.google.com/ucr.edu/yxiong"
   },
   {
-    "name": "Douglas Wolf",
-    "img": "wolf_douglas_0",
-    "email": "dwolf003@",
-    "program": "ENTX",
-    "faculty": "gan",
-    "research": "Researching soil and water remediation of inorganic and organic contaminant pollution",
-    "websiteURL": ""
-  },
-  {
     "name": "Linia Tashmim",
     "img": "",
     "email": "ltash001@",

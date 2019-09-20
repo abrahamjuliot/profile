@@ -173,14 +173,6 @@ exports.default = [{
   "research": "Focusing on developing a tiered framework that integrates simple process-based, quantitative structure- property relationships to describe the CEC flux from the input sources, through the soil/root interface, and into leaves/fruits",
   "websiteURL": "https://sites.google.com/ucr.edu/yxiong"
 }, {
-  "name": "Douglas Wolf",
-  "img": "wolf_douglas_0",
-  "email": "dwolf003@",
-  "program": "ENTX",
-  "faculty": "gan",
-  "research": "Researching soil and water remediation of inorganic and organic contaminant pollution",
-  "websiteURL": ""
-}, {
   "name": "Linia Tashmim",
   "img": "",
   "email": "ltash001@",
