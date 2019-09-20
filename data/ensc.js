@@ -64,12 +64,12 @@ export default [
   },
   {
     "name": "Banafsheh Nematollahi",
-    "img": "",
+    "img": "banafsheh",
     "email": "bnema001@",
     "program": "ENSC",
     "faculty": "hirmas",
     "research": "",
-    "websiteURL": ""
+    "websiteURL": "https://www.researchgate.net/profile/Banafsheh_Nematollahi"
   },
   {
     "name": "Nilofar Raeofy",
