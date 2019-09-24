@@ -10,11 +10,11 @@ export default [
   },
   {
     "name": "Benjamin Maki",
-    "img": "",
+    "img": "maki",
     "email": "bmaki002@",
     "program": "ENTX",
     "faculty": "ying",
-    "research": "",
+    "research": "Working on projects related to manganese release in soils and the subsequent contamination of groundwater",
     "websiteURL": ""
   },
   {
