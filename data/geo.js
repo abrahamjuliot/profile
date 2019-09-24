@@ -297,15 +297,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Nader Shakibay Senobari",
-    "img": "nader_shakibay_senobari",
-    "email": "nshak006@",
-    "program": "GEO",
-    "faculty": "Funning",
-    "research": "Geophysics",
-    "websiteURL": ""
-  },
-  {
     "name": "Rachel Surprenant",
     "img": "surprenant",
     "email": "rsurp001@",
