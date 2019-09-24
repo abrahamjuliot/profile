@@ -118,12 +118,12 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Jenna Wiegand",
-  "img": "",
+  "img": "jenna",
   "email": "jwieg002@",
   "program": "ENSC",
   "faculty": "volz",
-  "research": "",
-  "websiteURL": ""
+  "research": "Developmental toxicity of organophosphate flame retardants",
+  "websiteURL": "https://www.researchgate.net/profile/Jenna_Wiegand"
 }, {
   "name": "Alexa Canchola",
   "img": "canchola",
