@@ -454,7 +454,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Adriana Rizzo",
-  "img": "",
+  "img": "adriana",
   "email": "arizz001@",
   "program": "GEO",
   "faculty": "love",
