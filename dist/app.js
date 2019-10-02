@@ -174,7 +174,7 @@ exports.default = [{
   "websiteURL": "https://sites.google.com/ucr.edu/yxiong"
 }, {
   "name": "Linia Tashmim",
-  "img": "",
+  "img": "linia",
   "email": "ltash001@",
   "program": "ENSC",
   "faculty": "porter",

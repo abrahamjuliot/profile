@@ -190,7 +190,7 @@ export default [
   },
   {
     "name": "Linia Tashmim",
-    "img": "",
+    "img": "linia",
     "email": "ltash001@",
     "program": "ENSC",
     "faculty": "porter",
