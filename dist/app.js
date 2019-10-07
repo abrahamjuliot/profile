@@ -230,7 +230,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Talha Rafiq",
-  "img": "",
+  "img": "talha",
   "email": "trafi001@",
   "program": "ENSC",
   "faculty": "hopkins",
