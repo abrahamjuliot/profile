@@ -171,15 +171,6 @@ export default [
     "websiteURL": "https://sites.google.com/ucr.edu/ttzhou"
   },
   {
-    "name": "Yuhua Xiong",
-    "img": "xiong_yuhua",
-    "email": "yxion002@",
-    "program": "ECON",
-    "faculty": "schwabe",
-    "research": "Researching water economics and computational economics",
-    "websiteURL": ""
-  },
-  {
     "name": "Yaxin (Jane) Xiong",
     "img": "xiong_yaxin",
     "email": "yxion024@",
