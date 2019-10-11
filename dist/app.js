@@ -430,7 +430,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Hsin-Yu Lee",
-  "img": "",
+  "img": "hsinyu_2",
   "email": "hlee423@",
   "program": "GEO",
   "faculty": "douilly",
