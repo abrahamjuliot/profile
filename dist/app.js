@@ -438,11 +438,11 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Andre Mere",
-  "img": "",
+  "img": "andre_2",
   "email": "amere003@",
   "program": "GEO",
   "faculty": "barth",
-  "research": "Geophysics",
+  "research": "Active Tectonics",
   "websiteURL": ""
 }, {
   "name": "Adriana Rizzo",
