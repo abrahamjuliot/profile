@@ -270,15 +270,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Julianna McDonnell",
-    "img": "julianna_mcdonnell",
-    "email": "jmcdo009@",
-    "program": "ENSC",
-    "faculty": "gray",
-    "research": "Investigating sedimentological processes driving carbon storage in vegetated coastal systems",
-    "websiteURL": ""
-  },
-  {
     "name": "Nathan Jumps",
     "img": "jumps_nathan_0",
     "email": "njump001@",
