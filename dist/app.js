@@ -635,7 +635,7 @@ exports.default = [{
   "program": "GEO",
   "faculty": "Kane",
   "research": "Astrobiology",
-  "websiteURL": ""
+  "websiteURL": "https://colbyostberg.wixsite.com/yourlocalcytherean"
 }, {
   "name": "Kelden Pehr",
   "img": "kelden_pehr_0",
