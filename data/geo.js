@@ -99,15 +99,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Konstantin Choumiline",
-    "img": "konstantin_choumiline_0",
-    "email": "kchou002@",
-    "program": "GEO",
-    "faculty": "Lyons",
-    "research": "Geochemistry",
-    "websiteURL": "http://konstantin.science/"
-  },
-  {
     "name": "Charles Diamond",
     "img": "charles_diamond_0",
     "email": "cdiam001@",
@@ -304,15 +295,6 @@ export default [
     "faculty": "Droser",
     "research": "Paleontology",
     "websiteURL": ""
-  },
-  {
-    "name": "Jerlyn Swiatlowski",
-    "img": "jerlyn_swiatlowski",
-    "email": "jswia001@",
-    "program": "GEO",
-    "faculty": "Funning",
-    "research": "Geophysics",
-    "websiteURL": "https://sites.google.com/ucr.edu/jswiatlowski/"
   },
   {
     "name": "Christopher Tino",
