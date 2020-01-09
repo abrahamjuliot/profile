@@ -9,6 +9,15 @@ export default [
     "websiteURL": ""
   },
   {
+    "name": "Johann Puespoek",
+    "img": "johann",
+    "email": "jpues001@",
+    "program": "ENSC",
+    "faculty": "homyak",
+    "research": "Biogeochemical cycling of carbon, nitrogen and phosphorus in terrestrial ecosystems",
+    "websiteURL": ""
+  },
+  {
     "name": "Benjamin Maki",
     "img": "maki",
     "email": "bmaki002@",
