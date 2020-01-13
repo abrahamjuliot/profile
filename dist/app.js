@@ -501,14 +501,6 @@ exports.default = [{
   "research": "Geophysics",
   "websiteURL": "https://sites.google.com/ucr.edu/ggoldhagen"
 }, {
-  "name": "Christine Hall",
-  "img": "christine_hall_0",
-  "email": "csolo001@",
-  "program": "GEO",
-  "faculty": "Droser",
-  "research": "Paleontology",
-  "websiteURL": ""
-}, {
   "name": "Mohammad Taufiq Hassan Mozumder",
   "img": "taufiq_hassan",
   "email": "mhass004@",
