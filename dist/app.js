@@ -14,7 +14,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Johann Puespoek",
-  "img": "johann",
+  "img": "johann_0",
   "email": "jpues001@",
   "program": "ENSC",
   "faculty": "homyak",
