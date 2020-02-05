@@ -19,7 +19,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "homyak",
   "research": "Biogeochemical cycling of carbon, nitrogen and phosphorus in terrestrial ecosystems",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/jpues"
 }, {
   "name": "Benjamin Maki",
   "img": "maki",
@@ -43,7 +43,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "lin",
   "research": "Climate effects and health effects of atmospheric brown carbon (BrC) substance; mechanisms and kinetics of formation of atmospheric pollutants.",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/kpchen/home"
 }, {
   "name": "Kiarash Ehsani",
   "img": "",
@@ -51,7 +51,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "ajami",
   "research": "",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/kiarashehsani"
 }, {
   "name": "Kristin Hamilton",
   "img": "",
@@ -59,7 +59,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "jenerette",
   "research": "",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/urbanecohydrology/home"
 }, {
   "name": "Sina Jahanshahi",
   "img": "",
@@ -75,7 +75,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "hirmas",
   "research": "",
-  "websiteURL": "https://www.researchgate.net/profile/Banafsheh_Nematollahi"
+  "websiteURL": "https://sites.google.com/ucr.edu/banafsheh-nematollahi/home"
 }, {
   "name": "Nilofar Raeofy",
   "img": "",
@@ -83,7 +83,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "bahreini",
   "research": "",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/nil/home"
 }, {
   "name": "Rambod Rezayan",
   "img": "",
@@ -99,7 +99,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "hirmas",
   "research": "",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/view/ucrsimmi/home"
 }, {
   "name": "Samiksha Singh",
   "img": "",
@@ -107,7 +107,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "gray",
   "research": "",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/samiksha-singh/home"
 }, {
   "name": "Yuhua Situ",
   "img": "",
@@ -115,7 +115,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "li",
   "research": "",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/situ"
 }, {
   "name": "Elizah Stephens",
   "img": "",
@@ -123,7 +123,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "homyak",
   "research": "",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/elizahstephens"
 }, {
   "name": "Jenna Wiegand",
   "img": "jenna",
@@ -131,7 +131,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "volz",
   "research": "Developmental toxicity of organophosphate flame retardants",
-  "websiteURL": "https://www.researchgate.net/profile/Jenna_Wiegand"
+  "websiteURL": "https://sites.google.com/ucr.edu/jwiegand"
 }, {
   "name": "Alexa Canchola",
   "img": "canchola",
@@ -379,7 +379,7 @@ exports.default = [{
   "program": "ENSC",
   "faculty": "gan",
   "research": "Exploring the degradation of halogenated organic compounds",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/qshi"
 }];
 
 },{}],2:[function(require,module,exports){
