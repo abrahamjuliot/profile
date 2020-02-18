@@ -46,11 +46,11 @@ export default [
   },
   {
     "name": "Kiarash Ehsani",
-    "img": "",
+    "img": "kiarash",
     "email": "kehsa001@",
     "program": "ENSC",
     "faculty": "ajami",
-    "research": "",
+    "research": "Understanding underground hydrological processes, sub-surface contribution to stream flow and base-flow separation.",
     "websiteURL": "https://sites.google.com/ucr.edu/kiarashehsani"
   },
   {
