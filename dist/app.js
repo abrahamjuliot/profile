@@ -406,7 +406,7 @@ exports.default = [{
   "websiteURL": ""
 }, {
   "name": "Saleheh Ebadirad",
-  "img": "",
+  "img": "ebadirad",
   "email": "sebad001@",
   "program": "GEO",
   "faculty": "lyons",
