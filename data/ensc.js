@@ -109,7 +109,7 @@ export default [
   },
   {
     "name": "Samiksha Singh",
-    "img": "",
+    "img": "samiksha",
     "email": "ssing179@",
     "program": "ENSC",
     "faculty": "gray",

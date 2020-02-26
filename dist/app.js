@@ -102,7 +102,7 @@ exports.default = [{
   "websiteURL": "https://sites.google.com/view/ucrsimmi/home"
 }, {
   "name": "Samiksha Singh",
-  "img": "",
+  "img": "samiksha",
   "email": "ssing179@",
   "program": "ENSC",
   "faculty": "gray",
