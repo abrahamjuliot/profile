@@ -427,7 +427,7 @@ exports.default = [{
   "program": "GEO",
   "faculty": "lyons",
   "research": "Geochemistry",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/carolinehung"
 }, {
   "name": "Francis Alexander Kovalick",
   "img": "francis_kovalick",
