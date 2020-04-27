@@ -5,6 +5,14 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = [{
+  "name": "Hossein Pazooki",
+  "img": "",
+  "email": "hpazo001@",
+  "program": "ENSC",
+  "faculty": "bahreini",
+  "research": "",
+  "websiteURL": ""
+}, {
   "name": "Zahra Amiri",
   "img": "",
   "email": "zamir002@",
