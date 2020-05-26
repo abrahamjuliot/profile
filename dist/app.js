@@ -366,7 +366,7 @@ exports.default = [{
   "websiteURL": "https://sites.google.com/ucr.edu/nicolette"
 }, {
   "name": "Miranda Aiken",
-  "img": "aiken_miranda",
+  "img": "aiken",
   "email": "maike001@",
   "program": "ENTX",
   "faculty": "ying",

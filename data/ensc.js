@@ -406,7 +406,7 @@ export default [
   },
   {
     "name": "Miranda Aiken",
-    "img": "aiken_miranda",
+    "img": "aiken",
     "email": "maike001@",
     "program": "ENTX",
     "faculty": "ying",
