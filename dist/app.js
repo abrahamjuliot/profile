@@ -154,7 +154,7 @@ exports.default = [{
   "email": "savil007@",
   "program": "ENTX",
   "faculty": "volz",
-  "research": "Developmental toxicity of organophosphate flame retardants",
+  "research": "Flame retardant-induced effects on epigenetic reprogramming during early development",
   "websiteURL": ""
 }, {
   "name": "Macon Abernathy",
