@@ -138,7 +138,7 @@ exports.default = [{
   "email": "jwieg002@",
   "program": "ENSC",
   "faculty": "volz",
-  "research": "Developmental toxicity of organophosphate flame retardants",
+  "research": "Osmoregulatory impacts of environmental chemicals on fish embryos",
   "websiteURL": "https://sites.google.com/ucr.edu/jwiegand"
 }, {
   "name": "Alexa Canchola",
@@ -234,7 +234,7 @@ exports.default = [{
   "email": "aredd006@",
   "program": "ENTX",
   "faculty": "volz",
-  "research": "Developmental toxicity of organophosphate flame retardants",
+  "research": "Human exposure and developmental effects of organophosphate esters",
   "websiteURL": ""
 }, {
   "name": "Talha Rafiq",
