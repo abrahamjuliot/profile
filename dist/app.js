@@ -330,7 +330,7 @@ exports.default = [{
   "email": "vchen009@",
   "program": "ENTX",
   "faculty": "volz",
-  "research": "Developmental toxicity of organophosphate flame retardants",
+  "research": "Investigating Peroxisome Proliferator-Activated Receptor Gamma (PPARg): A Potential Target for Xenobiotics During Early Embryonic Development.",
   "websiteURL": ""
 }, {
   "name": "Jin Chen",
