@@ -109,7 +109,7 @@ export default [
   },
   {
     "name": "Simmi Simmi",
-    "img": "",
+    "img": "simmi",
     "email": "fsimm001@",
     "program": "ENSC",
     "faculty": "hirmas",

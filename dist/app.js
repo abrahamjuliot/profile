@@ -102,7 +102,7 @@ exports.default = [{
   "websiteURL": "https://sites.google.com/ucr.edu/nil/home"
 }, {
   "name": "Simmi Simmi",
-  "img": "",
+  "img": "simmi",
   "email": "fsimm001@",
   "program": "ENSC",
   "faculty": "hirmas",
