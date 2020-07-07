@@ -11,6 +11,15 @@ export default [
   {
     "name": "Zahra Amiri",
     "img": "",
+    "email": "jirad001@",
+    "program": "ENSC",
+    "faculty": "haghverdi",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Jean Claude Iraduku",
+    "img": "",
     "email": "zamir002@",
     "program": "ENSC",
     "faculty": "haghverdi",
@@ -321,6 +330,15 @@ export default [
     "program": "ENSC",
     "faculty": "gray",
     "research": "Researching the sourcing, delivery, and conveyance of fine sediment in river systems influenced by various disturbances",
+    "websiteURL": ""
+  },
+  {
+    "name": "Clare Murphy-Hagen",
+    "img": "",
+    "email": "cmurp025@",
+    "program": "ENSC",
+    "faculty": "gray",
+    "research": "",
     "websiteURL": ""
   },
   {
