@@ -297,15 +297,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Nathan Jumps",
-    "img": "jumps_nathan_0",
-    "email": "njump001@",
-    "program": "ENSC",
-    "faculty": "gray",
-    "research": "",
-    "websiteURL": ""
-  },
-  {
     "name": "Aarushi Jha",
     "img": "aarushi_jha",
     "email": "ajha005@",
