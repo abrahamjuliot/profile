@@ -15,7 +15,7 @@ exports.default = [{
 }, {
   "name": "Zahra Amiri",
   "img": "",
-  "email": "jirad001@",
+  "email": "zamir002@",
   "program": "ENSC",
   "faculty": "haghverdi",
   "research": "",
@@ -23,7 +23,7 @@ exports.default = [{
 }, {
   "name": "Jean Claude Iraduku",
   "img": "",
-  "email": "zamir002@",
+  "email": "jirad001@",
   "program": "ENSC",
   "faculty": "haghverdi",
   "research": "",
