@@ -303,7 +303,7 @@ export default [
     "program": "GEO",
     "faculty": "Lyons",
     "research": "Geochemistry",
-    "websiteURL": ""
+    "websiteURL": "https://sites.google.com/view/chenyitu"
   },
   {
     "name": "Pam Vervoort",
