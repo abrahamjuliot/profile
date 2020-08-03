@@ -65,7 +65,7 @@ const css = ''//`<link rel='stylesheet' type='text/css' href=${githubURL+cssURL}
 // site and json
 const siteURL = window.gradStudentJSONURL
 //const url = `https://abrahamjuliot.github.io/profile/data/${siteURL}.json`
-const site = siteURL == 'ensc'? 'rcwecm1171' : siteURL == 'geo'? 'rcwecm1176' : ''
+const site = siteURL == 'ensc'? 'rcwecm1171' : siteURL == 'geo'? 'rcwecm4841' : ''
 
 // sort json by last word in search field
 const by = (getValue) => (a, b) => getValue(a) > getValue(b) ? 1 : -1
