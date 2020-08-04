@@ -685,14 +685,6 @@ exports.default = [{
   "research": "Global Climate & Environmental Change ",
   "websiteURL": "https://sites.google.com/ucr.edu/pamvervoort"
 }, {
-  "name": "Shelly Wernette",
-  "img": "shelly_wernette",
-  "email": "swern001@",
-  "program": "GEO",
-  "faculty": "Hughes",
-  "research": "Paleontology",
-  "websiteURL": "https://sites.google.com/a/ucr.edu/shelly-wernette/"
-}, {
   "name": "Baoning Wu",
   "img": "baoning",
   "email": "bwu015@",
