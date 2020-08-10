@@ -309,14 +309,6 @@ exports.default = [{
   "research": "Atmospheric trace gases",
   "websiteURL": ""
 }, {
-  "name": "Zachary Cryder",
-  "img": "cryder_zachary",
-  "email": "zcryd001@",
-  "program": "ENTX",
-  "faculty": "gan",
-  "research": "Collaborating with the department of Entomology to study how different application methods of Fipronil-based pesticides affect runoff of Fipronil and its breakdown products",
-  "websiteURL": ""
-}, {
   "name": "Win Cowger",
   "img": "win_cowger",
   "email": "wcowg001@",
@@ -364,14 +356,6 @@ exports.default = [{
   "faculty": "ying",
   "research": "Investigating trace metal distribution, mobilization, and carbon turnover in urban agricultural soils",
   "websiteURL": ""
-}, {
-  "name": "Nicolette Andrzejczyk",
-  "img": "andrzejczyk_nicolette",
-  "email": "nandr009@",
-  "program": "ENSC",
-  "faculty": "schlenk",
-  "research": "Exploring the use of fish dermal mucus as a non-invasive biomarker of exposure to environmental contaminants through the use of RNA sequencing",
-  "websiteURL": "https://sites.google.com/ucr.edu/nicolette"
 }, {
   "name": "Miranda Aiken",
   "img": "aiken",
