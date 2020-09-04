@@ -181,7 +181,7 @@ export default [
   },
   {
     "name": "Macon Abernathy",
-    "img": "macon_abernathy_0",
+    "img": "macon_abernathy",
     "email": "maber001@",
     "program": "ENTX",
     "faculty": "ying",
