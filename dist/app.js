@@ -427,7 +427,7 @@ exports.default = [{
   "program": "GEO",
   "faculty": "bekker",
   "research": "Geochemistry",
-  "websiteURL": ""
+  "websiteURL": "https://sites.google.com/ucr.edu/alex-kovalick-research/home"
 }, {
   "name": "Hsin-Yu Lee",
   "img": "hsinyu_2",
