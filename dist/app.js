@@ -5,11 +5,51 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = [{
-  "name": "Hossein Pazooki",
+  "name": "Jiani Yang",
   "img": "",
-  "email": "hpazo001@",
+  "email": "jyang417@",
   "program": "ENSC",
-  "faculty": "bahreini",
+  "faculty": "li",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Monica Hope",
+  "img": "",
+  "email": "mhope003@",
+  "program": "ENSC",
+  "faculty": "volz",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Xiaoyan Yang",
+  "img": "",
+  "email": "xyang020@",
+  "program": "ENSC",
+  "faculty": "zhang",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Aral Greene",
+  "img": "",
+  "email": "aralg@",
+  "program": "ENSC",
+  "faculty": "homyak",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Michelle Carr",
+  "img": "",
+  "email": "mcarr034@",
+  "program": "ENSC",
+  "faculty": "hopkins",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Alyssa Duro",
+  "img": "",
+  "email": "aduro005@",
+  "program": "ENSC",
+  "faculty": "hirmas",
   "research": "",
   "websiteURL": ""
 }, {
@@ -389,6 +429,118 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = [{
+  "name": "Beth Shallon",
+  "img": "",
+  "email": "bshal002@",
+  "program": "GEO",
+  "faculty": "ford",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Christopher Jones",
+  "img": "",
+  "email": "cjone095@",
+  "program": "GEO",
+  "faculty": "lyons",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Daria Pidhorodetska",
+  "img": "",
+  "email": "dpidh001@",
+  "program": "GEO",
+  "faculty": "schwieterman",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Emilie Simpson",
+  "img": "",
+  "email": "esimp005@",
+  "program": "GEO",
+  "faculty": "kane",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Evan Marschall",
+  "img": "",
+  "email": "emars009@",
+  "program": "GEO",
+  "faculty": "",
+  "research": "douilly",
+  "websiteURL": ""
+}, {
+  "name": "Heather McCandless",
+  "img": "",
+  "email": "hmcca005@",
+  "program": "GEO",
+  "faculty": "droser",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Lauren Neldner",
+  "img": "",
+  "email": "lneld001@",
+  "program": "GEO",
+  "faculty": "funning",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Michaela Leung",
+  "img": "",
+  "email": "mleun019@",
+  "program": "GEO",
+  "faculty": "schwieterman",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Sean Jaramillo",
+  "img": "",
+  "email": "sjara003@",
+  "program": "GEO",
+  "faculty": "brounce",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Xianglin Ren",
+  "img": "",
+  "email": "xren024@",
+  "program": "GEO",
+  "faculty": "liu",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Yijian Zhou",
+  "img": "",
+  "email": "yzhou279@",
+  "program": "GEO",
+  "faculty": "ghosh",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Shravya Srivastava",
+  "img": "",
+  "email": "ssriv008@",
+  "program": "GEO",
+  "faculty": "hughes",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "James Gomez",
+  "img": "",
+  "email": "jgome222@",
+  "program": "GEO",
+  "faculty": "allen",
+  "research": "",
+  "websiteURL": ""
+}, {
+  "name": "Sara Scoggins",
+  "img": "",
+  "email": "sscog001@",
+  "program": "GEO",
+  "faculty": "brounce",
+  "research": "",
+  "websiteURL": ""
+}, {
   "name": "Phillip Boan",
   "img": "phil_boan",
   "email": "pboan001@",
@@ -862,7 +1014,7 @@ var Program = choose(track);
 var faculty = function faculty(selection) {
     var _ref2;
 
-    return _ref2 = {}, _defineProperty(_ref2, 'ajami', ['Hoori Ajami', 'hoori.ajami']), _defineProperty(_ref2, 'anderson', ['Michael Anderson', 'michael.anderson']), _defineProperty(_ref2, 'bahreini', ['Roya Bahreini', 'roya.bahreini']), _defineProperty(_ref2, 'crohn', ['David Crohn', 'david.crohn']), _defineProperty(_ref2, 'gan', ['Jay Gan', 'j.gan']), _defineProperty(_ref2, 'graham', ['Robert Graham', 'robert.graham']), _defineProperty(_ref2, 'gray', ['Andrew B. Gray', 'andrew.gray']), _defineProperty(_ref2, 'haghverdi', ['Amir Haghverdi', 'amir.haghverdi']), _defineProperty(_ref2, 'hirmas', ['Daniel Hirmas', 'daniel.hirmas']), _defineProperty(_ref2, 'homyak', ['Pete Homyak', 'peter.homyak1']), _defineProperty(_ref2, 'hopkins', ['Francesca Hopkins', 'francesca.hopkins']), _defineProperty(_ref2, 'jenerette', ['Darrel Jenerette', 'darrel.jenerette']), _defineProperty(_ref2, 'knapp', ['Keith Knapp', 'keith.knapp']), _defineProperty(_ref2, 'li', ['King-Fai Li', 'king-fai.li']), _defineProperty(_ref2, 'lin', ['Ying-Hsuan Lin', 'ying-hsuan.lin']), _defineProperty(_ref2, 'porter', ['William Porter', 'william.porter']), _defineProperty(_ref2, 'schlenk', ['Daniel Schlenk', 'daniel.schlenk']), _defineProperty(_ref2, 'sickman', ['James Sickman', 'james.sickman']), _defineProperty(_ref2, 'simunek', ['Jirka Šimunek', 'jiri.simunek']), _defineProperty(_ref2, 'volz', ['David C. Volz', 'david.volz']), _defineProperty(_ref2, 'wu', ['Laosheng Wu', 'laosheng.wu']), _defineProperty(_ref2, 'ying', ['Sam Ying', 'samantha.ying']), _defineProperty(_ref2, 'schwabe', ['Kurt Schwabe', 'kurt.schwabe']), _defineProperty(_ref2, 'oglesby', ['David D. Oglesby', 'david.oglesby']), _defineProperty(_ref2, 'allen', ['Robert J. Allen', 'robert.allen']), _defineProperty(_ref2, 'barth', ['Nicolas Barth', 'nic.barth']), _defineProperty(_ref2, 'bekker', ['Andrey Bekker', 'andrey.bekker']), _defineProperty(_ref2, 'brounce', ['Maryjo Brounce', 'maryjo.brounce']), _defineProperty(_ref2, 'douilly', ['Roby Douilly', 'roby.douilly']), _defineProperty(_ref2, 'dieterich', ['James H. Dieterich', 'james.dieterich']), _defineProperty(_ref2, 'droser', ['Mary Droser', 'mary.droser']), _defineProperty(_ref2, 'fogel', ['Marilyn Fogel', 'marilyn.fogel']), _defineProperty(_ref2, 'ford', ['Heather Ford', 'heather.ford']), _defineProperty(_ref2, 'funning', ['Gareth Funning', 'gareth.funning']), _defineProperty(_ref2, 'ghosh', ['Abhijit Ghosh', 'abhijit.ghosh']), _defineProperty(_ref2, 'hughes', ['Nigel C. Hughes', 'nigel.hughes']), _defineProperty(_ref2, 'kane', ['Stephen R. Kane', 'stephen.kane']), _defineProperty(_ref2, 'liu', ['Wei Liu', 'wei.liu']), _defineProperty(_ref2, 'turner', ['Sandra Kirtland Turner', 'sandra.kirtlandturner']), _defineProperty(_ref2, 'love', ['Gordon Love', 'gordon.love']), _defineProperty(_ref2, 'lyons', ['Timothy Lyons', 'timothy.lyons']), _defineProperty(_ref2, 'mckibben', ['Michael A. McKibben', 'michael.mckibben']), _defineProperty(_ref2, 'minnich', ['Richard A. Minnich', 'richard.minnich']), _defineProperty(_ref2, 'ridgwell', ['Andy Ridgwell', 'andrew.ridgwell']), _defineProperty(_ref2, 'sadler', ['Peter M. Sadler', 'peter.sadler']), _defineProperty(_ref2, 'scott', ['Thomas A. Scott', 'thomas.scott']), _defineProperty(_ref2, 'default', ''), _ref2;
+    return _ref2 = {}, _defineProperty(_ref2, 'ajami', ['Hoori Ajami', 'hoori.ajami']), _defineProperty(_ref2, 'anderson', ['Michael Anderson', 'michael.anderson']), _defineProperty(_ref2, 'bahreini', ['Roya Bahreini', 'roya.bahreini']), _defineProperty(_ref2, 'crohn', ['David Crohn', 'david.crohn']), _defineProperty(_ref2, 'gan', ['Jay Gan', 'j.gan']), _defineProperty(_ref2, 'graham', ['Robert Graham', 'robert.graham']), _defineProperty(_ref2, 'gray', ['Andrew B. Gray', 'andrew.gray']), _defineProperty(_ref2, 'haghverdi', ['Amir Haghverdi', 'amir.haghverdi']), _defineProperty(_ref2, 'hirmas', ['Daniel Hirmas', 'daniel.hirmas']), _defineProperty(_ref2, 'homyak', ['Pete Homyak', 'peter.homyak1']), _defineProperty(_ref2, 'hopkins', ['Francesca Hopkins', 'francesca.hopkins']), _defineProperty(_ref2, 'jenerette', ['Darrel Jenerette', 'darrel.jenerette']), _defineProperty(_ref2, 'knapp', ['Keith Knapp', 'keith.knapp']), _defineProperty(_ref2, 'li', ['King-Fai Li', 'king-fai.li']), _defineProperty(_ref2, 'lin', ['Ying-Hsuan Lin', 'ying-hsuan.lin']), _defineProperty(_ref2, 'porter', ['William Porter', 'william.porter']), _defineProperty(_ref2, 'schlenk', ['Daniel Schlenk', 'daniel.schlenk']), _defineProperty(_ref2, 'sickman', ['James Sickman', 'james.sickman']), _defineProperty(_ref2, 'simunek', ['Jirka Šimunek', 'jiri.simunek']), _defineProperty(_ref2, 'volz', ['David C. Volz', 'david.volz']), _defineProperty(_ref2, 'wu', ['Laosheng Wu', 'laosheng.wu']), _defineProperty(_ref2, 'ying', ['Sam Ying', 'samantha.ying']), _defineProperty(_ref2, 'schwabe', ['Kurt Schwabe', 'kurt.schwabe']), _defineProperty(_ref2, 'zhang', ['Haofei Zhang', 'haofei.zhang']), _defineProperty(_ref2, 'oglesby', ['David D. Oglesby', 'david.oglesby']), _defineProperty(_ref2, 'allen', ['Robert J. Allen', 'robert.allen']), _defineProperty(_ref2, 'barth', ['Nicolas Barth', 'nic.barth']), _defineProperty(_ref2, 'bekker', ['Andrey Bekker', 'andrey.bekker']), _defineProperty(_ref2, 'brounce', ['Maryjo Brounce', 'maryjo.brounce']), _defineProperty(_ref2, 'douilly', ['Roby Douilly', 'roby.douilly']), _defineProperty(_ref2, 'dieterich', ['James H. Dieterich', 'james.dieterich']), _defineProperty(_ref2, 'droser', ['Mary Droser', 'mary.droser']), _defineProperty(_ref2, 'fogel', ['Marilyn Fogel', 'marilyn.fogel']), _defineProperty(_ref2, 'ford', ['Heather Ford', 'heather.ford']), _defineProperty(_ref2, 'funning', ['Gareth Funning', 'gareth.funning']), _defineProperty(_ref2, 'ghosh', ['Abhijit Ghosh', 'abhijit.ghosh']), _defineProperty(_ref2, 'hughes', ['Nigel C. Hughes', 'nigel.hughes']), _defineProperty(_ref2, 'kane', ['Stephen R. Kane', 'stephen.kane']), _defineProperty(_ref2, 'liu', ['Wei Liu', 'wei.liu']), _defineProperty(_ref2, 'turner', ['Sandra Kirtland Turner', 'sandra.kirtlandturner']), _defineProperty(_ref2, 'love', ['Gordon Love', 'gordon.love']), _defineProperty(_ref2, 'lyons', ['Timothy Lyons', 'timothy.lyons']), _defineProperty(_ref2, 'mckibben', ['Michael A. McKibben', 'michael.mckibben']), _defineProperty(_ref2, 'minnich', ['Richard A. Minnich', 'richard.minnich']), _defineProperty(_ref2, 'ridgwell', ['Andy Ridgwell', 'andrew.ridgwell']), _defineProperty(_ref2, 'sadler', ['Peter M. Sadler', 'peter.sadler']), _defineProperty(_ref2, 'scott', ['Thomas A. Scott', 'thomas.scott']), _defineProperty(_ref2, 'schwieterman', ['Edward Schwieterman', 'edward.schwieterman']), _defineProperty(_ref2, 'default', ''), _ref2;
 };
 var PI = choose(faculty);
 

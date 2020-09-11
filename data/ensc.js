@@ -1,10 +1,55 @@
 export default [
   {
-    "name": "Hossein Pazooki",
+    "name": "Jiani Yang",
     "img": "",
-    "email": "hpazo001@",
+    "email": "jyang417@",
     "program": "ENSC",
-    "faculty": "bahreini",
+    "faculty": "li",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Monica Hope",
+    "img": "",
+    "email": "mhope003@",
+    "program": "ENSC",
+    "faculty": "volz",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Xiaoyan Yang",
+    "img": "",
+    "email": "xyang020@",
+    "program": "ENSC",
+    "faculty": "zhang",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Aral Greene",
+    "img": "",
+    "email": "aralg@",
+    "program": "ENSC",
+    "faculty": "homyak",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Michelle Carr",
+    "img": "",
+    "email": "mcarr034@",
+    "program": "ENSC",
+    "faculty": "hopkins",
+    "research": "",
+    "websiteURL": ""
+  },
+  {
+    "name": "Alyssa Duro",
+    "img": "",
+    "email": "aduro005@",
+    "program": "ENSC",
+    "faculty": "hirmas",
     "research": "",
     "websiteURL": ""
   },

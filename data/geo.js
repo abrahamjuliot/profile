@@ -1,4 +1,130 @@
 export default [
+	{
+    "name": "Beth Shallon",
+    "img": "",
+    "email": "bshal002@",
+    "program": "GEO",
+    "faculty": "ford",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Christopher Jones",
+    "img": "",
+    "email": "cjone095@",
+    "program": "GEO",
+    "faculty": "lyons",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Daria Pidhorodetska",
+    "img": "",
+    "email": "dpidh001@",
+    "program": "GEO",
+    "faculty": "schwieterman",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Emilie Simpson",
+    "img": "",
+    "email": "esimp005@",
+    "program": "GEO",
+    "faculty": "kane",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Evan Marschall",
+    "img": "",
+    "email": "emars009@",
+    "program": "GEO",
+    "faculty": "",
+    "research": "douilly",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Heather McCandless",
+    "img": "",
+    "email": "hmcca005@",
+    "program": "GEO",
+    "faculty": "droser",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Lauren Neldner",
+    "img": "",
+    "email": "lneld001@",
+    "program": "GEO",
+    "faculty": "funning",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Michaela Leung",
+    "img": "",
+    "email": "mleun019@",
+    "program": "GEO",
+    "faculty": "schwieterman",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Sean Jaramillo",
+    "img": "",
+    "email": "sjara003@",
+    "program": "GEO",
+    "faculty": "brounce",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Xianglin Ren",
+    "img": "",
+    "email": "xren024@",
+    "program": "GEO",
+    "faculty": "liu",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Yijian Zhou",
+    "img": "",
+    "email": "yzhou279@",
+    "program": "GEO",
+    "faculty": "ghosh",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Shravya Srivastava",
+    "img": "",
+    "email": "ssriv008@",
+    "program": "GEO",
+    "faculty": "hughes",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "James Gomez",
+    "img": "",
+    "email": "jgome222@",
+    "program": "GEO",
+    "faculty": "allen",
+    "research": "",
+    "websiteURL": "" 
+  },
+  {
+    "name": "Sara Scoggins",
+    "img": "",
+    "email": "sscog001@",
+    "program": "GEO",
+    "faculty": "brounce",
+    "research": "",
+    "websiteURL": "" 
+  },
   {
     "name": "Phillip Boan",
     "img": "phil_boan",

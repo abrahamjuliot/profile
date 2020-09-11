@@ -41,6 +41,7 @@ const faculty = selection => ({
     ['wu']: ['Laosheng Wu', 'laosheng.wu'],
     ['ying']: ['Sam Ying', 'samantha.ying'],
     ['schwabe']: ['Kurt Schwabe', 'kurt.schwabe'],
+	['zhang']: ['Haofei Zhang', 'haofei.zhang'],
     ['oglesby']: ['David D. Oglesby', 'david.oglesby'],
     ['allen']: ['Robert J. Allen', 'robert.allen'],
     ['barth']: ['Nicolas Barth', 'nic.barth'],
@@ -64,6 +65,7 @@ const faculty = selection => ({
     ['ridgwell']: ['Andy Ridgwell', 'andrew.ridgwell'],
     ['sadler']: ['Peter M. Sadler', 'peter.sadler'],
     ['scott']: ['Thomas A. Scott', 'thomas.scott'],
+	['schwieterman']: ['Edward Schwieterman', 'edward.schwieterman'],
     default: ''
 })
 const PI = choose(faculty)
