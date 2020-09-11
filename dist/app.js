@@ -465,8 +465,8 @@ exports.default = [{
   "img": "",
   "email": "emars009@",
   "program": "GEO",
-  "faculty": "",
-  "research": "douilly",
+  "faculty": "douilly",
+  "research": "",
   "websiteURL": ""
 }, {
   "name": "Heather McCandless",
