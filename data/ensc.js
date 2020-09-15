@@ -342,15 +342,6 @@ export default [
     "websiteURL": ""
   },
   {
-    "name": "Aarushi Jha",
-    "img": "aarushi_jha",
-    "email": "ajha005@",
-    "program": "ENSC",
-    "faculty": "ajami",
-    "research": "Investigating the effects of land management practices and climate change on groundwater recharge",
-    "websiteURL": "https://sites.google.com/ucr.edu/ajha"
-  },
-  {
     "name": "Sarah Helalia",
     "img": "helalia_sarah",
     "email": "shela001@",
