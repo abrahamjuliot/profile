@@ -5,7 +5,7 @@ export default [
 		"email": "yxion002@",
 		"program": "ECON",
 		"faculty": "schwabe",
-		"research": "",
+		"research": "Researching water economics and computational economics",
 		"websiteURL": ""
 	},
 	{
