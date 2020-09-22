@@ -2,840 +2,848 @@
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+	value: true
 });
 exports.default = [{
-  "name": "Jiani Yang",
-  "img": "",
-  "email": "jyang417@",
-  "program": "ENSC",
-  "faculty": "li",
-  "research": "",
-  "websiteURL": ""
+	"name": "Yuhua Xiong",
+	"img": "xiong_yuhua",
+	"email": "yxion002@",
+	"program": "ECON",
+	"faculty": "schwabe",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Monica Hope",
-  "img": "",
-  "email": "mhope003@",
-  "program": "ENSC",
-  "faculty": "volz",
-  "research": "",
-  "websiteURL": ""
+	"name": "Jiani Yang",
+	"img": "",
+	"email": "jyang417@",
+	"program": "ENSC",
+	"faculty": "li",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Xiaoyan Yang",
-  "img": "",
-  "email": "xyang020@",
-  "program": "ENSC",
-  "faculty": "zhang",
-  "research": "",
-  "websiteURL": ""
+	"name": "Monica Hope",
+	"img": "",
+	"email": "mhope003@",
+	"program": "ENSC",
+	"faculty": "volz",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Aral Greene",
-  "img": "",
-  "email": "aralg@",
-  "program": "ENSC",
-  "faculty": "homyak",
-  "research": "",
-  "websiteURL": ""
+	"name": "Xiaoyan Yang",
+	"img": "",
+	"email": "xyang020@",
+	"program": "ENSC",
+	"faculty": "zhang",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Michelle Carr",
-  "img": "",
-  "email": "mcarr034@",
-  "program": "ENSC",
-  "faculty": "hopkins",
-  "research": "",
-  "websiteURL": ""
+	"name": "Aral Greene",
+	"img": "",
+	"email": "aralg@",
+	"program": "ENSC",
+	"faculty": "homyak",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Alyssa Duro",
-  "img": "",
-  "email": "aduro005@",
-  "program": "ENSC",
-  "faculty": "hirmas",
-  "research": "",
-  "websiteURL": ""
+	"name": "Michelle Carr",
+	"img": "",
+	"email": "mcarr034@",
+	"program": "ENSC",
+	"faculty": "hopkins",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Zahra Amiri",
-  "img": "",
-  "email": "zamir002@",
-  "program": "ENSC",
-  "faculty": "haghverdi",
-  "research": "",
-  "websiteURL": ""
+	"name": "Alyssa Duro",
+	"img": "",
+	"email": "aduro005@",
+	"program": "ENSC",
+	"faculty": "hirmas",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Jean Claude Iraduku",
-  "img": "",
-  "email": "jirad001@",
-  "program": "ENSC",
-  "faculty": "haghverdi",
-  "research": "",
-  "websiteURL": ""
+	"name": "Zahra Amiri",
+	"img": "",
+	"email": "zamir002@",
+	"program": "ENSC",
+	"faculty": "haghverdi",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Danielle Stevenson",
-  "img": "stevenson",
-  "email": "dstev013@",
-  "program": "ENTX",
-  "faculty": "ying",
-  "research": "Applications for Arbuscular Mycorrhizal Fungi in Agricultural Systems to Limit Heavy Metal Uptake in Food Crops",
-  "websiteURL": ""
+	"name": "Jean Claude Iraduku",
+	"img": "",
+	"email": "jirad001@",
+	"program": "ENSC",
+	"faculty": "haghverdi",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Johann Puespoek",
-  "img": "johann_0",
-  "email": "jpues001@",
-  "program": "ENSC",
-  "faculty": "homyak",
-  "research": "Biogeochemical cycling of carbon, nitrogen and phosphorus in terrestrial ecosystems",
-  "websiteURL": "https://sites.google.com/ucr.edu/jpues"
+	"name": "Danielle Stevenson",
+	"img": "stevenson",
+	"email": "dstev013@",
+	"program": "ENTX",
+	"faculty": "ying",
+	"research": "Applications for Arbuscular Mycorrhizal Fungi in Agricultural Systems to Limit Heavy Metal Uptake in Food Crops",
+	"websiteURL": ""
 }, {
-  "name": "Benjamin Maki",
-  "img": "maki",
-  "email": "bmaki002@",
-  "program": "ENTX",
-  "faculty": "ying",
-  "research": "Working on projects related to manganese release in soils and the subsequent contamination of groundwater",
-  "websiteURL": ""
+	"name": "Johann Puespoek",
+	"img": "johann_0",
+	"email": "jpues001@",
+	"program": "ENSC",
+	"faculty": "homyak",
+	"research": "Biogeochemical cycling of carbon, nitrogen and phosphorus in terrestrial ecosystems",
+	"websiteURL": "https://sites.google.com/ucr.edu/jpues"
 }, {
-  "name": "Aleksandra Karapetrova",
-  "img": "",
-  "email": "akara032@",
-  "program": "ENTX",
-  "faculty": "gan",
-  "research": "",
-  "websiteURL": ""
+	"name": "Benjamin Maki",
+	"img": "maki",
+	"email": "bmaki002@",
+	"program": "ENTX",
+	"faculty": "ying",
+	"research": "Working on projects related to manganese release in soils and the subsequent contamination of groundwater",
+	"websiteURL": ""
 }, {
-  "name": "Kunpeng Chen",
-  "img": "kunpen",
-  "email": "kchen255@",
-  "program": "ENSC",
-  "faculty": "lin",
-  "research": "Climate effects and health effects of atmospheric brown carbon (BrC) substance; mechanisms and kinetics of formation of atmospheric pollutants.",
-  "websiteURL": "https://sites.google.com/ucr.edu/kpchen/home"
+	"name": "Aleksandra Karapetrova",
+	"img": "",
+	"email": "akara032@",
+	"program": "ENTX",
+	"faculty": "gan",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Kiarash Ehsani",
-  "img": "kiarash",
-  "email": "kehsa001@",
-  "program": "ENSC",
-  "faculty": "ajami",
-  "research": "Understanding underground hydrological processes, sub-surface contribution to stream flow and base-flow separation.",
-  "websiteURL": "https://sites.google.com/ucr.edu/kiarashehsani"
+	"name": "Kunpeng Chen",
+	"img": "kunpen",
+	"email": "kchen255@",
+	"program": "ENSC",
+	"faculty": "lin",
+	"research": "Climate effects and health effects of atmospheric brown carbon (BrC) substance; mechanisms and kinetics of formation of atmospheric pollutants.",
+	"websiteURL": "https://sites.google.com/ucr.edu/kpchen/home"
 }, {
-  "name": "Kristin Hamilton",
-  "img": "",
-  "email": "khami010@",
-  "program": "ENSC",
-  "faculty": "jenerette",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/urbanecohydrology/home"
+	"name": "Kiarash Ehsani",
+	"img": "kiarash",
+	"email": "kehsa001@",
+	"program": "ENSC",
+	"faculty": "ajami",
+	"research": "Understanding underground hydrological processes, sub-surface contribution to stream flow and base-flow separation.",
+	"websiteURL": "https://sites.google.com/ucr.edu/kiarashehsani"
 }, {
-  "name": "Sina Jahanshahi",
-  "img": "",
-  "email": "sjaha007@",
-  "program": "ENSC",
-  "faculty": "ajami",
-  "research": "",
-  "websiteURL": ""
+	"name": "Kristin Hamilton",
+	"img": "",
+	"email": "khami010@",
+	"program": "ENSC",
+	"faculty": "jenerette",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/urbanecohydrology/home"
 }, {
-  "name": "Banafsheh Nematollahi",
-  "img": "banafsheh",
-  "email": "bnema001@",
-  "program": "ENSC",
-  "faculty": "hirmas",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/banafsheh-nematollahi/home"
+	"name": "Sina Jahanshahi",
+	"img": "",
+	"email": "sjaha007@",
+	"program": "ENSC",
+	"faculty": "ajami",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Nilofar Raeofy",
-  "img": "",
-  "email": "nraeo001@",
-  "program": "ENSC",
-  "faculty": "bahreini",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/nil/home"
+	"name": "Banafsheh Nematollahi",
+	"img": "banafsheh",
+	"email": "bnema001@",
+	"program": "ENSC",
+	"faculty": "hirmas",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/banafsheh-nematollahi/home"
 }, {
-  "name": "Simmi Simmi",
-  "img": "simmi",
-  "email": "fsimm001@",
-  "program": "ENSC",
-  "faculty": "hirmas",
-  "research": "",
-  "websiteURL": "https://sites.google.com/view/ucrsimmi/home"
+	"name": "Nilofar Raeofy",
+	"img": "",
+	"email": "nraeo001@",
+	"program": "ENSC",
+	"faculty": "bahreini",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/nil/home"
 }, {
-  "name": "Samiksha Singh",
-  "img": "samiksha",
-  "email": "ssing179@",
-  "program": "ENSC",
-  "faculty": "gray",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/samiksha-singh/home"
+	"name": "Simmi Simmi",
+	"img": "simmi",
+	"email": "fsimm001@",
+	"program": "ENSC",
+	"faculty": "hirmas",
+	"research": "",
+	"websiteURL": "https://sites.google.com/view/ucrsimmi/home"
 }, {
-  "name": "Yuhua Situ",
-  "img": "",
-  "email": "ysitu005@",
-  "program": "ENSC",
-  "faculty": "li",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/situ"
+	"name": "Samiksha Singh",
+	"img": "samiksha",
+	"email": "ssing179@",
+	"program": "ENSC",
+	"faculty": "gray",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/samiksha-singh/home"
 }, {
-  "name": "Elizah Stephens",
-  "img": "",
-  "email": "estep007@",
-  "program": "ENSC",
-  "faculty": "homyak",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/elizahstephens"
+	"name": "Yuhua Situ",
+	"img": "",
+	"email": "ysitu005@",
+	"program": "ENSC",
+	"faculty": "li",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/situ"
 }, {
-  "name": "Jenna Wiegand",
-  "img": "jenna",
-  "email": "jwieg002@",
-  "program": "ENSC",
-  "faculty": "volz",
-  "research": "Osmoregulatory impacts of environmental chemicals on fish embryos",
-  "websiteURL": "https://sites.google.com/ucr.edu/jwiegand"
+	"name": "Elizah Stephens",
+	"img": "",
+	"email": "estep007@",
+	"program": "ENSC",
+	"faculty": "homyak",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/elizahstephens"
 }, {
-  "name": "Alexa Canchola",
-  "img": "canchola",
-  "email": "acanc007@",
-  "program": "ENTX",
-  "faculty": "lin",
-  "research": "Atmospheric pollution",
-  "websiteURL": ""
+	"name": "Jenna Wiegand",
+	"img": "jenna",
+	"email": "jwieg002@",
+	"program": "ENSC",
+	"faculty": "volz",
+	"research": "Osmoregulatory impacts of environmental chemicals on fish embryos",
+	"websiteURL": "https://sites.google.com/ucr.edu/jwiegand"
 }, {
-  "name": "Sarah Avila-Barnard",
-  "img": "barnard",
-  "email": "savil007@",
-  "program": "ENTX",
-  "faculty": "volz",
-  "research": "Flame retardant-induced effects on epigenetic reprogramming during early development",
-  "websiteURL": ""
+	"name": "Alexa Canchola",
+	"img": "canchola",
+	"email": "acanc007@",
+	"program": "ENTX",
+	"faculty": "lin",
+	"research": "Atmospheric pollution",
+	"websiteURL": ""
 }, {
-  "name": "Macon Abernathy",
-  "img": "macon_abernathy",
-  "email": "maber001@",
-  "program": "ENTX",
-  "faculty": "ying",
-  "research": "",
-  "websiteURL": ""
+	"name": "Sarah Avila-Barnard",
+	"img": "barnard",
+	"email": "savil007@",
+	"program": "ENTX",
+	"faculty": "volz",
+	"research": "Flame retardant-induced effects on epigenetic reprogramming during early development",
+	"websiteURL": ""
 }, {
-  "name": "Tiantian Zhou",
-  "img": "tiantian_zhou",
-  "email": "tzhou035@",
-  "program": "ENSC",
-  "faculty": "simunek",
-  "research": "Simulation of water stable isotopes transport in the vadose zone",
-  "websiteURL": "https://sites.google.com/ucr.edu/ttzhou"
+	"name": "Macon Abernathy",
+	"img": "macon_abernathy",
+	"email": "maber001@",
+	"program": "ENTX",
+	"faculty": "ying",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Yaxin (Jane) Xiong",
-  "img": "xiong_yaxin",
-  "email": "yxion024@",
-  "program": "ENSC",
-  "faculty": "gan",
-  "research": "Focusing on developing a tiered framework that integrates simple process-based, quantitative structure- property relationships to describe the CEC flux from the input sources, through the soil/root interface, and into leaves/fruits",
-  "websiteURL": "https://sites.google.com/ucr.edu/yxiong"
+	"name": "Tiantian Zhou",
+	"img": "tiantian_zhou",
+	"email": "tzhou035@",
+	"program": "ENSC",
+	"faculty": "simunek",
+	"research": "Simulation of water stable isotopes transport in the vadose zone",
+	"websiteURL": "https://sites.google.com/ucr.edu/ttzhou"
 }, {
-  "name": "Linia Tashmim",
-  "img": "linia",
-  "email": "ltash001@",
-  "program": "ENSC",
-  "faculty": "porter",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/lit"
+	"name": "Yaxin (Jane) Xiong",
+	"img": "xiong_yaxin",
+	"email": "yxion024@",
+	"program": "ENSC",
+	"faculty": "gan",
+	"research": "Focusing on developing a tiered framework that integrates simple process-based, quantitative structure- property relationships to describe the CEC flux from the input sources, through the soil/root interface, and into leaves/fruits",
+	"websiteURL": "https://sites.google.com/ucr.edu/yxiong"
 }, {
-  "name": "Philip Tanabe",
-  "img": "tanabe_phillip",
-  "email": "ptana001@",
-  "program": "ENTX",
-  "faculty": "schlenk",
-  "research": "",
-  "websiteURL": ""
+	"name": "Linia Tashmim",
+	"img": "linia",
+	"email": "ltash001@",
+	"program": "ENSC",
+	"faculty": "porter",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/lit"
 }, {
-  "name": "Nathan Sy",
-  "img": "nathan_sy_0",
-  "email": "nsy001@",
-  "program": "ENSC",
-  "faculty": "gan",
-  "research": "Contaminant fate and transport",
-  "websiteURL": "https://sites.google.com/ucr.edu/ndsucr"
+	"name": "Philip Tanabe",
+	"img": "tanabe_phillip",
+	"email": "ptana001@",
+	"program": "ENTX",
+	"faculty": "schlenk",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Amninder Singh",
-  "img": "amninder_singh",
-  "email": "asing075@",
-  "program": "ENSC",
-  "faculty": "haghverdi",
-  "research": "",
-  "websiteURL": ""
+	"name": "Nathan Sy",
+	"img": "nathan_sy_0",
+	"email": "nsy001@",
+	"program": "ENSC",
+	"faculty": "gan",
+	"research": "Contaminant fate and transport",
+	"websiteURL": "https://sites.google.com/ucr.edu/ndsucr"
 }, {
-  "name": "Anish Sapkota",
-  "img": "sapkota_anish",
-  "email": "asapk001@",
-  "program": "ENSC",
-  "faculty": "haghverdi",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/anishsapkota"
+	"name": "Amninder Singh",
+	"img": "amninder_singh",
+	"email": "asing075@",
+	"program": "ENSC",
+	"faculty": "haghverdi",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Michael Rodriguez",
-  "img": "rodriguez_michael_0",
-  "email": "mrodr149@",
-  "program": "ENSC",
-  "faculty": "hopkins",
-  "research": "Greenhouse gas emissions and carbon/nitrogen cycling of California Dairies. Effect of land application of dairy manure/compost on greenhouse gas emissions",
-  "websiteURL": "https://sites.google.com/ucr.edu/michaelrodriguez"
+	"name": "Anish Sapkota",
+	"img": "sapkota_anish",
+	"email": "asapk001@",
+	"program": "ENSC",
+	"faculty": "haghverdi",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/anishsapkota"
 }, {
-  "name": "Aalekhya Reddam",
-  "img": "aalekhya_reddam",
-  "email": "aredd006@",
-  "program": "ENTX",
-  "faculty": "volz",
-  "research": "Human exposure and developmental effects of organophosphate esters",
-  "websiteURL": ""
+	"name": "Michael Rodriguez",
+	"img": "rodriguez_michael_0",
+	"email": "mrodr149@",
+	"program": "ENSC",
+	"faculty": "hopkins",
+	"research": "Greenhouse gas emissions and carbon/nitrogen cycling of California Dairies. Effect of land application of dairy manure/compost on greenhouse gas emissions",
+	"websiteURL": "https://sites.google.com/ucr.edu/michaelrodriguez"
 }, {
-  "name": "Talha Rafiq",
-  "img": "talha",
-  "email": "trafi001@",
-  "program": "ENSC",
-  "faculty": "hopkins",
-  "research": "",
-  "websiteURL": ""
+	"name": "Aalekhya Reddam",
+	"img": "aalekhya_reddam",
+	"email": "aredd006@",
+	"program": "ENTX",
+	"faculty": "volz",
+	"research": "Human exposure and developmental effects of organophosphate esters",
+	"websiteURL": ""
 }, {
-  "name": "Yaning Miao",
-  "img": "yaning_miao",
-  "email": "ymiao010@",
-  "program": "ENSC",
-  "faculty": "porter",
-  "research": "",
-  "websiteURL": "https://sites.google.com/ucr.edu/myn"
+	"name": "Talha Rafiq",
+	"img": "talha",
+	"email": "trafi001@",
+	"program": "ENSC",
+	"faculty": "hopkins",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Victoria McGruer",
-  "img": "mcgruer_victoria",
-  "email": "vmcgr001@",
-  "program": "ENTX",
-  "faculty": "schlenk",
-  "research": "Aquatic ecotoxicology",
-  "websiteURL": ""
+	"name": "Yaning Miao",
+	"img": "yaning_miao",
+	"email": "ymiao010@",
+	"program": "ENSC",
+	"faculty": "porter",
+	"research": "",
+	"websiteURL": "https://sites.google.com/ucr.edu/myn"
 }, {
-  "name": "Sarah Helalia",
-  "img": "helalia_sarah",
-  "email": "shela001@",
-  "program": "ENSC",
-  "faculty": "simunek",
-  "research": "Modifying a model of plant-soil parameters which elucidate their impacts on the vadose zone water and N balance",
-  "websiteURL": ""
+	"name": "Victoria McGruer",
+	"img": "mcgruer_victoria",
+	"email": "vmcgr001@",
+	"program": "ENTX",
+	"faculty": "schlenk",
+	"research": "Aquatic ecotoxicology",
+	"websiteURL": ""
 }, {
-  "name": "James Guilinger",
-  "img": "guilinger_jimmy",
-  "email": "jguil009@",
-  "program": "ENSC",
-  "faculty": "gray",
-  "research": "Researching the sourcing, delivery, and conveyance of fine sediment in river systems influenced by various disturbances",
-  "websiteURL": ""
+	"name": "Sarah Helalia",
+	"img": "helalia_sarah",
+	"email": "shela001@",
+	"program": "ENSC",
+	"faculty": "simunek",
+	"research": "Modifying a model of plant-soil parameters which elucidate their impacts on the vadose zone water and N balance",
+	"websiteURL": ""
 }, {
-  "name": "Clare Murphy-Hagen",
-  "img": "",
-  "email": "cmurp025@",
-  "program": "ENSC",
-  "faculty": "gray",
-  "research": "",
-  "websiteURL": ""
+	"name": "James Guilinger",
+	"img": "guilinger_jimmy",
+	"email": "jguil009@",
+	"program": "ENSC",
+	"faculty": "gray",
+	"research": "Researching the sourcing, delivery, and conveyance of fine sediment in river systems influenced by various disturbances",
+	"websiteURL": ""
 }, {
-  "name": "Isis Frausto-Vicencio",
-  "img": "isis_frausto",
-  "email": "ifrau001@",
-  "program": "ENSC",
-  "faculty": "hopkins",
-  "research": "Atmospheric trace gases",
-  "websiteURL": ""
+	"name": "Clare Murphy-Hagen",
+	"img": "",
+	"email": "cmurp025@",
+	"program": "ENSC",
+	"faculty": "gray",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Win Cowger",
-  "img": "win_cowger",
-  "email": "wcowg001@",
-  "program": "ENSC",
-  "faculty": "gray",
-  "research": "Studying plastic pollution with a focus on developing maps of plastic pollution and refining our knowledge of the relationship between land and sea based sources of plastic pollution",
-  "websiteURL": ""
+	"name": "Isis Frausto-Vicencio",
+	"img": "isis_frausto",
+	"email": "ifrau001@",
+	"program": "ENSC",
+	"faculty": "hopkins",
+	"research": "Atmospheric trace gases",
+	"websiteURL": ""
 }, {
-  "name": "Yumeng Cui",
-  "img": "yumeng_cui",
-  "email": "ycui027@",
-  "program": "ENSC",
-  "faculty": "bahreini",
-  "research": "Atmospheric Science",
-  "websiteURL": "https://sites.google.com/ucr.edu/ymcui"
+	"name": "Win Cowger",
+	"img": "win_cowger",
+	"email": "wcowg001@",
+	"program": "ENSC",
+	"faculty": "gray",
+	"research": "Studying plastic pollution with a focus on developing maps of plastic pollution and refining our knowledge of the relationship between land and sea based sources of plastic pollution",
+	"websiteURL": ""
 }, {
-  "name": "Vanessa Cheng",
-  "img": "vanessa_cheng",
-  "email": "vchen009@",
-  "program": "ENTX",
-  "faculty": "volz",
-  "research": "Investigating Peroxisome Proliferator-Activated Receptor Gamma (PPARg): A Potential Target for Xenobiotics During Early Embryonic Development.",
-  "websiteURL": ""
+	"name": "Yumeng Cui",
+	"img": "yumeng_cui",
+	"email": "ycui027@",
+	"program": "ENSC",
+	"faculty": "bahreini",
+	"research": "Atmospheric Science",
+	"websiteURL": "https://sites.google.com/ucr.edu/ymcui"
 }, {
-  "name": "Jin Chen",
-  "img": "chen_jin",
-  "email": "jchen137@",
-  "program": "ENTX",
-  "faculty": "lin",
-  "research": "",
-  "websiteURL": ""
+	"name": "Vanessa Cheng",
+	"img": "vanessa_cheng",
+	"email": "vchen009@",
+	"program": "ENTX",
+	"faculty": "volz",
+	"research": "Investigating Peroxisome Proliferator-Activated Receptor Gamma (PPARg): A Potential Target for Xenobiotics During Early Embryonic Development.",
+	"websiteURL": ""
 }, {
-  "name": "Valerie Carranza",
-  "img": "valerie_carranza_1",
-  "email": "vcarr007@",
-  "program": "ENSC",
-  "faculty": "hopkins",
-  "research": "Trace gas emissions",
-  "websiteURL": ""
+	"name": "Jin Chen",
+	"img": "chen_jin",
+	"email": "jchen137@",
+	"program": "ENTX",
+	"faculty": "lin",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Claudia Avila",
-  "img": "avila_claudia_0",
-  "email": "cmari009@",
-  "program": "ENSC",
-  "faculty": "ying",
-  "research": "Investigating trace metal distribution, mobilization, and carbon turnover in urban agricultural soils",
-  "websiteURL": ""
+	"name": "Valerie Carranza",
+	"img": "valerie_carranza_1",
+	"email": "vcarr007@",
+	"program": "ENSC",
+	"faculty": "hopkins",
+	"research": "Trace gas emissions",
+	"websiteURL": ""
 }, {
-  "name": "Miranda Aiken",
-  "img": "aiken",
-  "email": "maike001@",
-  "program": "ENTX",
-  "faculty": "ying",
-  "research": "Investigating the oxidation of chromium in the presence of manganese and iron oxides",
-  "websiteURL": ""
+	"name": "Claudia Avila",
+	"img": "avila_claudia_0",
+	"email": "cmari009@",
+	"program": "ENSC",
+	"faculty": "ying",
+	"research": "Investigating trace metal distribution, mobilization, and carbon turnover in urban agricultural soils",
+	"websiteURL": ""
 }, {
-  "name": "C M Sabbir Ahmed",
-  "img": "ahmed_sabbir",
-  "email": "cahme002@",
-  "program": "ENTX",
-  "faculty": "lin",
-  "research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-  "websiteURL": ""
+	"name": "Miranda Aiken",
+	"img": "aiken",
+	"email": "maike001@",
+	"program": "ENTX",
+	"faculty": "ying",
+	"research": "Investigating the oxidation of chromium in the presence of manganese and iron oxides",
+	"websiteURL": ""
 }, {
-  "name": "Qingyang Shi",
-  "img": "qingyang",
-  "email": "qshi013@",
-  "program": "ENSC",
-  "faculty": "gan",
-  "research": "Exploring the degradation of halogenated organic compounds",
-  "websiteURL": "https://sites.google.com/ucr.edu/qshi"
+	"name": "C M Sabbir Ahmed",
+	"img": "ahmed_sabbir",
+	"email": "cahme002@",
+	"program": "ENTX",
+	"faculty": "lin",
+	"research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
+	"websiteURL": ""
+}, {
+	"name": "Qingyang Shi",
+	"img": "qingyang",
+	"email": "qshi013@",
+	"program": "ENSC",
+	"faculty": "gan",
+	"research": "Exploring the degradation of halogenated organic compounds",
+	"websiteURL": "https://sites.google.com/ucr.edu/qshi"
 }];
 
 },{}],2:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+	value: true
 });
 exports.default = [{
-  "name": "Beth Shallon",
-  "img": "",
-  "email": "bshal002@",
-  "program": "GEO",
-  "faculty": "ford",
-  "research": "",
-  "websiteURL": ""
+	"name": "Beth Shallon",
+	"img": "",
+	"email": "bshal002@",
+	"program": "GEO",
+	"faculty": "ford",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Christopher Jones",
-  "img": "",
-  "email": "cjone095@",
-  "program": "GEO",
-  "faculty": "lyons",
-  "research": "",
-  "websiteURL": ""
+	"name": "Christopher Jones",
+	"img": "",
+	"email": "cjone095@",
+	"program": "GEO",
+	"faculty": "lyons",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Daria Pidhorodetska",
-  "img": "",
-  "email": "dpidh001@",
-  "program": "GEO",
-  "faculty": "schwieterman",
-  "research": "",
-  "websiteURL": ""
+	"name": "Daria Pidhorodetska",
+	"img": "",
+	"email": "dpidh001@",
+	"program": "GEO",
+	"faculty": "schwieterman",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Emilie Simpson",
-  "img": "",
-  "email": "esimp005@",
-  "program": "GEO",
-  "faculty": "kane",
-  "research": "",
-  "websiteURL": ""
+	"name": "Emilie Simpson",
+	"img": "",
+	"email": "esimp005@",
+	"program": "GEO",
+	"faculty": "kane",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Evan Marschall",
-  "img": "",
-  "email": "emars009@",
-  "program": "GEO",
-  "faculty": "douilly",
-  "research": "",
-  "websiteURL": ""
+	"name": "Evan Marschall",
+	"img": "",
+	"email": "emars009@",
+	"program": "GEO",
+	"faculty": "douilly",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Heather McCandless",
-  "img": "",
-  "email": "hmcca005@",
-  "program": "GEO",
-  "faculty": "droser",
-  "research": "",
-  "websiteURL": ""
+	"name": "Heather McCandless",
+	"img": "",
+	"email": "hmcca005@",
+	"program": "GEO",
+	"faculty": "droser",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Lauren Neldner",
-  "img": "",
-  "email": "lneld001@",
-  "program": "GEO",
-  "faculty": "funning",
-  "research": "",
-  "websiteURL": ""
+	"name": "Lauren Neldner",
+	"img": "",
+	"email": "lneld001@",
+	"program": "GEO",
+	"faculty": "funning",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Michaela Leung",
-  "img": "",
-  "email": "mleun019@",
-  "program": "GEO",
-  "faculty": "schwieterman",
-  "research": "",
-  "websiteURL": ""
+	"name": "Michaela Leung",
+	"img": "",
+	"email": "mleun019@",
+	"program": "GEO",
+	"faculty": "schwieterman",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Sean Jaramillo",
-  "img": "",
-  "email": "sjara003@",
-  "program": "GEO",
-  "faculty": "brounce",
-  "research": "",
-  "websiteURL": ""
+	"name": "Sean Jaramillo",
+	"img": "",
+	"email": "sjara003@",
+	"program": "GEO",
+	"faculty": "brounce",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Xianglin Ren",
-  "img": "",
-  "email": "xren024@",
-  "program": "GEO",
-  "faculty": "liu",
-  "research": "",
-  "websiteURL": ""
+	"name": "Xianglin Ren",
+	"img": "",
+	"email": "xren024@",
+	"program": "GEO",
+	"faculty": "liu",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Yijian Zhou",
-  "img": "",
-  "email": "yzhou279@",
-  "program": "GEO",
-  "faculty": "ghosh",
-  "research": "",
-  "websiteURL": ""
+	"name": "Yijian Zhou",
+	"img": "",
+	"email": "yzhou279@",
+	"program": "GEO",
+	"faculty": "ghosh",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Shravya Srivastava",
-  "img": "",
-  "email": "ssriv008@",
-  "program": "GEO",
-  "faculty": "hughes",
-  "research": "",
-  "websiteURL": ""
+	"name": "Shravya Srivastava",
+	"img": "",
+	"email": "ssriv008@",
+	"program": "GEO",
+	"faculty": "hughes",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "James Gomez",
-  "img": "",
-  "email": "jgome222@",
-  "program": "GEO",
-  "faculty": "allen",
-  "research": "",
-  "websiteURL": ""
+	"name": "James Gomez",
+	"img": "",
+	"email": "jgome222@",
+	"program": "GEO",
+	"faculty": "allen",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Sara Scoggins",
-  "img": "",
-  "email": "sscog001@",
-  "program": "GEO",
-  "faculty": "brounce",
-  "research": "",
-  "websiteURL": ""
+	"name": "Sara Scoggins",
+	"img": "",
+	"email": "sscog001@",
+	"program": "GEO",
+	"faculty": "brounce",
+	"research": "",
+	"websiteURL": ""
 }, {
-  "name": "Phillip Boan",
-  "img": "phil_boan",
-  "email": "pboan001@",
-  "program": "GEO",
-  "faculty": "droser",
-  "research": "Paleontology",
-  "websiteURL": ""
+	"name": "Phillip Boan",
+	"img": "phil_boan",
+	"email": "pboan001@",
+	"program": "GEO",
+	"faculty": "droser",
+	"research": "Paleontology",
+	"websiteURL": ""
 }, {
-  "name": "Jordan Cortez",
-  "img": "cortez",
-  "email": "jcort083@",
-  "program": "GEO",
-  "faculty": "oglesby",
-  "research": "Geophysics",
-  "websiteURL": ""
+	"name": "Jordan Cortez",
+	"img": "cortez",
+	"email": "jcort083@",
+	"program": "GEO",
+	"faculty": "oglesby",
+	"research": "Geophysics",
+	"websiteURL": ""
 }, {
-  "name": "Saleheh Ebadirad",
-  "img": "ebadirad",
-  "email": "sebad001@",
-  "program": "GEO",
-  "faculty": "lyons",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Saleheh Ebadirad",
+	"img": "ebadirad",
+	"email": "sebad001@",
+	"program": "GEO",
+	"faculty": "lyons",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Caroline Hung",
-  "img": "hung",
-  "email": "chung041@",
-  "program": "GEO",
-  "faculty": "lyons",
-  "research": "Geochemistry",
-  "websiteURL": "https://sites.google.com/ucr.edu/carolinehung"
+	"name": "Caroline Hung",
+	"img": "hung",
+	"email": "chung041@",
+	"program": "GEO",
+	"faculty": "lyons",
+	"research": "Geochemistry",
+	"websiteURL": "https://sites.google.com/ucr.edu/carolinehung"
 }, {
-  "name": "Francis Alexander Kovalick",
-  "img": "francis_kovalick",
-  "email": "fkova001@",
-  "program": "GEO",
-  "faculty": "bekker",
-  "research": "Geochemistry",
-  "websiteURL": "https://sites.google.com/ucr.edu/alex-kovalick-research/home"
+	"name": "Francis Alexander Kovalick",
+	"img": "francis_kovalick",
+	"email": "fkova001@",
+	"program": "GEO",
+	"faculty": "bekker",
+	"research": "Geochemistry",
+	"websiteURL": "https://sites.google.com/ucr.edu/alex-kovalick-research/home"
 }, {
-  "name": "Hsin-Yu Lee",
-  "img": "hsinyu_2",
-  "email": "hlee423@",
-  "program": "GEO",
-  "faculty": "douilly",
-  "research": "Geophysics",
-  "websiteURL": ""
+	"name": "Hsin-Yu Lee",
+	"img": "hsinyu_2",
+	"email": "hlee423@",
+	"program": "GEO",
+	"faculty": "douilly",
+	"research": "Geophysics",
+	"websiteURL": ""
 }, {
-  "name": "Andre Mere",
-  "img": "andre_2",
-  "email": "amere003@",
-  "program": "GEO",
-  "faculty": "barth",
-  "research": "Active Tectonics",
-  "websiteURL": ""
+	"name": "Andre Mere",
+	"img": "andre_2",
+	"email": "amere003@",
+	"program": "GEO",
+	"faculty": "barth",
+	"research": "Active Tectonics",
+	"websiteURL": ""
 }, {
-  "name": "Adriana Rizzo",
-  "img": "adriana",
-  "email": "arizz001@",
-  "program": "GEO",
-  "faculty": "love",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Adriana Rizzo",
+	"img": "adriana",
+	"email": "arizz001@",
+	"program": "GEO",
+	"faculty": "love",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Andrew Birkey",
-  "img": "birkey",
-  "email": "abirk001@",
-  "program": "GEO",
-  "faculty": "Ford",
-  "research": "Geophysics",
-  "websiteURL": "https://sites.google.com/ucr.edu/andrewbirkey/home"
+	"name": "Andrew Birkey",
+	"img": "birkey",
+	"email": "abirk001@",
+	"program": "GEO",
+	"faculty": "Ford",
+	"research": "Geophysics",
+	"websiteURL": "https://sites.google.com/ucr.edu/andrewbirkey/home"
 }, {
-  "name": "Alma Ceja",
-  "img": "alma_ceja_0",
-  "email": "aceja005@",
-  "program": "GEO",
-  "faculty": "Kane",
-  "research": "Astrobiology",
-  "websiteURL": "http://almaceja.wixsite.com/almaceja"
+	"name": "Alma Ceja",
+	"img": "alma_ceja_0",
+	"email": "aceja005@",
+	"program": "GEO",
+	"faculty": "Kane",
+	"research": "Astrobiology",
+	"websiteURL": "http://almaceja.wixsite.com/almaceja"
 }, {
-  "name": "Kuntal Chaudhuri",
-  "img": "kuntal_chaudhuri_0",
-  "email": "kchau012@",
-  "program": "GEO",
-  "faculty": "Ghosh",
-  "research": "Geophysics",
-  "websiteURL": ""
+	"name": "Kuntal Chaudhuri",
+	"img": "kuntal_chaudhuri_0",
+	"email": "kchau012@",
+	"program": "GEO",
+	"faculty": "Ghosh",
+	"research": "Geophysics",
+	"websiteURL": ""
 }, {
-  "name": "Charles Diamond",
-  "img": "charles_diamond_0",
-  "email": "cdiam001@",
-  "program": "GEO",
-  "faculty": "Lyons",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Charles Diamond",
+	"img": "charles_diamond_0",
+	"email": "cdiam001@",
+	"program": "GEO",
+	"faculty": "Lyons",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Maria Figueroa",
-  "img": "maria_figueroa",
-  "email": "mfigu012@",
-  "program": "GEO",
-  "faculty": "Lyons",
-  "research": "Geochemistry",
-  "websiteURL": "https://sites.google.com/a/ucr.edu/mcfigueroa/"
+	"name": "Maria Figueroa",
+	"img": "maria_figueroa",
+	"email": "mfigu012@",
+	"program": "GEO",
+	"faculty": "Lyons",
+	"research": "Geochemistry",
+	"websiteURL": "https://sites.google.com/a/ucr.edu/mcfigueroa/"
 }, {
-  "name": "Gillian Goldhagen",
-  "img": "gillian_goldhagen",
-  "email": "ggold002@",
-  "program": "GEO",
-  "faculty": "Ford",
-  "research": "Geophysics",
-  "websiteURL": "https://sites.google.com/ucr.edu/ggoldhagen"
+	"name": "Gillian Goldhagen",
+	"img": "gillian_goldhagen",
+	"email": "ggold002@",
+	"program": "GEO",
+	"faculty": "Ford",
+	"research": "Geophysics",
+	"websiteURL": "https://sites.google.com/ucr.edu/ggoldhagen"
 }, {
-  "name": "Mohammad Taufiq Hassan Mozumder",
-  "img": "taufiq_hassan",
-  "email": "mhass004@",
-  "program": "GEO",
-  "faculty": "Allen",
-  "research": "Global Climate & Environmental Change",
-  "websiteURL": "http://taufiqhassan06.wixsite.com/taufiqhassan06"
+	"name": "Mohammad Taufiq Hassan Mozumder",
+	"img": "taufiq_hassan",
+	"email": "mhass004@",
+	"program": "GEO",
+	"faculty": "Allen",
+	"research": "Global Climate & Environmental Change",
+	"websiteURL": "http://taufiqhassan06.wixsite.com/taufiqhassan06"
 }, {
-  "name": "Adam Hoffman",
-  "img": "adam_hoffman_0",
-  "email": "ahoff003@",
-  "program": "GEO",
-  "faculty": "Bekker",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Adam Hoffman",
+	"img": "adam_hoffman_0",
+	"email": "ahoff003@",
+	"program": "GEO",
+	"faculty": "Bekker",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Jin-Bo Hou",
-  "img": "jin_bo_1",
-  "email": "jhou006@",
-  "program": "GEO",
-  "faculty": "Hughes",
-  "research": "Paleontology",
-  "websiteURL": "https://sites.google.com/a/ucr.edu/hou/"
+	"name": "Jin-Bo Hou",
+	"img": "jin_bo_1",
+	"email": "jhou006@",
+	"program": "GEO",
+	"faculty": "Hughes",
+	"research": "Paleontology",
+	"websiteURL": "https://sites.google.com/a/ucr.edu/hou/"
 }, {
-  "name": "Jennifer Humphreys",
-  "img": "jennifer_humphreys",
-  "email": "jhump004@",
-  "program": "GEO",
-  "faculty": "Brounce",
-  "research": "Petrology ",
-  "websiteURL": ""
+	"name": "Jennifer Humphreys",
+	"img": "jennifer_humphreys",
+	"email": "jhump004@",
+	"program": "GEO",
+	"faculty": "Brounce",
+	"research": "Petrology ",
+	"websiteURL": ""
 }, {
-  "name": "Michelle Hill",
-  "img": "hill",
-  "email": "mhill012@",
-  "program": "GEO",
-  "faculty": "Kane",
-  "research": "Astrobiology",
-  "websiteURL": ""
+	"name": "Michelle Hill",
+	"img": "hill",
+	"email": "mhill012@",
+	"program": "GEO",
+	"faculty": "Kane",
+	"research": "Astrobiology",
+	"websiteURL": ""
 }, {
-  "name": "Bridget Kelly",
-  "img": "bridget_kelly",
-  "email": "bkell006@",
-  "program": "GEO",
-  "faculty": "Droser",
-  "research": "Paleontology",
-  "websiteURL": ""
+	"name": "Bridget Kelly",
+	"img": "bridget_kelly",
+	"email": "bkell006@",
+	"program": "GEO",
+	"faculty": "Droser",
+	"research": "Paleontology",
+	"websiteURL": ""
 }, {
-  "name": "Bridget Lee",
-  "img": "bridget_lee",
-  "email": "blee045@",
-  "program": "GEO",
-  "faculty": "Lyons",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Bridget Lee",
+	"img": "bridget_lee",
+	"email": "blee045@",
+	"program": "GEO",
+	"faculty": "Lyons",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Shouwei Li",
-  "img": "shouwei_li",
-  "email": "sli227@",
-  "program": "GEO",
-  "faculty": "Liu",
-  "research": "Physical Oceanography & Climate Dynamics",
-  "websiteURL": ""
+	"name": "Shouwei Li",
+	"img": "shouwei_li",
+	"email": "sli227@",
+	"program": "GEO",
+	"faculty": "Liu",
+	"research": "Physical Oceanography & Climate Dynamics",
+	"websiteURL": ""
 }, {
-  "name": "Zhexing Li",
-  "img": "zhexing_li",
-  "email": "zli245@",
-  "program": "GEO",
-  "faculty": "Kane",
-  "research": "Astrobiology",
-  "websiteURL": ""
+	"name": "Zhexing Li",
+	"img": "zhexing_li",
+	"email": "zli245@",
+	"program": "GEO",
+	"faculty": "Kane",
+	"research": "Astrobiology",
+	"websiteURL": ""
 }, {
-  "name": "Nicholas Mammone",
-  "img": "nicholas_mammone_0",
-  "email": "nmamm001@",
-  "program": "GEO",
-  "faculty": "Bekker",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Nicholas Mammone",
+	"img": "nicholas_mammone_0",
+	"email": "nmamm001@",
+	"program": "GEO",
+	"faculty": "Bekker",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Nathan Marshall",
-  "img": "nathan_marshall",
-  "email": "nmars008@",
-  "program": "GEO",
-  "faculty": "Love",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Nathan Marshall",
+	"img": "nathan_marshall",
+	"email": "nmars008@",
+	"program": "GEO",
+	"faculty": "Love",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Aaron Martinez",
-  "img": "aaron_martinez",
-  "email": "amart109@",
-  "program": "GEO",
-  "faculty": "Love",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Aaron Martinez",
+	"img": "aaron_martinez",
+	"email": "amart109@",
+	"program": "GEO",
+	"faculty": "Love",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Matthew Mendoza",
-  "img": "matt_mendoza",
-  "email": "mmend028@",
-  "program": "GEO",
-  "faculty": "Ghosh",
-  "research": "Geophysics",
-  "websiteURL": ""
+	"name": "Matthew Mendoza",
+	"img": "matt_mendoza",
+	"email": "mmend028@",
+	"program": "GEO",
+	"faculty": "Ghosh",
+	"research": "Geophysics",
+	"websiteURL": ""
 }, {
-  "name": "Bobby Nakamoto",
-  "img": "nakamoto",
-  "email": "bnaka004@",
-  "program": "EEOB",
-  "faculty": "Fogel",
-  "research": "Biogeochemistry",
-  "websiteURL": ""
+	"name": "Bobby Nakamoto",
+	"img": "nakamoto",
+	"email": "bnaka004@",
+	"program": "EEOB",
+	"faculty": "Fogel",
+	"research": "Biogeochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Shankho Niyogi",
-  "img": "shankho_niyogi",
-  "email": "sniyo001@",
-  "program": "GEO",
-  "faculty": "Ghosh",
-  "research": "Geophysics",
-  "websiteURL": ""
+	"name": "Shankho Niyogi",
+	"img": "shankho_niyogi",
+	"email": "sniyo001@",
+	"program": "GEO",
+	"faculty": "Ghosh",
+	"research": "Geophysics",
+	"websiteURL": ""
 }, {
-  "name": "Colby Ostberg",
-  "img": "colby_ostberg",
-  "email": "costb001@",
-  "program": "GEO",
-  "faculty": "Kane",
-  "research": "Astrobiology",
-  "websiteURL": "https://colbyostberg.wixsite.com/yourlocalcytherean"
+	"name": "Colby Ostberg",
+	"img": "colby_ostberg",
+	"email": "costb001@",
+	"program": "GEO",
+	"faculty": "Kane",
+	"research": "Astrobiology",
+	"websiteURL": "https://colbyostberg.wixsite.com/yourlocalcytherean"
 }, {
-  "name": "Kelden Pehr",
-  "img": "kelden_pehr_0",
-  "email": "kpehr001@",
-  "program": "GEO",
-  "faculty": "Love",
-  "research": "Geochemistry",
-  "websiteURL": ""
+	"name": "Kelden Pehr",
+	"img": "kelden_pehr_0",
+	"email": "kpehr001@",
+	"program": "GEO",
+	"faculty": "Love",
+	"research": "Geochemistry",
+	"websiteURL": ""
 }, {
-  "name": "Rachel Surprenant",
-  "img": "surprenant",
-  "email": "rsurp001@",
-  "program": "GEO",
-  "faculty": "Droser",
-  "research": "Paleontology",
-  "websiteURL": ""
+	"name": "Rachel Surprenant",
+	"img": "surprenant",
+	"email": "rsurp001@",
+	"program": "GEO",
+	"faculty": "Droser",
+	"research": "Paleontology",
+	"websiteURL": ""
 }, {
-  "name": "Christopher Tino",
-  "img": "chris_tino_0",
-  "email": "ctino001@",
-  "program": "GEO",
-  "faculty": "Lyons",
-  "research": "Geochemistry",
-  "websiteURL": "https://sites.google.com/ucr.edu/ucr-ctino001/"
+	"name": "Christopher Tino",
+	"img": "chris_tino_0",
+	"email": "ctino001@",
+	"program": "GEO",
+	"faculty": "Lyons",
+	"research": "Geochemistry",
+	"websiteURL": "https://sites.google.com/ucr.edu/ucr-ctino001/"
 }, {
-  "name": "Chenyi Tu",
-  "img": "chenyi_tu_0",
-  "email": "ctu017@",
-  "program": "GEO",
-  "faculty": "Lyons",
-  "research": "Geochemistry",
-  "websiteURL": "https://sites.google.com/view/chenyitu"
+	"name": "Chenyi Tu",
+	"img": "chenyi_tu_0",
+	"email": "ctu017@",
+	"program": "GEO",
+	"faculty": "Lyons",
+	"research": "Geochemistry",
+	"websiteURL": "https://sites.google.com/view/chenyitu"
 }, {
-  "name": "Pam Vervoort",
-  "img": "pam_vervoot_0",
-  "email": "pverv001@",
-  "program": "GEO",
-  "faculty": "Turner",
-  "research": "Global Climate & Environmental Change ",
-  "websiteURL": "https://sites.google.com/ucr.edu/pamvervoort"
+	"name": "Pam Vervoort",
+	"img": "pam_vervoot_0",
+	"email": "pverv001@",
+	"program": "GEO",
+	"faculty": "Turner",
+	"research": "Global Climate & Environmental Change ",
+	"websiteURL": "https://sites.google.com/ucr.edu/pamvervoort"
 }, {
-  "name": "Baoning Wu",
-  "img": "baoning",
-  "email": "bwu015@",
-  "program": "GEO",
-  "faculty": "Oglesby",
-  "research": "Geophysics",
-  "websiteURL": "https://sites.google.com/ucr.edu/baoningwu"
+	"name": "Baoning Wu",
+	"img": "baoning",
+	"email": "bwu015@",
+	"program": "GEO",
+	"faculty": "Oglesby",
+	"research": "Geophysics",
+	"websiteURL": "https://sites.google.com/ucr.edu/baoningwu"
 }, {
-  "name": "Xueying Zhao",
-  "img": "xueying_zhao",
-  "email": "xzhao009@",
-  "program": "GEO",
-  "faculty": "Allen",
-  "research": "Global Climate & Environmental Change",
-  "websiteURL": ""
+	"name": "Xueying Zhao",
+	"img": "xueying_zhao",
+	"email": "xzhao009@",
+	"program": "GEO",
+	"faculty": "Allen",
+	"research": "Global Climate & Environmental Change",
+	"websiteURL": ""
 }, {
-  "name": "Michelle Zill",
-  "img": "michelle_zill",
-  "email": "mzill001@",
-  "program": "GEO",
-  "faculty": "Turner",
-  "research": "Global Climate & Environmental Change",
-  "websiteURL": "https://sites.google.com/ucr.edu/michellezill/home"
+	"name": "Michelle Zill",
+	"img": "michelle_zill",
+	"email": "mzill001@",
+	"program": "GEO",
+	"faculty": "Turner",
+	"research": "Global Climate & Environmental Change",
+	"websiteURL": "https://sites.google.com/ucr.edu/michellezill/home"
 }];
 
 },{}],3:[function(require,module,exports){
