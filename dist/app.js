@@ -64,7 +64,7 @@ exports.default = [{
 	"name": "Zahra Amiri",
 	"img": "",
 	"email": "zamir002@",
-	"program": "CEE",
+	"program": "ENSC",
 	"faculty": "haghverdi",
 	"research": "",
 	"websiteURL": ""
