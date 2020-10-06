@@ -334,7 +334,7 @@ exports.default = [{
 	"websiteURL": ""
 }, {
 	"name": "Clare Murphy-Hagan",
-	"img": "clare",
+	"img": "clarem",
 	"email": "cmurp025@",
 	"program": "ENSC",
 	"faculty": "gray",
