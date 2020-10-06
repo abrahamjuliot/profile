@@ -369,12 +369,12 @@ export default [
 		"websiteURL": ""
 	},
 	{
-		"name": "Clare Murphy-Hagen",
-		"img": "",
+		"name": "Clare Murphy-Hagan",
+		"img": "clare",
 		"email": "cmurp025@",
 		"program": "ENSC",
 		"faculty": "gray",
-		"research": "",
+		"research": "Researching fluvial trash and microplastic pollution fate and transport",
 		"websiteURL": ""
 	},
 	{
