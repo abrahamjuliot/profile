@@ -12,6 +12,7 @@ const track = selection => ({
     ['GEO']: 'Geological Sciences',
     ['ECON']: 'Environmental Economics',
     ['EEOB']: 'Evolution, Ecology, and Organismal Biology',
+	['CEE']: 'Chemical and Environmental Engineering',
     default: ''
 })
 const Program = choose(track)

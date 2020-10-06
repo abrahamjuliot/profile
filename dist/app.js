@@ -64,7 +64,7 @@ exports.default = [{
 	"name": "Zahra Amiri",
 	"img": "",
 	"email": "zamir002@",
-	"program": "ENSC",
+	"program": "CEE",
 	"faculty": "haghverdi",
 	"research": "",
 	"websiteURL": ""
@@ -1006,7 +1006,7 @@ var agree = function agree(x) {
 var track = function track(selection) {
     var _ref;
 
-    return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'GEO', 'Geological Sciences'), _defineProperty(_ref, 'ECON', 'Environmental Economics'), _defineProperty(_ref, 'EEOB', 'Evolution, Ecology, and Organismal Biology'), _defineProperty(_ref, 'default', ''), _ref;
+    return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'GEO', 'Geological Sciences'), _defineProperty(_ref, 'ECON', 'Environmental Economics'), _defineProperty(_ref, 'EEOB', 'Evolution, Ecology, and Organismal Biology'), _defineProperty(_ref, 'CEE', 'Chemical and Environmental Engineering'), _defineProperty(_ref, 'default', ''), _ref;
 };
 var Program = choose(track);
 

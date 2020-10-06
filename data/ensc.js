@@ -66,7 +66,7 @@ export default [
 		"name": "Zahra Amiri",
 		"img": "",
 		"email": "zamir002@",
-		"program": "ENSC",
+		"program": "CEE",
 		"faculty": "haghverdi",
 		"research": "",
 		"websiteURL": ""
