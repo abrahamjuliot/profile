@@ -46,11 +46,11 @@ export default [
 	},
 	{
 		"name": "Michelle Carr",
-		"img": "",
+		"img": "michellec",
 		"email": "mcarr034@",
 		"program": "ENSC",
 		"faculty": "hopkins",
-		"research": "",
+		"research": "Researching greenhouse gas emissions and atmospheric pollution",
 		"websiteURL": ""
 	},
 	{
