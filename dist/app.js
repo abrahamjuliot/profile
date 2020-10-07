@@ -69,6 +69,14 @@ exports.default = [{
 	"research": "",
 	"websiteURL": ""
 }, {
+	"name": "Khadeejah Sani",
+	"img": "",
+	"email": "ksani001@",
+	"program": "CEE",
+	"faculty": "haghverdi",
+	"research": "",
+	"websiteURL": ""
+}, {
 	"name": "Jean Claude Iraduku",
 	"img": "",
 	"email": "jirad001@",
