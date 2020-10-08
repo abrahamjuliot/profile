@@ -73,7 +73,7 @@ export default [
 	},
 	{
 		"name": "Sean Jaramillo",
-		"img": "",
+		"img": "jaramillo",
 		"email": "sjara003@",
 		"program": "GEO",
 		"faculty": "brounce",
