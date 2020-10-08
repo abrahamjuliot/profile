@@ -10,12 +10,12 @@ export default [
 	},
 	{
 		"name": "Christopher Jones",
-		"img": "",
+		"img": "chrisj",
 		"email": "cjone095@",
 		"program": "GEO",
 		"faculty": "lyons",
 		"research": "",
-		"websiteURL": ""
+		"websiteURL": "https://sites.google.com/ucr.edu/christopherjones/home"
 	},
 	{
 		"name": "Daria Pidhorodetska",
@@ -37,7 +37,7 @@ export default [
 	},
 	{
 		"name": "Evan Marschall",
-		"img": "",
+		"img": "evanm",
 		"email": "emars009@",
 		"program": "GEO",
 		"faculty": "douilly",
@@ -64,12 +64,12 @@ export default [
 	},
 	{
 		"name": "Michaela Leung",
-		"img": "",
+		"img": "michaela",
 		"email": "mleun019@",
 		"program": "GEO",
 		"faculty": "schwieterman",
 		"research": "",
-		"websiteURL": ""
+		"websiteURL": "https://www.astromichaela.com/"
 	},
 	{
 		"name": "Sean Jaramillo",
@@ -91,7 +91,7 @@ export default [
 	},
 	{
 		"name": "Yijian Zhou",
-		"img": "",
+		"img": "yijian",
 		"email": "yzhou279@",
 		"program": "GEO",
 		"faculty": "ghosh",
@@ -100,7 +100,7 @@ export default [
 	},
 	{
 		"name": "Shravya Srivastava",
-		"img": "",
+		"img": "shravya",
 		"email": "ssriv008@",
 		"program": "GEO",
 		"faculty": "hughes",
@@ -109,21 +109,21 @@ export default [
 	},
 	{
 		"name": "James Gomez",
-		"img": "",
+		"img": "jamesg",
 		"email": "jgome222@",
 		"program": "GEO",
 		"faculty": "allen",
 		"research": "",
-		"websiteURL": ""
+		"websiteURL": "https://sites.google.com/ucr.edu/james-gomez/home"
 	},
 	{
 		"name": "Sara Scoggins",
-		"img": "",
+		"img": "saras",
 		"email": "sscog001@",
 		"program": "GEO",
 		"faculty": "brounce",
 		"research": "",
-		"websiteURL": ""
+		"websiteURL": "https://sites.google.com/ucr.edu/sara-scoggins/home"
 	},
 	{
 		"name": "Phillip Boan",
