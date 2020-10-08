@@ -5,7 +5,7 @@ export default [
 		"email": "bshal002@",
 		"program": "GEO",
 		"faculty": "ford",
-		"research": "",
+		"research": "Geophysics",
 		"websiteURL": ""
 	},
 	{
@@ -14,7 +14,7 @@ export default [
 		"email": "cjone095@",
 		"program": "GEO",
 		"faculty": "lyons",
-		"research": "",
+		"research": "Geochemistry",
 		"websiteURL": "https://sites.google.com/ucr.edu/christopherjones/home"
 	},
 	{
@@ -23,7 +23,7 @@ export default [
 		"email": "dpidh001@",
 		"program": "GEO",
 		"faculty": "schwieterman",
-		"research": "",
+		"research": "Earth and Planetary Science",
 		"websiteURL": ""
 	},
 	{
@@ -32,7 +32,7 @@ export default [
 		"email": "esimp005@",
 		"program": "GEO",
 		"faculty": "kane",
-		"research": "",
+		"research": "Astrobiology",
 		"websiteURL": ""
 	},
 	{
@@ -41,7 +41,7 @@ export default [
 		"email": "emars009@",
 		"program": "GEO",
 		"faculty": "douilly",
-		"research": "",
+		"research": "Geophysics",
 		"websiteURL": ""
 	},
 	{
@@ -50,7 +50,7 @@ export default [
 		"email": "hmcca005@",
 		"program": "GEO",
 		"faculty": "droser",
-		"research": "",
+		"research": "Paleontology",
 		"websiteURL": ""
 	},
 	{
@@ -59,7 +59,7 @@ export default [
 		"email": "lneld001@",
 		"program": "GEO",
 		"faculty": "funning",
-		"research": "",
+		"research": "Geophysics",
 		"websiteURL": ""
 	},
 	{
@@ -68,7 +68,7 @@ export default [
 		"email": "mleun019@",
 		"program": "GEO",
 		"faculty": "schwieterman",
-		"research": "",
+		"research": "Earth and Planetary Science",
 		"websiteURL": "https://www.astromichaela.com/"
 	},
 	{
@@ -77,7 +77,7 @@ export default [
 		"email": "sjara003@",
 		"program": "GEO",
 		"faculty": "brounce",
-		"research": "",
+		"research": "Petrology",
 		"websiteURL": ""
 	},
 	{
@@ -86,7 +86,7 @@ export default [
 		"email": "xren024@",
 		"program": "GEO",
 		"faculty": "liu",
-		"research": "",
+		"research": "Physical Oceanography & Climate Dynamics",
 		"websiteURL": ""
 	},
 	{
@@ -95,7 +95,7 @@ export default [
 		"email": "yzhou279@",
 		"program": "GEO",
 		"faculty": "ghosh",
-		"research": "",
+		"research": "Geophysics",
 		"websiteURL": ""
 	},
 	{
@@ -104,7 +104,7 @@ export default [
 		"email": "ssriv008@",
 		"program": "GEO",
 		"faculty": "hughes",
-		"research": "",
+		"research": "Paleontology",
 		"websiteURL": ""
 	},
 	{
@@ -113,7 +113,7 @@ export default [
 		"email": "jgome222@",
 		"program": "GEO",
 		"faculty": "allen",
-		"research": "",
+		"research": "Global Climate & Environmental Change",
 		"websiteURL": "https://sites.google.com/ucr.edu/james-gomez/home"
 	},
 	{
@@ -122,7 +122,7 @@ export default [
 		"email": "sscog001@",
 		"program": "GEO",
 		"faculty": "brounce",
-		"research": "",
+		"research": "Petrology",
 		"websiteURL": "https://sites.google.com/ucr.edu/sara-scoggins/home"
 	},
 	{
@@ -284,7 +284,7 @@ export default [
 		"email": "jhump004@",
 		"program": "GEO",
 		"faculty": "Brounce",
-		"research": "Petrology ",
+		"research": "Petrology",
 		"websiteURL": ""
 	},
 	{
@@ -437,7 +437,7 @@ export default [
 		"email": "pverv001@",
 		"program": "GEO",
 		"faculty": "Turner",
-		"research": "Global Climate & Environmental Change ",
+		"research": "Global Climate & Environmental Change",
 		"websiteURL": "https://sites.google.com/ucr.edu/pamvervoort"
 	},
 	{
