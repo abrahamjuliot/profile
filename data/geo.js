@@ -105,7 +105,7 @@ export default [
 		"program": "GEO",
 		"faculty": "hughes",
 		"research": "Paleontology",
-		"websiteURL": ""
+		"websiteURL": "https://sites.google.com/ucr.edu/shavzz/home"
 	},
 	{
 		"name": "James Gomez",
