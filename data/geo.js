@@ -19,7 +19,7 @@ export default [
 	},
 	{
 		"name": "Alyson Fresquez",
-		"img": "",
+		"img": "alyson",
 		"email": "afres004@",
 		"program": "GEO",
 		"faculty": "lyons",

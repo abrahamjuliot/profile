@@ -454,7 +454,7 @@ exports.default = [{
 	"websiteURL": "https://sites.google.com/ucr.edu/christopherjones/home"
 }, {
 	"name": "Alyson Fresquez",
-	"img": "",
+	"img": "alyson",
 	"email": "afres004@",
 	"program": "GEO",
 	"faculty": "lyons",
