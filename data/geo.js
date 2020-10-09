@@ -18,6 +18,15 @@ export default [
 		"websiteURL": "https://sites.google.com/ucr.edu/christopherjones/home"
 	},
 	{
+		"name": "Alyson Fresquez",
+		"img": "",
+		"email": "afres004@",
+		"program": "GEO",
+		"faculty": "lyons",
+		"research": "Geochemistry",
+		"websiteURL": ""
+	},
+	{
 		"name": "Daria Pidhorodetska",
 		"img": "",
 		"email": "dpidh001@",
