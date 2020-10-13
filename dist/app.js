@@ -38,11 +38,11 @@ exports.default = [{
 	"websiteURL": ""
 }, {
 	"name": "Aral Greene",
-	"img": "",
+	"img": "aral",
 	"email": "aralg@",
 	"program": "ENSC",
 	"faculty": "homyak",
-	"research": "",
+	"research": "Researching biogeochemical cycling specifically effects of nitrogen deposition in dryland watersheds. Interested in science communication with young learners",
 	"websiteURL": ""
 }, {
 	"name": "Michelle Carr",
@@ -494,7 +494,7 @@ exports.default = [{
 	"websiteURL": ""
 }, {
 	"name": "Lauren Neldner",
-	"img": "",
+	"img": "laurenn",
 	"email": "lneld001@",
 	"program": "GEO",
 	"faculty": "funning",

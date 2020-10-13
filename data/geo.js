@@ -64,7 +64,7 @@ export default [
 	},
 	{
 		"name": "Lauren Neldner",
-		"img": "",
+		"img": "laurenn",
 		"email": "lneld001@",
 		"program": "GEO",
 		"faculty": "funning",

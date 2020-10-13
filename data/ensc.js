@@ -37,11 +37,11 @@ export default [
 	},
 	{
 		"name": "Aral Greene",
-		"img": "",
+		"img": "aral",
 		"email": "aralg@",
 		"program": "ENSC",
 		"faculty": "homyak",
-		"research": "",
+		"research": "Researching biogeochemical cycling specifically effects of nitrogen deposition in dryland watersheds. Interested in science communication with young learners",
 		"websiteURL": ""
 	},
 	{
