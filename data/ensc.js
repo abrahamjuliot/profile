@@ -59,7 +59,7 @@ export default [
 		"email": "aduro005@",
 		"program": "ENSC",
 		"faculty": "hirmas",
-		"research": "",
+		"research": "Soils",
 		"websiteURL": "https://sites.google.com/ucr.edu/amd"
 	},
 	{
