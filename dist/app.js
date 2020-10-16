@@ -54,12 +54,12 @@ exports.default = [{
 	"websiteURL": ""
 }, {
 	"name": "Alyssa Duro",
-	"img": "",
+	"img": "alyssad",
 	"email": "aduro005@",
 	"program": "ENSC",
 	"faculty": "hirmas",
 	"research": "",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/amd"
 }, {
 	"name": "Zahra Amiri",
 	"img": "",
