@@ -165,6 +165,14 @@ exports.default = [{
 	"research": "",
 	"websiteURL": "https://sites.google.com/ucr.edu/nil/home"
 }, {
+	"name": "Hossein Pazooki",
+	"img": "",
+	"email": "hpazo001@",
+	"program": "ENSC",
+	"faculty": "bahreini",
+	"research": "",
+	"websiteURL": ""
+}, {
 	"name": "Simmi Simmi",
 	"img": "simmi",
 	"email": "fsimm001@",
