@@ -78,7 +78,7 @@ exports.default = [{
 	"websiteURL": ""
 }, {
 	"name": "Jean Claude Iraduku",
-	"img": "",
+	"img": "jeabci",
 	"email": "jirad001@",
 	"program": "ENSC",
 	"faculty": "haghverdi",
