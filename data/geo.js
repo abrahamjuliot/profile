@@ -465,7 +465,7 @@ export default [
 		"program": "GEO",
 		"faculty": "Allen",
 		"research": "Global Climate & Environmental Change",
-		"websiteURL": ""
+		"websiteURL": "https://sites.google.com/view/xueyingzhaoclimate"
 	},
 	{
 		"name": "Michelle Zill",
