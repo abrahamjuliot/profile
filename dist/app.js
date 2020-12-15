@@ -125,14 +125,6 @@ exports.default = [{
 	"research": "Climate effects and health effects of atmospheric brown carbon (BrC) substance; mechanisms and kinetics of formation of atmospheric pollutants.",
 	"websiteURL": "https://sites.google.com/ucr.edu/kpchen/home"
 }, {
-	"name": "Kiarash Ehsani",
-	"img": "kiarash",
-	"email": "kehsa001@",
-	"program": "ENSC",
-	"faculty": "ajami",
-	"research": "Understanding underground hydrological processes, sub-surface contribution to stream flow and base-flow separation.",
-	"websiteURL": "https://sites.google.com/ucr.edu/kiarashehsani"
-}, {
 	"name": "Kristin Hamilton",
 	"img": "",
 	"email": "khami010@",
