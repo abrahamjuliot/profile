@@ -30,11 +30,11 @@ exports.default = [{
 	"websiteURL": ""
 }, {
 	"name": "Xiaoyan Yang",
-	"img": "",
+	"img": "xyang",
 	"email": "xyang020@",
 	"program": "ENSC",
 	"faculty": "zhang",
-	"research": "",
+	"research": "Air",
 	"websiteURL": ""
 }, {
 	"name": "Aral Greene",
