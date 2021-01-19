@@ -739,7 +739,7 @@ exports.default = [{
 	"program": "GEO",
 	"faculty": "Kane",
 	"research": "Astrobiology",
-	"websiteURL": ""
+	"websiteURL": "https://zhexingli.wixsite.com/zhexingli"
 }, {
 	"name": "Nicholas Mammone",
 	"img": "nicholas_mammone_0",
