@@ -27,7 +27,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "volz",
 	"research": "",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/view/mhope"
 }, {
 	"name": "Xiaoyan Yang",
 	"img": "xyang",
@@ -35,7 +35,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "zhang",
 	"research": "Air",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/xyang"
 }, {
 	"name": "Aral Greene",
 	"img": "aral",
@@ -43,7 +43,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "homyak",
 	"research": "Researching biogeochemical cycling specifically effects of nitrogen deposition in dryland watersheds. Interested in science communication with young learners",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/aralcgreene"
 }, {
 	"name": "Michelle Carr",
 	"img": "michellec",
@@ -51,7 +51,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "hopkins",
 	"research": "Researching greenhouse gas emissions and atmospheric pollution",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/mvc"
 }, {
 	"name": "Alyssa Duro",
 	"img": "alyssad",
@@ -67,7 +67,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "haghverdi",
 	"research": "",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/zahraamiri"
 }, {
 	"name": "Khadeejah Sani",
 	"img": "",
@@ -83,7 +83,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "haghverdi",
 	"research": "",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/jclaudeucrpage"
 }, {
 	"name": "Danielle Stevenson",
 	"img": "stevenson",
@@ -347,7 +347,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "gray",
 	"research": "Researching fluvial trash and microplastic pollution fate and transport",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/cmurphy-hagan"
 }, {
 	"name": "Isis Frausto-Vicencio",
 	"img": "isis_frausto",
