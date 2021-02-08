@@ -27,7 +27,7 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "volz",
 	"research": "",
-	"websiteURL": "https://sites.google.com/view/mhope"
+	"websiteURL": ""
 }, {
 	"name": "Xiaoyan Yang",
 	"img": "xyang",
