@@ -757,14 +757,6 @@ exports.default = [{
 	"research": "Geochemistry",
 	"websiteURL": ""
 }, {
-	"name": "Aaron Martinez",
-	"img": "aaron_martinez",
-	"email": "amart109@",
-	"program": "GEO",
-	"faculty": "Love",
-	"research": "Geochemistry",
-	"websiteURL": ""
-}, {
 	"name": "Matthew Mendoza",
 	"img": "matt_mendoza",
 	"email": "mmend028@",
@@ -796,14 +788,6 @@ exports.default = [{
 	"faculty": "Kane",
 	"research": "Astrobiology",
 	"websiteURL": "https://colbyostberg.wixsite.com/yourlocalcytherean"
-}, {
-	"name": "Kelden Pehr",
-	"img": "kelden_pehr_0",
-	"email": "kpehr001@",
-	"program": "GEO",
-	"faculty": "Love",
-	"research": "Geochemistry",
-	"websiteURL": ""
 }, {
 	"name": "Rachel Surprenant",
 	"img": "surprenant",
