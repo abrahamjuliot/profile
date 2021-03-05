@@ -157,7 +157,7 @@ export default [
 		"img": "banafsheh",
 		"email": "bnema001@",
 		"program": "ENSC",
-		"faculty": "hirmas",
+		"faculty": "",
 		"research": "",
 		"websiteURL": "https://sites.google.com/ucr.edu/banafsheh-nematollahi/home"
 	},
