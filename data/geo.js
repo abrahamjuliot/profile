@@ -51,7 +51,7 @@ export default [
 		"program": "GEO",
 		"faculty": "douilly",
 		"research": "Geophysics",
-		"websiteURL": ""
+		"websiteURL": "https://sites.google.com/view/emars009/home"
 	},
 	{
 		"name": "Heather McCandless",
