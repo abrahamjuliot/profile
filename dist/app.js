@@ -795,7 +795,7 @@ exports.default = [{
 	"program": "GEO",
 	"faculty": "Droser",
 	"research": "Paleontology",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/view/surprenant-research/home"
 }, {
 	"name": "Christopher Tino",
 	"img": "chris_tino_0",
