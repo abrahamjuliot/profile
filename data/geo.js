@@ -141,7 +141,7 @@ export default [
 		"program": "GEO",
 		"faculty": "droser",
 		"research": "Paleontology",
-		"websiteURL": ""
+		"websiteURL": "https://sites.google.com/view/phillip-c-boan/home"
 	},
 	{
 		"name": "Jordan Cortez",
