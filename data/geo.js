@@ -33,7 +33,7 @@ export default [
 		"program": "EPS",
 		"faculty": "schwieterman",
 		"research": "Earth and Planetary Science",
-		"websiteURL": ""
+		"websiteURL": "https://dpidhoro.github.io/site"
 	},
 	{
 		"name": "Emilie Simpson",
