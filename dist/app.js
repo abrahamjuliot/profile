@@ -440,7 +440,7 @@ exports.default = [{
 	"name": "Beth Shallon",
 	"img": "",
 	"email": "bshal002@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "ford",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -448,7 +448,7 @@ exports.default = [{
 	"name": "Christopher Jones",
 	"img": "chrisj",
 	"email": "cjone095@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "lyons",
 	"research": "Geochemistry",
 	"websiteURL": "https://sites.google.com/ucr.edu/christopherjones/home"
@@ -456,7 +456,7 @@ exports.default = [{
 	"name": "Alyson Fresquez",
 	"img": "alyson",
 	"email": "afres004@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "lyons",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -464,7 +464,7 @@ exports.default = [{
 	"name": "Daria Pidhorodetska",
 	"img": "",
 	"email": "dpidh001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "schwieterman",
 	"research": "Earth and Planetary Science",
 	"websiteURL": ""
@@ -472,7 +472,7 @@ exports.default = [{
 	"name": "Emilie Simpson",
 	"img": "",
 	"email": "esimp005@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "kane",
 	"research": "Astrobiology",
 	"websiteURL": ""
@@ -480,7 +480,7 @@ exports.default = [{
 	"name": "Evan Marschall",
 	"img": "evanm",
 	"email": "emars009@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "douilly",
 	"research": "Geophysics",
 	"websiteURL": "https://sites.google.com/view/emars009/home"
@@ -488,7 +488,7 @@ exports.default = [{
 	"name": "Heather McCandless",
 	"img": "",
 	"email": "hmcca005@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "droser",
 	"research": "Paleontology",
 	"websiteURL": ""
@@ -496,7 +496,7 @@ exports.default = [{
 	"name": "Lauren Neldner",
 	"img": "laurenn",
 	"email": "lneld001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "funning",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -504,7 +504,7 @@ exports.default = [{
 	"name": "Michaela Leung",
 	"img": "michaela",
 	"email": "mleun019@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "schwieterman",
 	"research": "Earth and Planetary Science",
 	"websiteURL": "https://www.astromichaela.com/"
@@ -512,7 +512,7 @@ exports.default = [{
 	"name": "Sean Jaramillo",
 	"img": "jaramillo",
 	"email": "sjara003@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "brounce",
 	"research": "Petrology",
 	"websiteURL": ""
@@ -520,7 +520,7 @@ exports.default = [{
 	"name": "Xianglin Ren",
 	"img": "",
 	"email": "xren024@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "liu",
 	"research": "Physical Oceanography & Climate Dynamics",
 	"websiteURL": ""
@@ -528,7 +528,7 @@ exports.default = [{
 	"name": "Yijian Zhou",
 	"img": "yijian",
 	"email": "yzhou279@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "ghosh",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -536,7 +536,7 @@ exports.default = [{
 	"name": "Shravya Srivastava",
 	"img": "shravya",
 	"email": "ssriv008@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "hughes",
 	"research": "Paleontology",
 	"websiteURL": "https://sites.google.com/ucr.edu/shavzz/home"
@@ -544,7 +544,7 @@ exports.default = [{
 	"name": "James Gomez",
 	"img": "jamesg",
 	"email": "jgome222@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "allen",
 	"research": "Global Climate & Environmental Change",
 	"websiteURL": "https://sites.google.com/ucr.edu/james-gomez/home"
@@ -552,7 +552,7 @@ exports.default = [{
 	"name": "Sara Scoggins",
 	"img": "saras",
 	"email": "sscog001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "brounce",
 	"research": "Petrology",
 	"websiteURL": "https://sites.google.com/ucr.edu/sara-scoggins/home"
@@ -560,7 +560,7 @@ exports.default = [{
 	"name": "Phillip Boan",
 	"img": "phil_boan",
 	"email": "pboan001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "droser",
 	"research": "Paleontology",
 	"websiteURL": "https://sites.google.com/view/phillip-c-boan/home"
@@ -568,7 +568,7 @@ exports.default = [{
 	"name": "Jordan Cortez",
 	"img": "cortez",
 	"email": "jcort083@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "oglesby",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -576,7 +576,7 @@ exports.default = [{
 	"name": "Saleheh Ebadirad",
 	"img": "ebadirad",
 	"email": "sebad001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "lyons",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -584,7 +584,7 @@ exports.default = [{
 	"name": "Caroline Hung",
 	"img": "hung",
 	"email": "chung041@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "lyons",
 	"research": "Geochemistry",
 	"websiteURL": "https://sites.google.com/ucr.edu/carolinehung"
@@ -592,7 +592,7 @@ exports.default = [{
 	"name": "Francis Alexander Kovalick",
 	"img": "francis_kovalick",
 	"email": "fkova001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "bekker",
 	"research": "Geochemistry",
 	"websiteURL": "https://sites.google.com/view/alex-kovalick"
@@ -600,7 +600,7 @@ exports.default = [{
 	"name": "Hsin-Yu Lee",
 	"img": "hsinyu_2",
 	"email": "hlee423@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "douilly",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -608,7 +608,7 @@ exports.default = [{
 	"name": "Andre Mere",
 	"img": "andre_2",
 	"email": "amere003@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "barth",
 	"research": "Active Tectonics",
 	"websiteURL": ""
@@ -616,7 +616,7 @@ exports.default = [{
 	"name": "Adriana Rizzo",
 	"img": "adriana",
 	"email": "arizz001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "love",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -624,7 +624,7 @@ exports.default = [{
 	"name": "Andrew Birkey",
 	"img": "birkey",
 	"email": "abirk001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Ford",
 	"research": "Geophysics",
 	"websiteURL": "https://sites.google.com/ucr.edu/andrewbirkey/home"
@@ -632,7 +632,7 @@ exports.default = [{
 	"name": "Alma Ceja",
 	"img": "alma_ceja_0",
 	"email": "aceja005@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Kane",
 	"research": "Astrobiology",
 	"websiteURL": "http://almaceja.wixsite.com/almaceja"
@@ -640,7 +640,7 @@ exports.default = [{
 	"name": "Kuntal Chaudhuri",
 	"img": "kuntal_chaudhuri_0",
 	"email": "kchau012@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Ghosh",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -648,7 +648,7 @@ exports.default = [{
 	"name": "Charles Diamond",
 	"img": "charles_diamond_0",
 	"email": "cdiam001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Lyons",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -656,7 +656,7 @@ exports.default = [{
 	"name": "Maria Figueroa",
 	"img": "maria_figueroa",
 	"email": "mfigu012@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Lyons",
 	"research": "Geochemistry",
 	"websiteURL": "https://sites.google.com/a/ucr.edu/mcfigueroa/"
@@ -664,7 +664,7 @@ exports.default = [{
 	"name": "Gillian Goldhagen",
 	"img": "gillian_goldhagen",
 	"email": "ggold002@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Ford",
 	"research": "Geophysics",
 	"websiteURL": "https://sites.google.com/ucr.edu/ggoldhagen"
@@ -672,7 +672,7 @@ exports.default = [{
 	"name": "Mohammad Taufiq Hassan Mozumder",
 	"img": "taufiq_hassan",
 	"email": "mhass004@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Allen",
 	"research": "Global Climate & Environmental Change",
 	"websiteURL": "http://taufiqhassan06.wixsite.com/taufiqhassan06"
@@ -680,7 +680,7 @@ exports.default = [{
 	"name": "Adam Hoffman",
 	"img": "adam_hoffman_0",
 	"email": "ahoff003@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Bekker",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -688,7 +688,7 @@ exports.default = [{
 	"name": "Jin-Bo Hou",
 	"img": "jin_bo_1",
 	"email": "jhou006@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Hughes",
 	"research": "Paleontology",
 	"websiteURL": "https://sites.google.com/a/ucr.edu/hou/"
@@ -696,7 +696,7 @@ exports.default = [{
 	"name": "Jennifer Humphreys",
 	"img": "jennifer_humphreys",
 	"email": "jhump004@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Brounce",
 	"research": "Petrology",
 	"websiteURL": ""
@@ -704,7 +704,7 @@ exports.default = [{
 	"name": "Michelle Hill",
 	"img": "hill",
 	"email": "mhill012@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Kane",
 	"research": "Astrobiology",
 	"websiteURL": ""
@@ -712,7 +712,7 @@ exports.default = [{
 	"name": "Bridget Kelly",
 	"img": "bridget_kelly",
 	"email": "bkell006@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Droser",
 	"research": "Paleontology",
 	"websiteURL": ""
@@ -720,7 +720,7 @@ exports.default = [{
 	"name": "Bridget Lee",
 	"img": "bridget_lee",
 	"email": "blee045@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Lyons",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -728,7 +728,7 @@ exports.default = [{
 	"name": "Shouwei Li",
 	"img": "shouwei_li",
 	"email": "sli227@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Liu",
 	"research": "Physical Oceanography & Climate Dynamics",
 	"websiteURL": ""
@@ -736,7 +736,7 @@ exports.default = [{
 	"name": "Zhexing Li",
 	"img": "zhexing_li",
 	"email": "zli245@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Kane",
 	"research": "Astrobiology",
 	"websiteURL": "https://zhexingli.wixsite.com/zhexingli"
@@ -744,7 +744,7 @@ exports.default = [{
 	"name": "Nicholas Mammone",
 	"img": "nicholas_mammone_0",
 	"email": "nmamm001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Bekker",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -752,7 +752,7 @@ exports.default = [{
 	"name": "Nathan Marshall",
 	"img": "nathan_marshall",
 	"email": "nmars008@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Love",
 	"research": "Geochemistry",
 	"websiteURL": ""
@@ -760,7 +760,7 @@ exports.default = [{
 	"name": "Matthew Mendoza",
 	"img": "matt_mendoza",
 	"email": "mmend028@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Ghosh",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -776,7 +776,7 @@ exports.default = [{
 	"name": "Shankho Niyogi",
 	"img": "shankho_niyogi",
 	"email": "sniyo001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Ghosh",
 	"research": "Geophysics",
 	"websiteURL": ""
@@ -784,7 +784,7 @@ exports.default = [{
 	"name": "Colby Ostberg",
 	"img": "colby_ostberg",
 	"email": "costb001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Kane",
 	"research": "Astrobiology",
 	"websiteURL": "https://colbyostberg.wixsite.com/yourlocalcytherean"
@@ -792,7 +792,7 @@ exports.default = [{
 	"name": "Rachel Surprenant",
 	"img": "surprenant",
 	"email": "rsurp001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Droser",
 	"research": "Paleontology",
 	"websiteURL": "https://sites.google.com/view/surprenant-research/home"
@@ -800,7 +800,7 @@ exports.default = [{
 	"name": "Christopher Tino",
 	"img": "chris_tino_0",
 	"email": "ctino001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Lyons",
 	"research": "Geochemistry",
 	"websiteURL": "https://sites.google.com/ucr.edu/ucr-ctino001/"
@@ -808,7 +808,7 @@ exports.default = [{
 	"name": "Chenyi Tu",
 	"img": "chenyi_tu_0",
 	"email": "ctu017@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Lyons",
 	"research": "Geochemistry",
 	"websiteURL": "https://sites.google.com/view/chenyitu"
@@ -816,7 +816,7 @@ exports.default = [{
 	"name": "Pam Vervoort",
 	"img": "pam_vervoot_0",
 	"email": "pverv001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Turner",
 	"research": "Global Climate & Environmental Change",
 	"websiteURL": "https://sites.google.com/ucr.edu/pamvervoort"
@@ -824,7 +824,7 @@ exports.default = [{
 	"name": "Baoning Wu",
 	"img": "baoning",
 	"email": "bwu015@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Oglesby",
 	"research": "Geophysics",
 	"websiteURL": "https://sites.google.com/ucr.edu/baoningwu"
@@ -832,7 +832,7 @@ exports.default = [{
 	"name": "Xueying Zhao",
 	"img": "xueying_zhao",
 	"email": "xzhao009@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Allen",
 	"research": "Global Climate & Environmental Change",
 	"websiteURL": "https://sites.google.com/view/xueyingzhaoclimate"
@@ -840,7 +840,7 @@ exports.default = [{
 	"name": "Michelle Zill",
 	"img": "michelle_zill",
 	"email": "mzill001@",
-	"program": "GEO",
+	"program": "EPS",
 	"faculty": "Turner",
 	"research": "Global Climate & Environmental Change",
 	"websiteURL": "https://sites.google.com/ucr.edu/michellezill/home"
@@ -1006,7 +1006,7 @@ var agree = function agree(x) {
 var track = function track(selection) {
     var _ref;
 
-    return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'GEO', 'Geological Sciences'), _defineProperty(_ref, 'ECON', 'Environmental Economics'), _defineProperty(_ref, 'EEOB', 'Evolution, Ecology, and Organismal Biology'), _defineProperty(_ref, 'CEE', 'Chemical and Environmental Engineering'), _defineProperty(_ref, 'default', ''), _ref;
+    return _ref = {}, _defineProperty(_ref, 'ENTX', 'Environmental Toxicology'), _defineProperty(_ref, 'ENSC', 'Environmental Sciences'), _defineProperty(_ref, 'EPS', 'Earth and Planetary Sciences'), _defineProperty(_ref, 'ECON', 'Environmental Economics'), _defineProperty(_ref, 'EEOB', 'Evolution, Ecology, and Organismal Biology'), _defineProperty(_ref, 'CEE', 'Chemical and Environmental Engineering'), _defineProperty(_ref, 'default', ''), _ref;
 };
 var Program = choose(track);
 

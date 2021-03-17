@@ -9,7 +9,7 @@ const agree = (x, ...list) => // agree on a fall through set
 const track = selection => ({
     ['ENTX']: 'Environmental Toxicology',
     ['ENSC']: 'Environmental Sciences',
-    ['GEO']: 'Geological Sciences',
+    ['EPS']: 'Earth and Planetary Sciences',
     ['ECON']: 'Environmental Economics',
     ['EEOB']: 'Evolution, Ecology, and Organismal Biology',
 	['CEE']: 'Chemical and Environmental Engineering',
