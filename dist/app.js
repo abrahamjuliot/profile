@@ -579,7 +579,7 @@ exports.default = [{
 	"program": "EPS",
 	"faculty": "lyons",
 	"research": "Geochemistry",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/sally/home"
 }, {
 	"name": "Caroline Hung",
 	"img": "hung",
