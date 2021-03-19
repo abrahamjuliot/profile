@@ -25,7 +25,6 @@ exports.default = [{
 	"img": "",
 	"email": "mhope003@",
 	"program": "ENSC",
-	"faculty": "volz",
 	"research": "",
 	"websiteURL": ""
 }, {
