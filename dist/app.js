@@ -475,7 +475,7 @@ exports.default = [{
 	"program": "EPS",
 	"faculty": "kane",
 	"research": "Astrobiology",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/emilie-simpson-research-home/home"
 }, {
 	"name": "Evan Marschall",
 	"img": "evanm",
@@ -515,7 +515,7 @@ exports.default = [{
 	"program": "EPS",
 	"faculty": "brounce",
 	"research": "Petrology",
-	"websiteURL": ""
+	"websiteURL": "https://sites.google.com/ucr.edu/sean-jaramillo/home"
 }, {
 	"name": "Xianglin Ren",
 	"img": "",
