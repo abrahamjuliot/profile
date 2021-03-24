@@ -324,15 +324,6 @@ export default [
 		"websiteURL": "https://sites.google.com/ucr.edu/michaelrodriguez"
 	},
 	{
-		"name": "Aalekhya Reddam",
-		"img": "aalekhya_reddam",
-		"email": "aredd006@",
-		"program": "ENTX",
-		"faculty": "volz",
-		"research": "Human exposure and developmental effects of organophosphate esters",
-		"websiteURL": ""
-	},
-	{
 		"name": "Talha Rafiq",
 		"img": "talha",
 		"email": "trafi001@",
