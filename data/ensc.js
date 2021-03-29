@@ -72,15 +72,6 @@ export default [
 		"websiteURL": "https://sites.google.com/ucr.edu/zahraamiri"
 	},
 	{
-		"name": "Khadeejah Sani",
-		"img": "",
-		"email": "ksani001@",
-		"program": "CEE",
-		"faculty": "haghverdi",
-		"research": "",
-		"websiteURL": ""
-	},
-	{
 		"name": "Jean Claude Iradukunda",
 		"img": "jeanci",
 		"email": "jirad001@",
