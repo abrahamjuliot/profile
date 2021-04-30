@@ -157,7 +157,7 @@ exports.default = [{
 	"research": "",
 	"websiteURL": ""
 }, {
-	"name": "Simmi Simmi",
+	"name": "Simmi",
 	"img": "simmi",
 	"email": "fsimm001@",
 	"program": "ENSC",
