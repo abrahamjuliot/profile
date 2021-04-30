@@ -165,7 +165,7 @@ export default [
 		"name": "Hossein Pazooki",
 		"img": "",
 		"email": "hpazo001@",
-		"program": "ENSC",
+		"program": "CEE",
 		"faculty": "bahreini",
 		"research": "",
 		"websiteURL": ""
