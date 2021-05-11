@@ -108,13 +108,13 @@ export default [
 		"websiteURL": ""
 	},
 	{
-		"name": "Aleksandra Karapetrova",
-		"img": "",
+		"name": "Sasha Karapetrova",
+		"img": "sasha",
 		"email": "akara032@",
 		"program": "ENTX",
 		"faculty": "gan",
-		"research": "",
-		"websiteURL": ""
+		"research": "Sasha (she/they) is from Chicago, Illinois and graduated Pomona College with a B.A. in Molecular Biology and a minor in Russian and Eastern European Studies. Her current research focus is studying microplastics in terrestrial ecosystems.",
+		"websiteURL": "https://aleksandrakarapetrova.org/research/"
 	},
 	{
 		"name": "Kunpeng Chen",
