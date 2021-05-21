@@ -669,14 +669,6 @@ exports.default = [{
 	"research": "Geochemistry",
 	"websiteURL": ""
 }, {
-	"name": "Jin-Bo Hou",
-	"img": "jin_bo_1",
-	"email": "jhou006@",
-	"program": "EPS",
-	"faculty": "Hughes",
-	"research": "Paleontology",
-	"websiteURL": "https://sites.google.com/a/ucr.edu/hou/"
-}, {
 	"name": "Jennifer Humphreys",
 	"img": "jennifer_humphreys",
 	"email": "jhump004@",
