@@ -144,15 +144,6 @@ export default [
 		"websiteURL": ""
 	},
 	{
-		"name": "Banafsheh Nematollahi",
-		"img": "banafsheh",
-		"email": "bnema001@",
-		"program": "ENSC",
-		"faculty": "",
-		"research": "",
-		"websiteURL": "https://sites.google.com/ucr.edu/banafsheh-nematollahi/home"
-	},
-	{
 		"name": "Nilofar Raeofy",
 		"img": "",
 		"email": "nraeo001@",
