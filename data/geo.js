@@ -333,15 +333,6 @@ export default [
 		"websiteURL": "https://zhexingli.wixsite.com/zhexingli"
 	},
 	{
-		"name": "Nicholas Mammone",
-		"img": "nicholas_mammone_0",
-		"email": "nmamm001@",
-		"program": "EPS",
-		"faculty": "Bekker",
-		"research": "Geochemistry",
-		"websiteURL": ""
-	},
-	{
 		"name": "Nathan Marshall",
 		"img": "nathan_marshall",
 		"email": "nmars008@",
