@@ -685,14 +685,6 @@ exports.default = [{
 	"research": "Paleontology",
 	"websiteURL": ""
 }, {
-	"name": "Bridget Lee",
-	"img": "bridget_lee",
-	"email": "blee045@",
-	"program": "EPS",
-	"faculty": "Lyons",
-	"research": "Geochemistry",
-	"websiteURL": ""
-}, {
 	"name": "Shouwei Li",
 	"img": "shouwei_li",
 	"email": "sli227@",
