@@ -1,5 +1,14 @@
 export default [
 	{
+		"name": "Karlee Rivera",
+		"img": "",
+		"email": "krive050@",
+		"program": "EPS",
+		"faculty": "funning",
+		"research": "Geophysics",
+		"websiteURL": ""
+	},
+	{
 		"name": "Beth Shallon",
 		"img": "",
 		"email": "bshal002@",

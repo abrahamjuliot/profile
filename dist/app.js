@@ -5,14 +5,6 @@ Object.defineProperty(exports, "__esModule", {
 	value: true
 });
 exports.default = [{
-	"name": "Yuhua Xiong",
-	"img": "xiong_yuhua",
-	"email": "yxion002@",
-	"program": "ECON",
-	"faculty": "schwabe",
-	"research": "Researching water economics and computational economics",
-	"websiteURL": ""
-}, {
 	"name": "Jiani Yang",
 	"img": "",
 	"email": "jyang417@",
@@ -132,14 +124,6 @@ exports.default = [{
 	"faculty": "ajami",
 	"research": "",
 	"websiteURL": ""
-}, {
-	"name": "Nilofar Raeofy",
-	"img": "",
-	"email": "nraeo001@",
-	"program": "ENSC",
-	"faculty": "bahreini",
-	"research": "",
-	"websiteURL": "https://sites.google.com/ucr.edu/nil/home"
 }, {
 	"name": "Hossein Pazooki",
 	"img": "",
@@ -293,22 +277,6 @@ exports.default = [{
 	"research": "",
 	"websiteURL": "https://sites.google.com/ucr.edu/myn"
 }, {
-	"name": "Victoria McGruer",
-	"img": "mcgruer_victoria",
-	"email": "vmcgr001@",
-	"program": "ENTX",
-	"faculty": "schlenk",
-	"research": "Aquatic ecotoxicology",
-	"websiteURL": ""
-}, {
-	"name": "Sarah Helalia",
-	"img": "helalia_sarah",
-	"email": "shela001@",
-	"program": "ENSC",
-	"faculty": "simunek",
-	"research": "Modifying a model of plant-soil parameters which elucidate their impacts on the vadose zone water and N balance",
-	"websiteURL": ""
-}, {
 	"name": "James Guilinger",
 	"img": "guilinger_jimmy",
 	"email": "jguil009@",
@@ -357,14 +325,6 @@ exports.default = [{
 	"research": "Investigating Peroxisome Proliferator-Activated Receptor Gamma (PPARg): A Potential Target for Xenobiotics During Early Embryonic Development.",
 	"websiteURL": ""
 }, {
-	"name": "Jin Chen",
-	"img": "chen_jin",
-	"email": "jchen137@",
-	"program": "ENTX",
-	"faculty": "lin",
-	"research": "",
-	"websiteURL": ""
-}, {
 	"name": "Valerie Carranza",
 	"img": "valerie_carranza_1",
 	"email": "vcarr007@",
@@ -389,14 +349,6 @@ exports.default = [{
 	"research": "Investigating the oxidation of chromium in the presence of manganese and iron oxides",
 	"websiteURL": ""
 }, {
-	"name": "C M Sabbir Ahmed",
-	"img": "ahmed_sabbir",
-	"email": "cahme002@",
-	"program": "ENTX",
-	"faculty": "lin",
-	"research": "Toxicogenomics of Human Lung Cell Lines; Study of Atmospheric Particulate Matter (PM2.5) and Their Health Effects",
-	"websiteURL": ""
-}, {
 	"name": "Qingyang Shi",
 	"img": "qingyang",
 	"email": "qshi013@",
@@ -413,6 +365,14 @@ Object.defineProperty(exports, "__esModule", {
 	value: true
 });
 exports.default = [{
+	"name": "Karlee Rivera",
+	"img": "",
+	"email": "krive050@",
+	"program": "EPS",
+	"faculty": "funning",
+	"research": "Geophysics",
+	"websiteURL": ""
+}, {
 	"name": "Beth Shallon",
 	"img": "",
 	"email": "bshal002@",
