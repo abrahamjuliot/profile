@@ -62,7 +62,7 @@ exports.default = [{
 	"websiteURL": "https://sites.google.com/ucr.edu/amd"
 }, {
 	"name": "Zahra Amiri",
-	"img": "",
+	"img": "zahra_amiri",
 	"email": "zamir002@",
 	"program": "ENSC",
 	"faculty": "haghverdi",
@@ -339,14 +339,6 @@ exports.default = [{
 	"program": "ENSC",
 	"faculty": "hopkins",
 	"research": "Trace gas emissions",
-	"websiteURL": ""
-}, {
-	"name": "Claudia Avila",
-	"img": "avila_claudia_0",
-	"email": "cmari009@",
-	"program": "ENSC",
-	"faculty": "ying",
-	"research": "Investigating trace metal distribution, mobilization, and carbon turnover in urban agricultural soils",
 	"websiteURL": ""
 }, {
 	"name": "Miranda Aiken",

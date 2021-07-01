@@ -64,7 +64,7 @@ export default [
 	},
 	{
 		"name": "Zahra Amiri",
-		"img": "",
+		"img": "zahra_amiri",
 		"email": "zamir002@",
 		"program": "ENSC",
 		"faculty": "haghverdi",
@@ -375,15 +375,6 @@ export default [
 		"program": "ENSC",
 		"faculty": "hopkins",
 		"research": "Trace gas emissions",
-		"websiteURL": ""
-	},
-	{
-		"name": "Claudia Avila",
-		"img": "avila_claudia_0",
-		"email": "cmari009@",
-		"program": "ENSC",
-		"faculty": "ying",
-		"research": "Investigating trace metal distribution, mobilization, and carbon turnover in urban agricultural soils",
 		"websiteURL": ""
 	},
 	{
