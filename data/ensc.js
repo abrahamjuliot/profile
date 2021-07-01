@@ -68,7 +68,7 @@ export default [
 		"email": "zamir002@",
 		"program": "ENSC",
 		"faculty": "haghverdi",
-		"research": "",
+		"research": "Soil, water and crop modeling",
 		"websiteURL": "https://sites.google.com/ucr.edu/zahraamiri"
 	},
 	{
