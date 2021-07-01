@@ -5,6 +5,14 @@ Object.defineProperty(exports, "__esModule", {
 	value: true
 });
 exports.default = [{
+	"name": "Yuhua Xiong",
+	"img": "xiong_yuhua",
+	"email": "yxion002@",
+	"program": "ECON",
+	"faculty": "schwabe",
+	"research": "Researching water economics and computational economics",
+	"websiteURL": ""
+}, {
 	"name": "Jiani Yang",
 	"img": "",
 	"email": "jyang417@",
