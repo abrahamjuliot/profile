@@ -22,7 +22,7 @@ export default [
 		"img": "",
 		"email": "mhope003@",
 		"program": "ENSC",
-		"faculty": "",
+		"faculty": "ying",
 		"research": "",
 		"websiteURL": ""
 	},
