@@ -171,15 +171,6 @@ export default [
 		"websiteURL": "https://sites.google.com/ucr.edu/samiksha-singh/home"
 	},
 	{
-		"name": "Yuhua Situ",
-		"img": "",
-		"email": "ysitu005@",
-		"program": "ENSC",
-		"faculty": "li",
-		"research": "",
-		"websiteURL": "https://sites.google.com/ucr.edu/situ"
-	},
-	{
 		"name": "Elizah Stephens",
 		"img": "",
 		"email": "estep007@",
