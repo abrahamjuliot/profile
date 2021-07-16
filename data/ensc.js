@@ -9,15 +9,6 @@ export default [
 		"websiteURL": ""
 	},
 	{
-		"name": "Jiani Yang",
-		"img": "",
-		"email": "jyang417@",
-		"program": "ENSC",
-		"faculty": "li",
-		"research": "",
-		"websiteURL": ""
-	},
-	{
 		"name": "Monica Hope",
 		"img": "",
 		"email": "mhope003@",

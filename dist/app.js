@@ -13,14 +13,6 @@ exports.default = [{
 	"research": "Researching water economics and computational economics",
 	"websiteURL": ""
 }, {
-	"name": "Jiani Yang",
-	"img": "",
-	"email": "jyang417@",
-	"program": "ENSC",
-	"faculty": "li",
-	"research": "",
-	"websiteURL": ""
-}, {
 	"name": "Monica Hope",
 	"img": "",
 	"email": "mhope003@",
@@ -156,14 +148,6 @@ exports.default = [{
 	"faculty": "gray",
 	"research": "",
 	"websiteURL": "https://sites.google.com/ucr.edu/samiksha-singh/home"
-}, {
-	"name": "Yuhua Situ",
-	"img": "",
-	"email": "ysitu005@",
-	"program": "ENSC",
-	"faculty": "li",
-	"research": "",
-	"websiteURL": "https://sites.google.com/ucr.edu/situ"
 }, {
 	"name": "Elizah Stephens",
 	"img": "",
